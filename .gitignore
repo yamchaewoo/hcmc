@@ -1,0 +1,12 @@
+# 한컴 도움말 원본 추출본 (31MB, 한컴 저작물) — 라벨 작업용 중간 산출물이라 배포하지 않음
+raw/chm/
+
+# 한/글 바이너리에서 뽑은 원시 문자열 덤프 (재생성 가능한 중간 산출물)
+raw/candidates.txt
+raw/candidates_filtered.txt
+raw/validate_progress.tsv
+raw/validate_current.txt
+raw/hanging_ids.txt
+
+__pycache__/
+*.pyc

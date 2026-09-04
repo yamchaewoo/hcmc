@@ -1,0 +1,7230 @@
+{
+ "ACreateSchema": {
+  "actID": "ACreateSchema",
+  "setID": "XMLSchema"
+ },
+ "AIBullet": {
+  "actID": "AIBullet",
+  "setID": "AICommand"
+ },
+ "AICellMargin": {
+  "actID": "AICellMargin",
+  "setID": ""
+ },
+ "AICommand": {
+  "actID": "AICommand",
+  "setID": "AICommand"
+ },
+ "AIInsertPicture": {
+  "actID": "AIInsertPicture",
+  "setID": "AICommand"
+ },
+ "AIMoneyFormat": {
+  "actID": "AIMoneyFormat",
+  "setID": ""
+ },
+ "AINumFormat": {
+  "actID": "AINumFormat",
+  "setID": "AICommand"
+ },
+ "AISpacing": {
+  "actID": "AISpacing",
+  "setID": ""
+ },
+ "ALoadUserInfoFile": {
+  "actID": "ALoadUserInfoFile",
+  "setID": "LoadUserInfoFile"
+ },
+ "AOpenXMLDoc": {
+  "actID": "AOpenXMLDoc",
+  "setID": "XMLOpenSave"
+ },
+ "AQcommandMerge": {
+  "actID": "AQcommandMerge",
+  "setID": "UserQCommandFile"
+ },
+ "ASaveBlockAction": {
+  "actID": "ASaveBlockAction",
+  "setID": "FileSaveBlock"
+ },
+ "ASaveUserInfoFile": {
+  "actID": "ASaveUserInfoFile",
+  "setID": "SaveUserInfoFile"
+ },
+ "ASaveXMLDoc": {
+  "actID": "ASaveXMLDoc",
+  "setID": "XMLOpenSave"
+ },
+ "Ad3": {
+  "actID": "Ad3",
+  "setID": ""
+ },
+ "AddDataLabel": {
+  "actID": "AddDataLabel",
+  "setID": ""
+ },
+ "AddFieldBibliography": {
+  "actID": "AddFieldBibliography",
+  "setID": "Bibliography"
+ },
+ "AddHanjaWord": {
+  "actID": "AddHanjaWord",
+  "setID": "AddHanjaWord"
+ },
+ "AddMajorGridlines": {
+  "actID": "AddMajorGridlines",
+  "setID": ""
+ },
+ "AddMinorGridLines": {
+  "actID": "AddMinorGridLines",
+  "setID": ""
+ },
+ "AllReplace": {
+  "actID": "AllReplace",
+  "setID": "FindReplace"
+ },
+ "ArrowStyle": {
+  "actID": "ArrowStyle",
+  "setID": ""
+ },
+ "AskDRM": {
+  "actID": "AskDRM",
+  "setID": "DocDRM"
+ },
+ "Au3": {
+  "actID": "Au3",
+  "setID": "SpellingCheck"
+ },
+ "Au9": {
+  "actID": "Au9",
+  "setID": "SpellingCheck"
+ },
+ "AutoChangeHangul": {
+  "actID": "AutoChangeHangul",
+  "setID": ""
+ },
+ "AutoChangeRun": {
+  "actID": "AutoChangeRun",
+  "setID": ""
+ },
+ "AutoUpdate": {
+  "actID": "AutoUpdate",
+  "setID": ""
+ },
+ "Average": {
+  "actID": "Average",
+  "setID": "Sum"
+ },
+ "BackwardFind": {
+  "actID": "BackwardFind",
+  "setID": "FindReplace"
+ },
+ "Bookmark": {
+  "actID": "Bookmark",
+  "setID": "BookMark"
+ },
+ "BookmarkEditDialog": {
+  "actID": "BookmarkEditDialog",
+  "setID": "BookMark"
+ },
+ "BottomTabFrameClose": {
+  "actID": "BottomTabFrameClose",
+  "setID": ""
+ },
+ "BreakColDef": {
+  "actID": "BreakColDef",
+  "setID": ""
+ },
+ "BreakColumn": {
+  "actID": "BreakColumn",
+  "setID": ""
+ },
+ "BreakLine": {
+  "actID": "BreakLine",
+  "setID": ""
+ },
+ "BreakPage": {
+  "actID": "BreakPage",
+  "setID": ""
+ },
+ "BreakPara": {
+  "actID": "BreakPara",
+  "setID": ""
+ },
+ "BreakSection": {
+  "actID": "BreakSection",
+  "setID": ""
+ },
+ "BulletDlg": {
+  "actID": "BulletDlg",
+  "setID": "ParaShape"
+ },
+ "CallPDFConverter": {
+  "actID": "CallPDFConverter",
+  "setID": ""
+ },
+ "Cancel": {
+  "actID": "Cancel",
+  "setID": ""
+ },
+ "CancelSelection": {
+  "actID": "CancelSelection",
+  "setID": ""
+ },
+ "CaptionPosBottom": {
+  "actID": "CaptionPosBottom",
+  "setID": "ShapeObject"
+ },
+ "CaptionPosLeftBottom": {
+  "actID": "CaptionPosLeftBottom",
+  "setID": "ShapeObject"
+ },
+ "CaptionPosLeftCenter": {
+  "actID": "CaptionPosLeftCenter",
+  "setID": "ShapeObject"
+ },
+ "CaptionPosLeftTop": {
+  "actID": "CaptionPosLeftTop",
+  "setID": "ShapeObject"
+ },
+ "CaptionPosRightBottom": {
+  "actID": "CaptionPosRightBottom",
+  "setID": "ShapeObject"
+ },
+ "CaptionPosRightCenter": {
+  "actID": "CaptionPosRightCenter",
+  "setID": "ShapeObject"
+ },
+ "CaptionPosRightTop": {
+  "actID": "CaptionPosRightTop",
+  "setID": "ShapeObject"
+ },
+ "CaptionPosTop": {
+  "actID": "CaptionPosTop",
+  "setID": "ShapeObject"
+ },
+ "CaptureDialog": {
+  "actID": "CaptureDialog",
+  "setID": ""
+ },
+ "CaptureHandler": {
+  "actID": "CaptureHandler",
+  "setID": ""
+ },
+ "CellBorder": {
+  "actID": "CellBorder",
+  "setID": "CellBorderFill"
+ },
+ "CellBorderFill": {
+  "actID": "CellBorderFill",
+  "setID": "CellBorderFill"
+ },
+ "CellFill": {
+  "actID": "CellFill",
+  "setID": "CellBorderFill"
+ },
+ "CellZoneBorder": {
+  "actID": "CellZoneBorder",
+  "setID": "CellBorderFill"
+ },
+ "CellZoneBorderFill": {
+  "actID": "CellZoneBorderFill",
+  "setID": "CellBorderFill"
+ },
+ "CellZoneFill": {
+  "actID": "CellZoneFill",
+  "setID": "CellBorderFill"
+ },
+ "CertLoadEnc": {
+  "actID": "CertLoadEnc",
+  "setID": "XSecurity"
+ },
+ "CertSigValidate": {
+  "actID": "CertSigValidate",
+  "setID": "XSecurity"
+ },
+ "CertificateUser": {
+  "actID": "CertificateUser",
+  "setID": "XSecurity"
+ },
+ "ChangeChart": {
+  "actID": "ChangeChart",
+  "setID": "ChartObjShape"
+ },
+ "ChangeImageFileExtension": {
+  "actID": "ChangeImageFileExtension",
+  "setID": "SummaryInfo"
+ },
+ "ChangeObject": {
+  "actID": "ChangeObject",
+  "setID": "ShapeObject"
+ },
+ "ChangeRome": {
+  "actID": "ChangeRome",
+  "setID": "ChangeRome"
+ },
+ "ChangeRomeToAddress": {
+  "actID": "ChangeRomeToAddress",
+  "setID": "ChangeRome"
+ },
+ "ChangeRomeToGeneral": {
+  "actID": "ChangeRomeToGeneral",
+  "setID": "ChangeRome"
+ },
+ "ChangeRomeToHangul": {
+  "actID": "ChangeRomeToHangul",
+  "setID": "ChangeRome"
+ },
+ "ChangeRomeToName": {
+  "actID": "ChangeRomeToName",
+  "setID": "ChangeRome"
+ },
+ "ChangeSkin": {
+  "actID": "ChangeSkin",
+  "setID": ""
+ },
+ "CharShape": {
+  "actID": "CharShape",
+  "setID": "CharShape"
+ },
+ "CharShapeBold": {
+  "actID": "CharShapeBold",
+  "setID": ""
+ },
+ "CharShapeCenterline": {
+  "actID": "CharShapeCenterline",
+  "setID": ""
+ },
+ "CharShapeDialog": {
+  "actID": "CharShapeDialog",
+  "setID": "CharShape"
+ },
+ "CharShapeDialogWithoutBorder": {
+  "actID": "CharShapeDialogWithoutBorder",
+  "setID": "CharShape"
+ },
+ "CharShapeEmboss": {
+  "actID": "CharShapeEmboss",
+  "setID": ""
+ },
+ "CharShapeEngrave": {
+  "actID": "CharShapeEngrave",
+  "setID": ""
+ },
+ "CharShapeHeight": {
+  "actID": "CharShapeHeight",
+  "setID": ""
+ },
+ "CharShapeHeightDecrease": {
+  "actID": "CharShapeHeightDecrease",
+  "setID": ""
+ },
+ "CharShapeHeightIncrease": {
+  "actID": "CharShapeHeightIncrease",
+  "setID": ""
+ },
+ "CharShapeHeightSpin": {
+  "actID": "CharShapeHeightSpin",
+  "setID": ""
+ },
+ "CharShapeItalic": {
+  "actID": "CharShapeItalic",
+  "setID": ""
+ },
+ "CharShapeLang": {
+  "actID": "CharShapeLang",
+  "setID": ""
+ },
+ "CharShapeNextFaceName": {
+  "actID": "CharShapeNextFaceName",
+  "setID": ""
+ },
+ "CharShapeNormal": {
+  "actID": "CharShapeNormal",
+  "setID": ""
+ },
+ "CharShapeOutline": {
+  "actID": "CharShapeOutline",
+  "setID": ""
+ },
+ "CharShapePrevFaceName": {
+  "actID": "CharShapePrevFaceName",
+  "setID": ""
+ },
+ "CharShapeShadow": {
+  "actID": "CharShapeShadow",
+  "setID": ""
+ },
+ "CharShapeSpacing": {
+  "actID": "CharShapeSpacing",
+  "setID": ""
+ },
+ "CharShapeSpacingDecrease": {
+  "actID": "CharShapeSpacingDecrease",
+  "setID": ""
+ },
+ "CharShapeSpacingIncrease": {
+  "actID": "CharShapeSpacingIncrease",
+  "setID": ""
+ },
+ "CharShapeStrikeOutColor": {
+  "actID": "CharShapeStrikeOutColor",
+  "setID": ""
+ },
+ "CharShapeStrikeout": {
+  "actID": "CharShapeStrikeout",
+  "setID": ""
+ },
+ "CharShapeSubscript": {
+  "actID": "CharShapeSubscript",
+  "setID": ""
+ },
+ "CharShapeSuperSubscript": {
+  "actID": "CharShapeSuperSubscript",
+  "setID": ""
+ },
+ "CharShapeSuperscript": {
+  "actID": "CharShapeSuperscript",
+  "setID": ""
+ },
+ "CharShapeTBTitle": {
+  "actID": "CharShapeTBTitle",
+  "setID": "CharShape"
+ },
+ "CharShapeTextColorBlack": {
+  "actID": "CharShapeTextColorBlack",
+  "setID": "CharShape"
+ },
+ "CharShapeTextColorBlue": {
+  "actID": "CharShapeTextColorBlue",
+  "setID": "CharShape"
+ },
+ "CharShapeTextColorBluish": {
+  "actID": "CharShapeTextColorBluish",
+  "setID": "CharShape"
+ },
+ "CharShapeTextColorGreen": {
+  "actID": "CharShapeTextColorGreen",
+  "setID": "CharShape"
+ },
+ "CharShapeTextColorRed": {
+  "actID": "CharShapeTextColorRed",
+  "setID": "CharShape"
+ },
+ "CharShapeTextColorViolet": {
+  "actID": "CharShapeTextColorViolet",
+  "setID": "CharShape"
+ },
+ "CharShapeTextColorWhite": {
+  "actID": "CharShapeTextColorWhite",
+  "setID": "CharShape"
+ },
+ "CharShapeTextColorYellow": {
+  "actID": "CharShapeTextColorYellow",
+  "setID": "CharShape"
+ },
+ "CharShapeTypeFace": {
+  "actID": "CharShapeTypeFace",
+  "setID": ""
+ },
+ "CharShapeUnderline": {
+  "actID": "CharShapeUnderline",
+  "setID": ""
+ },
+ "CharShapeUnderlineColor": {
+  "actID": "CharShapeUnderlineColor",
+  "setID": ""
+ },
+ "CharShapeWidth": {
+  "actID": "CharShapeWidth",
+  "setID": ""
+ },
+ "CharShapeWidthDecrease": {
+  "actID": "CharShapeWidthDecrease",
+  "setID": ""
+ },
+ "CharShapeWidthIncrease": {
+  "actID": "CharShapeWidthIncrease",
+  "setID": ""
+ },
+ "Chart3DProperty": {
+  "actID": "Chart3DProperty",
+  "setID": ""
+ },
+ "ChartAddCategory": {
+  "actID": "ChartAddCategory",
+  "setID": ""
+ },
+ "ChartAddSeries": {
+  "actID": "ChartAddSeries",
+  "setID": ""
+ },
+ "ChartAxisProperty": {
+  "actID": "ChartAxisProperty",
+  "setID": ""
+ },
+ "ChartChangeYValue": {
+  "actID": "ChartChangeYValue",
+  "setID": ""
+ },
+ "ChartDataLabelProperty": {
+  "actID": "ChartDataLabelProperty",
+  "setID": ""
+ },
+ "ChartDelSeries": {
+  "actID": "ChartDelSeries",
+  "setID": ""
+ },
+ "ChartDelete": {
+  "actID": "ChartDelete",
+  "setID": ""
+ },
+ "ChartFillAuto": {
+  "actID": "ChartFillAuto",
+  "setID": ""
+ },
+ "ChartLayoutList": {
+  "actID": "ChartLayoutList",
+  "setID": "ChartObjShape"
+ },
+ "ChartLegendProperty": {
+  "actID": "ChartLegendProperty",
+  "setID": ""
+ },
+ "ChartLineAuto": {
+  "actID": "ChartLineAuto",
+  "setID": ""
+ },
+ "ChartSeriesColorList": {
+  "actID": "ChartSeriesColorList",
+  "setID": "ChartObjShape"
+ },
+ "ChartSeriesProperty": {
+  "actID": "ChartSeriesProperty",
+  "setID": ""
+ },
+ "ChartStyleList": {
+  "actID": "ChartStyleList",
+  "setID": "ChartObjShape"
+ },
+ "ChartTextEdit": {
+  "actID": "ChartTextEdit",
+  "setID": ""
+ },
+ "ChartTextProperty": {
+  "actID": "ChartTextProperty",
+  "setID": "ShapeObject"
+ },
+ "Close": {
+  "actID": "Close",
+  "setID": ""
+ },
+ "CloseEx": {
+  "actID": "CloseEx",
+  "setID": ""
+ },
+ "ClosePrivateInfoDlg": {
+  "actID": "ClosePrivateInfoDlg",
+  "setID": ""
+ },
+ "Comment": {
+  "actID": "Comment",
+  "setID": ""
+ },
+ "CommentDelete": {
+  "actID": "CommentDelete",
+  "setID": ""
+ },
+ "CommentModify": {
+  "actID": "CommentModify",
+  "setID": ""
+ },
+ "CompatibleDocument": {
+  "actID": "CompatibleDocument",
+  "setID": "CompatibleDocument"
+ },
+ "ComposeChars": {
+  "actID": "ComposeChars",
+  "setID": "ChCompose"
+ },
+ "ComposeCharsEdit": {
+  "actID": "ComposeCharsEdit",
+  "setID": "ChCompose"
+ },
+ "ContinueToDrawShapes": {
+  "actID": "ContinueToDrawShapes",
+  "setID": ""
+ },
+ "ConvertBrailleSetting": {
+  "actID": "ConvertBrailleSetting",
+  "setID": "BrailleConvert"
+ },
+ "ConvertCase": {
+  "actID": "ConvertCase",
+  "setID": "ConvertCase"
+ },
+ "ConvertFullHalfWidth": {
+  "actID": "ConvertFullHalfWidth",
+  "setID": "ConvertFullHalf"
+ },
+ "ConvertHiraGata": {
+  "actID": "ConvertHiraGata",
+  "setID": "ConvertHiraToGata"
+ },
+ "ConvertJianFan": {
+  "actID": "ConvertJianFan",
+  "setID": "ConvertJianFan"
+ },
+ "ConvertOptGugyulToHangul": {
+  "actID": "ConvertOptGugyulToHangul",
+  "setID": "ConvertToHangul"
+ },
+ "ConvertOptHanjaToHangul": {
+  "actID": "ConvertOptHanjaToHangul",
+  "setID": "ConvertToHangul"
+ },
+ "ConvertOptHanjaToHanjaHangul": {
+  "actID": "ConvertOptHanjaToHanjaHangul",
+  "setID": "ConvertToHangul"
+ },
+ "ConvertToBraille": {
+  "actID": "ConvertToBraille",
+  "setID": "BrailleConvert"
+ },
+ "ConvertToBrailleSelected": {
+  "actID": "ConvertToBrailleSelected",
+  "setID": "BrailleConvert"
+ },
+ "ConvertToHangul": {
+  "actID": "ConvertToHangul",
+  "setID": "ConvertToHangul"
+ },
+ "ConvertToHangulEx": {
+  "actID": "ConvertToHangulEx",
+  "setID": "ConvertToHangul"
+ },
+ "Copy": {
+  "actID": "Copy",
+  "setID": "SelectionOpt"
+ },
+ "CopyPage": {
+  "actID": "CopyPage",
+  "setID": ""
+ },
+ "CreatePluginNew": {
+  "actID": "CreatePluginNew",
+  "setID": "PluginCreation"
+ },
+ "CustCopyBtn": {
+  "actID": "CustCopyBtn",
+  "setID": ""
+ },
+ "CustCutBtn": {
+  "actID": "CustCutBtn",
+  "setID": ""
+ },
+ "CustEraseBtn": {
+  "actID": "CustEraseBtn",
+  "setID": ""
+ },
+ "CustInsSepBtn": {
+  "actID": "CustInsSepBtn",
+  "setID": ""
+ },
+ "CustPasteBtn": {
+  "actID": "CustPasteBtn",
+  "setID": ""
+ },
+ "CustRenameBtn": {
+  "actID": "CustRenameBtn",
+  "setID": ""
+ },
+ "CustRestBtn": {
+  "actID": "CustRestBtn",
+  "setID": ""
+ },
+ "CustViewIconBtn": {
+  "actID": "CustViewIconBtn",
+  "setID": ""
+ },
+ "CustViewIconNameBtn": {
+  "actID": "CustViewIconNameBtn",
+  "setID": ""
+ },
+ "CustViewNameBtn": {
+  "actID": "CustViewNameBtn",
+  "setID": ""
+ },
+ "CustomizeTheme": {
+  "actID": "CustomizeTheme",
+  "setID": ""
+ },
+ "CustomizeToolbar": {
+  "actID": "CustomizeToolbar",
+  "setID": ""
+ },
+ "Cut": {
+  "actID": "Cut",
+  "setID": "SelectionOpt"
+ },
+ "DataLabelsCenter": {
+  "actID": "DataLabelsCenter",
+  "setID": ""
+ },
+ "DataLabelsNone": {
+  "actID": "DataLabelsNone",
+  "setID": ""
+ },
+ "Delete": {
+  "actID": "Delete",
+  "setID": ""
+ },
+ "DeleteBack": {
+  "actID": "DeleteBack",
+  "setID": ""
+ },
+ "DeleteCtrls": {
+  "actID": "DeleteCtrls",
+  "setID": "DeleteCtrls"
+ },
+ "DeleteDocumentMasterPage": {
+  "actID": "DeleteDocumentMasterPage",
+  "setID": ""
+ },
+ "DeleteDutmal": {
+  "actID": "DeleteDutmal",
+  "setID": ""
+ },
+ "DeleteField": {
+  "actID": "DeleteField",
+  "setID": ""
+ },
+ "DeleteFieldMemo": {
+  "actID": "DeleteFieldMemo",
+  "setID": ""
+ },
+ "DeleteHyperlink": {
+  "actID": "DeleteHyperlink",
+  "setID": ""
+ },
+ "DeleteLine": {
+  "actID": "DeleteLine",
+  "setID": ""
+ },
+ "DeleteLineEnd": {
+  "actID": "DeleteLineEnd",
+  "setID": ""
+ },
+ "DeletePage": {
+  "actID": "DeletePage",
+  "setID": "DeletePage"
+ },
+ "DeletePrivateInfoMark": {
+  "actID": "DeletePrivateInfoMark",
+  "setID": ""
+ },
+ "DeletePrivateInfoMarkAtCurrentPos": {
+  "actID": "DeletePrivateInfoMarkAtCurrentPos",
+  "setID": ""
+ },
+ "DeleteSectionMasterPage": {
+  "actID": "DeleteSectionMasterPage",
+  "setID": ""
+ },
+ "DeleteWord": {
+  "actID": "DeleteWord",
+  "setID": ""
+ },
+ "DeleteWordBack": {
+  "actID": "DeleteWordBack",
+  "setID": ""
+ },
+ "DocAuthHistory": {
+  "actID": "DocAuthHistory",
+  "setID": ""
+ },
+ "DocAuthRegister": {
+  "actID": "DocAuthRegister",
+  "setID": ""
+ },
+ "DocAuthUpdate": {
+  "actID": "DocAuthUpdate",
+  "setID": ""
+ },
+ "DocFindEnd": {
+  "actID": "DocFindEnd",
+  "setID": "FindReplace"
+ },
+ "DocFindInit": {
+  "actID": "DocFindInit",
+  "setID": "FindReplace"
+ },
+ "DocFindNext": {
+  "actID": "DocFindNext",
+  "setID": "DocFindInfo"
+ },
+ "DocSummaryInfo": {
+  "actID": "DocSummaryInfo",
+  "setID": "SummaryInfo"
+ },
+ "DocumentInfo": {
+  "actID": "DocumentInfo",
+  "setID": "DocumentInfo"
+ },
+ "DocumentSecurity": {
+  "actID": "DocumentSecurity",
+  "setID": ""
+ },
+ "DrawObjCancelOneStep": {
+  "actID": "DrawObjCancelOneStep",
+  "setID": ""
+ },
+ "DrawObjCreatorArc": {
+  "actID": "DrawObjCreatorArc",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorCanvas": {
+  "actID": "DrawObjCreatorCanvas",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorCurve": {
+  "actID": "DrawObjCreatorCurve",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorEllipse": {
+  "actID": "DrawObjCreatorEllipse",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorFreeDrawing": {
+  "actID": "DrawObjCreatorFreeDrawing",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorHorzTextBox": {
+  "actID": "DrawObjCreatorHorzTextBox",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorLine": {
+  "actID": "DrawObjCreatorLine",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiArc": {
+  "actID": "DrawObjCreatorMultiArc",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiCanvas": {
+  "actID": "DrawObjCreatorMultiCanvas",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiCurve": {
+  "actID": "DrawObjCreatorMultiCurve",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiEllipse": {
+  "actID": "DrawObjCreatorMultiEllipse",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiFreeDrawing": {
+  "actID": "DrawObjCreatorMultiFreeDrawing",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiHorzTextBox": {
+  "actID": "DrawObjCreatorMultiHorzTextBox",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiLatinStandVertTextBox": {
+  "actID": "DrawObjCreatorMultiLatinStandVertTextBox",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiLine": {
+  "actID": "DrawObjCreatorMultiLine",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiPolygon": {
+  "actID": "DrawObjCreatorMultiPolygon",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiRectangle": {
+  "actID": "DrawObjCreatorMultiRectangle",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiTextBox": {
+  "actID": "DrawObjCreatorMultiTextBox",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorMultiVertTextBox": {
+  "actID": "DrawObjCreatorMultiVertTextBox",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorObject": {
+  "actID": "DrawObjCreatorObject",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorPolygon": {
+  "actID": "DrawObjCreatorPolygon",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorRectangle": {
+  "actID": "DrawObjCreatorRectangle",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorTextBox": {
+  "actID": "DrawObjCreatorTextBox",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorVertAllTextBox": {
+  "actID": "DrawObjCreatorVertAllTextBox",
+  "setID": "ShapeObject"
+ },
+ "DrawObjCreatorVertTextBox": {
+  "actID": "DrawObjCreatorVertTextBox",
+  "setID": "ShapeObject"
+ },
+ "DrawObjEditDetail": {
+  "actID": "DrawObjEditDetail",
+  "setID": ""
+ },
+ "DrawObjOpenClosePolygon": {
+  "actID": "DrawObjOpenClosePolygon",
+  "setID": ""
+ },
+ "DrawObjPart": {
+  "actID": "DrawObjPart",
+  "setID": "ShapeObject"
+ },
+ "DrawObjTemplateLoad": {
+  "actID": "DrawObjTemplateLoad",
+  "setID": "ShapeObject"
+ },
+ "DrawObjTemplateSave": {
+  "actID": "DrawObjTemplateSave",
+  "setID": "DrawObjTemplateSave"
+ },
+ "DrawShapeObjShadow": {
+  "actID": "DrawShapeObjShadow",
+  "setID": "ShapeObject"
+ },
+ "DropCap": {
+  "actID": "DropCap",
+  "setID": "DropCap"
+ },
+ "DutmalChars": {
+  "actID": "DutmalChars",
+  "setID": "Dutmal"
+ },
+ "EasyFind": {
+  "actID": "EasyFind",
+  "setID": ""
+ },
+ "EasyFindBackward": {
+  "actID": "EasyFindBackward",
+  "setID": ""
+ },
+ "EasyFindForward": {
+  "actID": "EasyFindForward",
+  "setID": ""
+ },
+ "EditData": {
+  "actID": "EditData",
+  "setID": ""
+ },
+ "EditFieldBibliography": {
+  "actID": "EditFieldBibliography",
+  "setID": "BibliographyAll"
+ },
+ "EditFieldMemo": {
+  "actID": "EditFieldMemo",
+  "setID": ""
+ },
+ "EditParaDown": {
+  "actID": "EditParaDown",
+  "setID": ""
+ },
+ "EditParaUp": {
+  "actID": "EditParaUp",
+  "setID": ""
+ },
+ "EndnoteEndOfDocument": {
+  "actID": "EndnoteEndOfDocument",
+  "setID": "SecDef"
+ },
+ "EndnoteEndOfSection": {
+  "actID": "EndnoteEndOfSection",
+  "setID": "SecDef"
+ },
+ "EndnoteToFootnote": {
+  "actID": "EndnoteToFootnote",
+  "setID": "ExchangeFootnoteEndNote"
+ },
+ "EqCaptionPosBottom": {
+  "actID": "EqCaptionPosBottom",
+  "setID": "ShapeObject"
+ },
+ "EqCaptionPosLeftBottom": {
+  "actID": "EqCaptionPosLeftBottom",
+  "setID": "ShapeObject"
+ },
+ "EqCaptionPosLeftCenter": {
+  "actID": "EqCaptionPosLeftCenter",
+  "setID": "ShapeObject"
+ },
+ "EqCaptionPosLeftTop": {
+  "actID": "EqCaptionPosLeftTop",
+  "setID": "ShapeObject"
+ },
+ "EqCaptionPosRightBottom": {
+  "actID": "EqCaptionPosRightBottom",
+  "setID": "ShapeObject"
+ },
+ "EqCaptionPosRightCenter": {
+  "actID": "EqCaptionPosRightCenter",
+  "setID": "ShapeObject"
+ },
+ "EqCaptionPosRightTop": {
+  "actID": "EqCaptionPosRightTop",
+  "setID": "ShapeObject"
+ },
+ "EqCaptionPosTop": {
+  "actID": "EqCaptionPosTop",
+  "setID": "ShapeObject"
+ },
+ "EqTreatAsChar": {
+  "actID": "EqTreatAsChar",
+  "setID": "ShapeObject"
+ },
+ "EquationCreate": {
+  "actID": "EquationCreate",
+  "setID": "EqEdit"
+ },
+ "EquationModify": {
+  "actID": "EquationModify",
+  "setID": "EqEdit"
+ },
+ "EquationPropertyDialog": {
+  "actID": "EquationPropertyDialog",
+  "setID": "ShapeObject"
+ },
+ "Erase": {
+  "actID": "Erase",
+  "setID": "SelectionOpt"
+ },
+ "ErrorBarDeviation": {
+  "actID": "ErrorBarDeviation",
+  "setID": ""
+ },
+ "ErrorBarNone": {
+  "actID": "ErrorBarNone",
+  "setID": ""
+ },
+ "ErrorBarOption": {
+  "actID": "ErrorBarOption",
+  "setID": ""
+ },
+ "ErrorBarPercent": {
+  "actID": "ErrorBarPercent",
+  "setID": ""
+ },
+ "ErrorBarStandard": {
+  "actID": "ErrorBarStandard",
+  "setID": ""
+ },
+ "ExchangeFootnoteEndnote": {
+  "actID": "ExchangeFootnoteEndnote",
+  "setID": "ExchangeFootnoteEndNote"
+ },
+ "ExecReplace": {
+  "actID": "ExecReplace",
+  "setID": "FindReplace"
+ },
+ "ExtractImagesFromDoc": {
+  "actID": "ExtractImagesFromDoc",
+  "setID": "SummaryInfo"
+ },
+ "EzPhotoLite": {
+  "actID": "EzPhotoLite",
+  "setID": ""
+ },
+ "FileClose": {
+  "actID": "FileClose",
+  "setID": ""
+ },
+ "FileDiff": {
+  "actID": "FileDiff",
+  "setID": "VersionInfo"
+ },
+ "FileDiffResultFile": {
+  "actID": "FileDiffResultFile",
+  "setID": "VersionInfo"
+ },
+ "FileFind": {
+  "actID": "FileFind",
+  "setID": ""
+ },
+ "FileNew": {
+  "actID": "FileNew",
+  "setID": ""
+ },
+ "FileNewCompatHwp70": {
+  "actID": "FileNewCompatHwp70",
+  "setID": ""
+ },
+ "FileNewCompatNone": {
+  "actID": "FileNewCompatNone",
+  "setID": ""
+ },
+ "FileNewCompatWord": {
+  "actID": "FileNewCompatWord",
+  "setID": ""
+ },
+ "FileNewHNexcel": {
+  "actID": "FileNewHNexcel",
+  "setID": ""
+ },
+ "FileNewHSlide": {
+  "actID": "FileNewHSlide",
+  "setID": ""
+ },
+ "FileNewHword": {
+  "actID": "FileNewHword",
+  "setID": ""
+ },
+ "FileNewODT": {
+  "actID": "FileNewODT",
+  "setID": ""
+ },
+ "FileNewTab": {
+  "actID": "FileNewTab",
+  "setID": ""
+ },
+ "FileNextVersionDiff": {
+  "actID": "FileNextVersionDiff",
+  "setID": ""
+ },
+ "FileOpen": {
+  "actID": "FileOpen",
+  "setID": "FileOpenSave"
+ },
+ "FileOpenEx": {
+  "actID": "FileOpenEx",
+  "setID": ""
+ },
+ "FileOpenMRU": {
+  "actID": "FileOpenMRU",
+  "setID": "FileOpenSave"
+ },
+ "FileOpenNetffice": {
+  "actID": "FileOpenNetffice",
+  "setID": "FileOpenSave"
+ },
+ "FileOpenPDF": {
+  "actID": "FileOpenPDF",
+  "setID": "FileOpenSave"
+ },
+ "FileOpenThinkFree": {
+  "actID": "FileOpenThinkFree",
+  "setID": "FileOpenSave"
+ },
+ "FilePassword": {
+  "actID": "FilePassword",
+  "setID": "Password"
+ },
+ "FilePasswordChange": {
+  "actID": "FilePasswordChange",
+  "setID": "Password"
+ },
+ "FilePrevVersionDiff": {
+  "actID": "FilePrevVersionDiff",
+  "setID": ""
+ },
+ "FilePreview": {
+  "actID": "FilePreview",
+  "setID": "Print"
+ },
+ "FileQuit": {
+  "actID": "FileQuit",
+  "setID": ""
+ },
+ "FileRWPasswordAsk": {
+  "actID": "FileRWPasswordAsk",
+  "setID": "Password"
+ },
+ "FileRWPasswordChange": {
+  "actID": "FileRWPasswordChange",
+  "setID": "Password"
+ },
+ "FileRWPasswordNew": {
+  "actID": "FileRWPasswordNew",
+  "setID": "Password"
+ },
+ "FileSave": {
+  "actID": "FileSave",
+  "setID": "FileOpenSave"
+ },
+ "FileSaveAs": {
+  "actID": "FileSaveAs",
+  "setID": "FileOpenSave"
+ },
+ "FileSaveAsDRM": {
+  "actID": "FileSaveAsDRM",
+  "setID": ""
+ },
+ "FileSaveAsDaisyXML": {
+  "actID": "FileSaveAsDaisyXML",
+  "setID": "FileSaveDaisy"
+ },
+ "FileSaveAsHwp97": {
+  "actID": "FileSaveAsHwp97",
+  "setID": "FileOpenSave"
+ },
+ "FileSaveAsImage": {
+  "actID": "FileSaveAsImage",
+  "setID": "Print"
+ },
+ "FileSaveAsImageOption": {
+  "actID": "FileSaveAsImageOption",
+  "setID": "Print"
+ },
+ "FileSaveAsMobileOptimized": {
+  "actID": "FileSaveAsMobileOptimized",
+  "setID": "FileOpenSave"
+ },
+ "FileSaveAsNetffice": {
+  "actID": "FileSaveAsNetffice",
+  "setID": "FileOpenSave"
+ },
+ "FileSaveAsPdf": {
+  "actID": "FileSaveAsPdf",
+  "setID": "FileOpenSave"
+ },
+ "FileSaveAsPdfOption": {
+  "actID": "FileSaveAsPdfOption",
+  "setID": "Print"
+ },
+ "FileSaveAsTemp": {
+  "actID": "FileSaveAsTemp",
+  "setID": ""
+ },
+ "FileSaveAsThinkFree": {
+  "actID": "FileSaveAsThinkFree",
+  "setID": "FileOpenSave"
+ },
+ "FileSaveNetffice": {
+  "actID": "FileSaveNetffice",
+  "setID": "FileOpenSave"
+ },
+ "FileSaveOptionDlg": {
+  "actID": "FileSaveOptionDlg",
+  "setID": ""
+ },
+ "FileSecurity": {
+  "actID": "FileSecurity",
+  "setID": "FileSecurity"
+ },
+ "FileSecurityChange": {
+  "actID": "FileSecurityChange",
+  "setID": "FileSecurity"
+ },
+ "FileSecurityEdit": {
+  "actID": "FileSecurityEdit",
+  "setID": "FileSecurity"
+ },
+ "FileSetSecurity": {
+  "actID": "FileSetSecurity",
+  "setID": "FileSetSecurity"
+ },
+ "FileTemplate": {
+  "actID": "FileTemplate",
+  "setID": "FileOpen"
+ },
+ "FileVersionDiff": {
+  "actID": "FileVersionDiff",
+  "setID": "VersionInfo"
+ },
+ "FileVersionDiffChangeAlign": {
+  "actID": "FileVersionDiffChangeAlign",
+  "setID": ""
+ },
+ "FileVersionDiffOnSplitView": {
+  "actID": "FileVersionDiffOnSplitView",
+  "setID": ""
+ },
+ "FileVersionDiffSameAlign": {
+  "actID": "FileVersionDiffSameAlign",
+  "setID": ""
+ },
+ "FileVersionDiffShowAll": {
+  "actID": "FileVersionDiffShowAll",
+  "setID": ""
+ },
+ "FileVersionDiffShowMemo": {
+  "actID": "FileVersionDiffShowMemo",
+  "setID": ""
+ },
+ "FileVersionDiffShowRevision": {
+  "actID": "FileVersionDiffShowRevision",
+  "setID": ""
+ },
+ "FileVersionDiffSyncScroll": {
+  "actID": "FileVersionDiffSyncScroll",
+  "setID": ""
+ },
+ "FileVersionOpen": {
+  "actID": "FileVersionOpen",
+  "setID": ""
+ },
+ "FillColor": {
+  "actID": "FillColor",
+  "setID": ""
+ },
+ "FillColorShadeDec": {
+  "actID": "FillColorShadeDec",
+  "setID": ""
+ },
+ "FillColorShadeInc": {
+  "actID": "FillColorShadeInc",
+  "setID": ""
+ },
+ "FillTextBrush": {
+  "actID": "FillTextBrush",
+  "setID": "ShapeObject"
+ },
+ "FindAll": {
+  "actID": "FindAll",
+  "setID": "FindReplace"
+ },
+ "FindClose": {
+  "actID": "FindClose",
+  "setID": ""
+ },
+ "FindDlg": {
+  "actID": "FindDlg",
+  "setID": "FindReplace"
+ },
+ "FindForeBackBookmark": {
+  "actID": "FindForeBackBookmark",
+  "setID": ""
+ },
+ "FindForeBackCtrl": {
+  "actID": "FindForeBackCtrl",
+  "setID": ""
+ },
+ "FindForeBackFind": {
+  "actID": "FindForeBackFind",
+  "setID": ""
+ },
+ "FindForeBackLine": {
+  "actID": "FindForeBackLine",
+  "setID": ""
+ },
+ "FindForeBackPage": {
+  "actID": "FindForeBackPage",
+  "setID": ""
+ },
+ "FindForeBackSection": {
+  "actID": "FindForeBackSection",
+  "setID": ""
+ },
+ "FindForeBackSelectCtrl": {
+  "actID": "FindForeBackSelectCtrl",
+  "setID": ""
+ },
+ "FindForeBackStyle": {
+  "actID": "FindForeBackStyle",
+  "setID": ""
+ },
+ "FindOption": {
+  "actID": "FindOption",
+  "setID": "FindReplace"
+ },
+ "FindPrivateInfo": {
+  "actID": "FindPrivateInfo",
+  "setID": "PrivateInfoSecurity"
+ },
+ "FootnoteBeneathText": {
+  "actID": "FootnoteBeneathText",
+  "setID": "SecDef"
+ },
+ "FootnoteBottomOfEachColumn": {
+  "actID": "FootnoteBottomOfEachColumn",
+  "setID": "SecDef"
+ },
+ "FootnoteBottomOfMultiColumn": {
+  "actID": "FootnoteBottomOfMultiColumn",
+  "setID": "SecDef"
+ },
+ "FootnoteBottomOfRightColumn": {
+  "actID": "FootnoteBottomOfRightColumn",
+  "setID": "SecDef"
+ },
+ "FootnoteNoBeneathText": {
+  "actID": "FootnoteNoBeneathText",
+  "setID": "SecDef"
+ },
+ "FootnoteOption": {
+  "actID": "FootnoteOption",
+  "setID": "SecDef"
+ },
+ "FootnoteToEndnote": {
+  "actID": "FootnoteToEndnote",
+  "setID": "ExchangeFootnoteEndNote"
+ },
+ "FormDesignMode": {
+  "actID": "FormDesignMode",
+  "setID": ""
+ },
+ "FormObjCharShape": {
+  "actID": "FormObjCharShape",
+  "setID": "CharShape"
+ },
+ "FormObjCreatorCheckButton": {
+  "actID": "FormObjCreatorCheckButton",
+  "setID": ""
+ },
+ "FormObjCreatorComboBox": {
+  "actID": "FormObjCreatorComboBox",
+  "setID": ""
+ },
+ "FormObjCreatorEdit": {
+  "actID": "FormObjCreatorEdit",
+  "setID": ""
+ },
+ "FormObjCreatorListBox": {
+  "actID": "FormObjCreatorListBox",
+  "setID": ""
+ },
+ "FormObjCreatorPushButton": {
+  "actID": "FormObjCreatorPushButton",
+  "setID": ""
+ },
+ "FormObjCreatorRadioButton": {
+  "actID": "FormObjCreatorRadioButton",
+  "setID": ""
+ },
+ "FormObjCreatorScrollBar": {
+  "actID": "FormObjCreatorScrollBar",
+  "setID": ""
+ },
+ "FormObjHanjaBusu": {
+  "actID": "FormObjHanjaBusu",
+  "setID": "FormObjHanjaBusu"
+ },
+ "FormObjHanjaMean": {
+  "actID": "FormObjHanjaMean",
+  "setID": "FormObjHanjaMean"
+ },
+ "FormObjInputCodeTable": {
+  "actID": "FormObjInputCodeTable",
+  "setID": "CodeTable"
+ },
+ "FormObjInputHanja": {
+  "actID": "FormObjInputHanja",
+  "setID": "FormObjInputHanja"
+ },
+ "FormObjInputIdiom": {
+  "actID": "FormObjInputIdiom",
+  "setID": "FormObjInputIdiom"
+ },
+ "FormObjRadioGroup": {
+  "actID": "FormObjRadioGroup",
+  "setID": ""
+ },
+ "FormObjectPropertyDialog": {
+  "actID": "FormObjectPropertyDialog",
+  "setID": "ShapeObject"
+ },
+ "ForwardFind": {
+  "actID": "ForwardFind",
+  "setID": "FindReplace"
+ },
+ "FrameExeHwp": {
+  "actID": "FrameExeHwp",
+  "setID": ""
+ },
+ "FrameFullScreen": {
+  "actID": "FrameFullScreen",
+  "setID": ""
+ },
+ "FrameFullScreenEnd": {
+  "actID": "FrameFullScreenEnd",
+  "setID": ""
+ },
+ "FrameHRuler": {
+  "actID": "FrameHRuler",
+  "setID": ""
+ },
+ "FrameShowRuler": {
+  "actID": "FrameShowRuler",
+  "setID": ""
+ },
+ "FrameStatusBar": {
+  "actID": "FrameStatusBar",
+  "setID": ""
+ },
+ "FrameVRuler": {
+  "actID": "FrameVRuler",
+  "setID": ""
+ },
+ "FrameViewZoomRibon": {
+  "actID": "FrameViewZoomRibon",
+  "setID": ""
+ },
+ "FrameViewZoomRibonMagnity": {
+  "actID": "FrameViewZoomRibonMagnity",
+  "setID": ""
+ },
+ "FtpDownload": {
+  "actID": "FtpDownload",
+  "setID": "FtpUpload"
+ },
+ "FtpUpload": {
+  "actID": "FtpUpload",
+  "setID": "FtpUpload"
+ },
+ "FullScreenZoomList": {
+  "actID": "FullScreenZoomList",
+  "setID": ""
+ },
+ "FullScreenZoomRibon": {
+  "actID": "FullScreenZoomRibon",
+  "setID": ""
+ },
+ "GetDefaultBullet": {
+  "actID": "GetDefaultBullet",
+  "setID": "ParaShape"
+ },
+ "GetDefaultParaNumber": {
+  "actID": "GetDefaultParaNumber",
+  "setID": "ParaShape"
+ },
+ "GetDocFilters": {
+  "actID": "GetDocFilters",
+  "setID": "DocFilters"
+ },
+ "GetSectionApplyString": {
+  "actID": "GetSectionApplyString",
+  "setID": "SectionApply"
+ },
+ "GetSectionApplyTo": {
+  "actID": "GetSectionApplyTo",
+  "setID": "SectionApply"
+ },
+ "GetVersionItemInfo": {
+  "actID": "GetVersionItemInfo",
+  "setID": "VersionInfo"
+ },
+ "Goto": {
+  "actID": "Goto",
+  "setID": "GotoE"
+ },
+ "GotoFirstPage": {
+  "actID": "GotoFirstPage",
+  "setID": ""
+ },
+ "GotoLastPage": {
+  "actID": "GotoLastPage",
+  "setID": ""
+ },
+ "GotoNextPage": {
+  "actID": "GotoNextPage",
+  "setID": ""
+ },
+ "GotoPrevPage": {
+  "actID": "GotoPrevPage",
+  "setID": ""
+ },
+ "GotoStyle": {
+  "actID": "GotoStyle",
+  "setID": "GotoE"
+ },
+ "HanThDIC": {
+  "actID": "HanThDIC",
+  "setID": ""
+ },
+ "HancomAsset": {
+  "actID": "HancomAsset",
+  "setID": ""
+ },
+ "HancomRoom": {
+  "actID": "HancomRoom",
+  "setID": ""
+ },
+ "HeaderFooter": {
+  "actID": "HeaderFooter",
+  "setID": "HeaderFooter"
+ },
+ "HeaderFooterDelete": {
+  "actID": "HeaderFooterDelete",
+  "setID": ""
+ },
+ "HeaderFooterInsField": {
+  "actID": "HeaderFooterInsField",
+  "setID": "HeaderFooter"
+ },
+ "HeaderFooterModify": {
+  "actID": "HeaderFooterModify",
+  "setID": ""
+ },
+ "HeaderFooterToNext": {
+  "actID": "HeaderFooterToNext",
+  "setID": "HeaderFooter"
+ },
+ "HeaderFooterToPrev": {
+  "actID": "HeaderFooterToPrev",
+  "setID": ""
+ },
+ "HelpAbout": {
+  "actID": "HelpAbout",
+  "setID": ""
+ },
+ "HelpContents": {
+  "actID": "HelpContents",
+  "setID": ""
+ },
+ "HelpHancom": {
+  "actID": "HelpHancom",
+  "setID": ""
+ },
+ "HelpIndex": {
+  "actID": "HelpIndex",
+  "setID": ""
+ },
+ "HelpWeb0": {
+  "actID": "HelpWeb0",
+  "setID": ""
+ },
+ "HelpWeb1": {
+  "actID": "HelpWeb1",
+  "setID": ""
+ },
+ "HelpWeb2": {
+  "actID": "HelpWeb2",
+  "setID": ""
+ },
+ "HelpWebBegin": {
+  "actID": "HelpWebBegin",
+  "setID": ""
+ },
+ "HelpWebEnd": {
+  "actID": "HelpWebEnd",
+  "setID": ""
+ },
+ "HideMemo": {
+  "actID": "HideMemo",
+  "setID": ""
+ },
+ "HideTitle": {
+  "actID": "HideTitle",
+  "setID": ""
+ },
+ "HimKbdChange": {
+  "actID": "HimKbdChange",
+  "setID": ""
+ },
+ "HncAddonManager": {
+  "actID": "HncAddonManager",
+  "setID": ""
+ },
+ "HncSNSMenuEx": {
+  "actID": "HncSNSMenuEx",
+  "setID": ""
+ },
+ "HncSNSMenuExPopup": {
+  "actID": "HncSNSMenuExPopup",
+  "setID": ""
+ },
+ "HorzScrollbar": {
+  "actID": "HorzScrollbar",
+  "setID": ""
+ },
+ "HwpDic": {
+  "actID": "HwpDic",
+  "setID": ""
+ },
+ "HwpDocAuthenticationAction": {
+  "actID": "HwpDocAuthenticationAction",
+  "setID": ""
+ },
+ "HwpTabViewAction": {
+  "actID": "HwpTabViewAction",
+  "setID": ""
+ },
+ "HwpTabViewAttribute": {
+  "actID": "HwpTabViewAttribute",
+  "setID": ""
+ },
+ "HwpTabViewClipboard": {
+  "actID": "HwpTabViewClipboard",
+  "setID": ""
+ },
+ "HwpTabViewComponentAdd": {
+  "actID": "HwpTabViewComponentAdd",
+  "setID": ""
+ },
+ "HwpTabViewDistant": {
+  "actID": "HwpTabViewDistant",
+  "setID": ""
+ },
+ "HwpTabViewFindReplace": {
+  "actID": "HwpTabViewFindReplace",
+  "setID": ""
+ },
+ "HwpTabViewHwpDic": {
+  "actID": "HwpTabViewHwpDic",
+  "setID": ""
+ },
+ "HwpTabViewMasterPage": {
+  "actID": "HwpTabViewMasterPage",
+  "setID": ""
+ },
+ "HwpTabViewMetatagAdd": {
+  "actID": "HwpTabViewMetatagAdd",
+  "setID": ""
+ },
+ "HwpTabViewMetatagDelete": {
+  "actID": "HwpTabViewMetatagDelete",
+  "setID": ""
+ },
+ "HwpTabViewMetatagModify": {
+  "actID": "HwpTabViewMetatagModify",
+  "setID": ""
+ },
+ "HwpTabViewNLP": {
+  "actID": "HwpTabViewNLP",
+  "setID": ""
+ },
+ "HwpTabViewNavigation": {
+  "actID": "HwpTabViewNavigation",
+  "setID": ""
+ },
+ "HwpTabViewOutline": {
+  "actID": "HwpTabViewOutline",
+  "setID": ""
+ },
+ "HwpTabViewScript": {
+  "actID": "HwpTabViewScript",
+  "setID": ""
+ },
+ "HwpTabViewStyle": {
+  "actID": "HwpTabViewStyle",
+  "setID": ""
+ },
+ "HwpTabViewXMLSchema": {
+  "actID": "HwpTabViewXMLSchema",
+  "setID": ""
+ },
+ "HwpTabViewXMLTree": {
+  "actID": "HwpTabViewXMLTree",
+  "setID": ""
+ },
+ "HwpViewType": {
+  "actID": "HwpViewType",
+  "setID": ""
+ },
+ "HwpWSBookmark": {
+  "actID": "HwpWSBookmark",
+  "setID": ""
+ },
+ "HwpWSChartProperty": {
+  "actID": "HwpWSChartProperty",
+  "setID": ""
+ },
+ "HwpWSDic": {
+  "actID": "HwpWSDic",
+  "setID": ""
+ },
+ "HwpWSTranslate": {
+  "actID": "HwpWSTranslate",
+  "setID": ""
+ },
+ "Hyperlink": {
+  "actID": "Hyperlink",
+  "setID": "HyperLink"
+ },
+ "HyperlinkBackward": {
+  "actID": "HyperlinkBackward",
+  "setID": ""
+ },
+ "HyperlinkForward": {
+  "actID": "HyperlinkForward",
+  "setID": ""
+ },
+ "HyperlinkJump": {
+  "actID": "HyperlinkJump",
+  "setID": "HyperlinkJump"
+ },
+ "Idiom": {
+  "actID": "Idiom",
+  "setID": "Idiom"
+ },
+ "ImageFindPath": {
+  "actID": "ImageFindPath",
+  "setID": "FindImagePath"
+ },
+ "ImageGroup": {
+  "actID": "ImageGroup",
+  "setID": ""
+ },
+ "ImageTile": {
+  "actID": "ImageTile",
+  "setID": ""
+ },
+ "ImageTileChartStyle": {
+  "actID": "ImageTileChartStyle",
+  "setID": ""
+ },
+ "ImageTileFooter": {
+  "actID": "ImageTileFooter",
+  "setID": ""
+ },
+ "ImageTileGroupBullet": {
+  "actID": "ImageTileGroupBullet",
+  "setID": ""
+ },
+ "ImageTileGroupCellShade": {
+  "actID": "ImageTileGroupCellShade",
+  "setID": ""
+ },
+ "ImageTileGroupChartBGStyle": {
+  "actID": "ImageTileGroupChartBGStyle",
+  "setID": ""
+ },
+ "ImageTileGroupChartColor": {
+  "actID": "ImageTileGroupChartColor",
+  "setID": ""
+ },
+ "ImageTileGroupChartMainBGStyle": {
+  "actID": "ImageTileGroupChartMainBGStyle",
+  "setID": ""
+ },
+ "ImageTileGroupChartStyle": {
+  "actID": "ImageTileGroupChartStyle",
+  "setID": ""
+ },
+ "ImageTileGroupChartType": {
+  "actID": "ImageTileGroupChartType",
+  "setID": ""
+ },
+ "ImageTileGroupCircletypeChart": {
+  "actID": "ImageTileGroupCircletypeChart",
+  "setID": ""
+ },
+ "ImageTileGroupDrawPictureEffect": {
+  "actID": "ImageTileGroupDrawPictureEffect",
+  "setID": ""
+ },
+ "ImageTileGroupEquation": {
+  "actID": "ImageTileGroupEquation",
+  "setID": ""
+ },
+ "ImageTileGroupEquationBasics": {
+  "actID": "ImageTileGroupEquationBasics",
+  "setID": ""
+ },
+ "ImageTileGroupEquationExponents": {
+  "actID": "ImageTileGroupEquationExponents",
+  "setID": ""
+ },
+ "ImageTileGroupEquationGeometric": {
+  "actID": "ImageTileGroupEquationGeometric",
+  "setID": ""
+ },
+ "ImageTileGroupEquationMisc": {
+  "actID": "ImageTileGroupEquationMisc",
+  "setID": ""
+ },
+ "ImageTileGroupEtctypeChart": {
+  "actID": "ImageTileGroupEtctypeChart",
+  "setID": ""
+ },
+ "ImageTileGroupHorzbartypeChart": {
+  "actID": "ImageTileGroupHorzbartypeChart",
+  "setID": ""
+ },
+ "ImageTileGroupMemoStyle": {
+  "actID": "ImageTileGroupMemoStyle",
+  "setID": ""
+ },
+ "ImageTileGroupMultiColumn": {
+  "actID": "ImageTileGroupMultiColumn",
+  "setID": ""
+ },
+ "ImageTileGroupOutlineNum": {
+  "actID": "ImageTileGroupOutlineNum",
+  "setID": ""
+ },
+ "ImageTileGroupPageMargin": {
+  "actID": "ImageTileGroupPageMargin",
+  "setID": ""
+ },
+ "ImageTileGroupParaNum": {
+  "actID": "ImageTileGroupParaNum",
+  "setID": ""
+ },
+ "ImageTileGroupPicBullet": {
+  "actID": "ImageTileGroupPicBullet",
+  "setID": ""
+ },
+ "ImageTileGroupPictureBrightness": {
+  "actID": "ImageTileGroupPictureBrightness",
+  "setID": ""
+ },
+ "ImageTileGroupPictureContrast": {
+  "actID": "ImageTileGroupPictureContrast",
+  "setID": ""
+ },
+ "ImageTileGroupPictureGlow": {
+  "actID": "ImageTileGroupPictureGlow",
+  "setID": ""
+ },
+ "ImageTileGroupPictureMargin": {
+  "actID": "ImageTileGroupPictureMargin",
+  "setID": ""
+ },
+ "ImageTileGroupPictureReflection": {
+  "actID": "ImageTileGroupPictureReflection",
+  "setID": ""
+ },
+ "ImageTileGroupPictureShadow": {
+  "actID": "ImageTileGroupPictureShadow",
+  "setID": ""
+ },
+ "ImageTileGroupPictureShadowInner": {
+  "actID": "ImageTileGroupPictureShadowInner",
+  "setID": ""
+ },
+ "ImageTileGroupPictureShadowOuter": {
+  "actID": "ImageTileGroupPictureShadowOuter",
+  "setID": ""
+ },
+ "ImageTileGroupPictureShadowProspective": {
+  "actID": "ImageTileGroupPictureShadowProspective",
+  "setID": ""
+ },
+ "ImageTileGroupPictureSoftEdge": {
+  "actID": "ImageTileGroupPictureSoftEdge",
+  "setID": ""
+ },
+ "ImageTileGroupPictureStyle": {
+  "actID": "ImageTileGroupPictureStyle",
+  "setID": ""
+ },
+ "ImageTileGroupRangetypeChart": {
+  "actID": "ImageTileGroupRangetypeChart",
+  "setID": ""
+ },
+ "ImageTileGroupSOFillColorShade": {
+  "actID": "ImageTileGroupSOFillColorShade",
+  "setID": ""
+ },
+ "ImageTileGroupSOOuterMargin": {
+  "actID": "ImageTileGroupSOOuterMargin",
+  "setID": ""
+ },
+ "ImageTileGroupScattertypeChart": {
+  "actID": "ImageTileGroupScattertypeChart",
+  "setID": ""
+ },
+ "ImageTileGroupShapeObjShadowType": {
+  "actID": "ImageTileGroupShapeObjShadowType",
+  "setID": ""
+ },
+ "ImageTileGroupShapeObject": {
+  "actID": "ImageTileGroupShapeObject",
+  "setID": ""
+ },
+ "ImageTileGroupStyle": {
+  "actID": "ImageTileGroupStyle",
+  "setID": ""
+ },
+ "ImageTileGroupTableCellBorderType": {
+  "actID": "ImageTileGroupTableCellBorderType",
+  "setID": ""
+ },
+ "ImageTileGroupTableMargin": {
+  "actID": "ImageTileGroupTableMargin",
+  "setID": ""
+ },
+ "ImageTileGroupTableStyle": {
+  "actID": "ImageTileGroupTableStyle",
+  "setID": ""
+ },
+ "ImageTileGroupTextArt": {
+  "actID": "ImageTileGroupTextArt",
+  "setID": ""
+ },
+ "ImageTileGroupTextArtShape": {
+  "actID": "ImageTileGroupTextArtShape",
+  "setID": ""
+ },
+ "ImageTileGroupTextArtStyle": {
+  "actID": "ImageTileGroupTextArtStyle",
+  "setID": ""
+ },
+ "ImageTileGroupTextBoxMargin": {
+  "actID": "ImageTileGroupTextBoxMargin",
+  "setID": ""
+ },
+ "ImageTileGroupVertbartypeChart": {
+  "actID": "ImageTileGroupVertbartypeChart",
+  "setID": ""
+ },
+ "ImageTileHeader": {
+  "actID": "ImageTileHeader",
+  "setID": ""
+ },
+ "ImageTileHeaderLeftRight": {
+  "actID": "ImageTileHeaderLeftRight",
+  "setID": ""
+ },
+ "ImageTileHeaderNormal": {
+  "actID": "ImageTileHeaderNormal",
+  "setID": ""
+ },
+ "ImageTileHeaderUSA": {
+  "actID": "ImageTileHeaderUSA",
+  "setID": ""
+ },
+ "ImageTileMemoStyle": {
+  "actID": "ImageTileMemoStyle",
+  "setID": ""
+ },
+ "ImageTileMenuExGroupStyle": {
+  "actID": "ImageTileMenuExGroupStyle",
+  "setID": ""
+ },
+ "ImageTilePictureStyle": {
+  "actID": "ImageTilePictureStyle",
+  "setID": ""
+ },
+ "ImageTileShapeObject": {
+  "actID": "ImageTileShapeObject",
+  "setID": ""
+ },
+ "ImageTileStyle": {
+  "actID": "ImageTileStyle",
+  "setID": ""
+ },
+ "ImageTileTableStyle": {
+  "actID": "ImageTileTableStyle",
+  "setID": ""
+ },
+ "ImageTileTextArtStyle": {
+  "actID": "ImageTileTextArtStyle",
+  "setID": ""
+ },
+ "ImportCellData": {
+  "actID": "ImportCellData",
+  "setID": "ImportCellData"
+ },
+ "ImportCharactersFromPicture": {
+  "actID": "ImportCharactersFromPicture",
+  "setID": ""
+ },
+ "ImportDaisyStyle": {
+  "actID": "ImportDaisyStyle",
+  "setID": ""
+ },
+ "IndexMark": {
+  "actID": "IndexMark",
+  "setID": "IndexMark"
+ },
+ "IndexMarkModify": {
+  "actID": "IndexMarkModify",
+  "setID": "IndexMark"
+ },
+ "InputCodeChange": {
+  "actID": "InputCodeChange",
+  "setID": ""
+ },
+ "InputCodeTable": {
+  "actID": "InputCodeTable",
+  "setID": "CodeTable"
+ },
+ "InputDateStyle": {
+  "actID": "InputDateStyle",
+  "setID": "InputDateStyle"
+ },
+ "InputHanja": {
+  "actID": "InputHanja",
+  "setID": "InputHanja"
+ },
+ "InputHanjaBusu": {
+  "actID": "InputHanjaBusu",
+  "setID": "InputHanjaBusu"
+ },
+ "InputHanjaMean": {
+  "actID": "InputHanjaMean",
+  "setID": "InputHanjaMean"
+ },
+ "InputPersonsNameHanja": {
+  "actID": "InputPersonsNameHanja",
+  "setID": "InputHanja"
+ },
+ "InsertAutoNum": {
+  "actID": "InsertAutoNum",
+  "setID": ""
+ },
+ "InsertCCLMark": {
+  "actID": "InsertCCLMark",
+  "setID": "CCLMark"
+ },
+ "InsertChart": {
+  "actID": "InsertChart",
+  "setID": "ChartObjShape"
+ },
+ "InsertConnectLineArcBoth": {
+  "actID": "InsertConnectLineArcBoth",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineArcNoArrow": {
+  "actID": "InsertConnectLineArcNoArrow",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineArcOneWay": {
+  "actID": "InsertConnectLineArcOneWay",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineMultiArcBoth": {
+  "actID": "InsertConnectLineMultiArcBoth",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineMultiArcNoArrow": {
+  "actID": "InsertConnectLineMultiArcNoArrow",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineMultiArcOneWay": {
+  "actID": "InsertConnectLineMultiArcOneWay",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineMultiStraightBoth": {
+  "actID": "InsertConnectLineMultiStraightBoth",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineMultiStraightNoArrow": {
+  "actID": "InsertConnectLineMultiStraightNoArrow",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineMultiStraightOneWay": {
+  "actID": "InsertConnectLineMultiStraightOneWay",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineMultiStrokeBoth": {
+  "actID": "InsertConnectLineMultiStrokeBoth",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineMultiStrokeNoArrow": {
+  "actID": "InsertConnectLineMultiStrokeNoArrow",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineMultiStrokeOneWay": {
+  "actID": "InsertConnectLineMultiStrokeOneWay",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineStraightBoth": {
+  "actID": "InsertConnectLineStraightBoth",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineStraightNoArrow": {
+  "actID": "InsertConnectLineStraightNoArrow",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineStraightOneWay": {
+  "actID": "InsertConnectLineStraightOneWay",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineStrokeBoth": {
+  "actID": "InsertConnectLineStrokeBoth",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineStrokeNoArrow": {
+  "actID": "InsertConnectLineStrokeNoArrow",
+  "setID": "ShapeObject"
+ },
+ "InsertConnectLineStrokeOneWay": {
+  "actID": "InsertConnectLineStrokeOneWay",
+  "setID": "ShapeObject"
+ },
+ "InsertCpNo": {
+  "actID": "InsertCpNo",
+  "setID": ""
+ },
+ "InsertCpTpNo": {
+  "actID": "InsertCpTpNo",
+  "setID": ""
+ },
+ "InsertCrossReference": {
+  "actID": "InsertCrossReference",
+  "setID": "ActionCrossRef"
+ },
+ "InsertDateCode": {
+  "actID": "InsertDateCode",
+  "setID": ""
+ },
+ "InsertDocInfo": {
+  "actID": "InsertDocInfo",
+  "setID": ""
+ },
+ "InsertDocTitle": {
+  "actID": "InsertDocTitle",
+  "setID": "InsertFieldTemplate"
+ },
+ "InsertDocumentProperty": {
+  "actID": "InsertDocumentProperty",
+  "setID": "InsertFieldTemplate"
+ },
+ "InsertEndnote": {
+  "actID": "InsertEndnote",
+  "setID": ""
+ },
+ "InsertFieldBibliography": {
+  "actID": "InsertFieldBibliography",
+  "setID": "Bibliography"
+ },
+ "InsertFieldCitation": {
+  "actID": "InsertFieldCitation",
+  "setID": ""
+ },
+ "InsertFieldCtrl": {
+  "actID": "InsertFieldCtrl",
+  "setID": "FieldCtrl"
+ },
+ "InsertFieldDateTime": {
+  "actID": "InsertFieldDateTime",
+  "setID": ""
+ },
+ "InsertFieldFileName": {
+  "actID": "InsertFieldFileName",
+  "setID": "InsertFieldTemplate"
+ },
+ "InsertFieldMemo": {
+  "actID": "InsertFieldMemo",
+  "setID": ""
+ },
+ "InsertFieldMetaData": {
+  "actID": "InsertFieldMetaData",
+  "setID": "MetaData"
+ },
+ "InsertFieldRevisionChagne": {
+  "actID": "InsertFieldRevisionChagne",
+  "setID": ""
+ },
+ "InsertFieldTemplate": {
+  "actID": "InsertFieldTemplate",
+  "setID": "InsertFieldTemplate"
+ },
+ "InsertFile": {
+  "actID": "InsertFile",
+  "setID": "InsertFile"
+ },
+ "InsertFileName": {
+  "actID": "InsertFileName",
+  "setID": "InsertFieldTemplate"
+ },
+ "InsertFilePath": {
+  "actID": "InsertFilePath",
+  "setID": "InsertFieldTemplate"
+ },
+ "InsertFixedWidthSpace": {
+  "actID": "InsertFixedWidthSpace",
+  "setID": ""
+ },
+ "InsertFlash": {
+  "actID": "InsertFlash",
+  "setID": "OleCreation"
+ },
+ "InsertFootnote": {
+  "actID": "InsertFootnote",
+  "setID": ""
+ },
+ "InsertHyperlink": {
+  "actID": "InsertHyperlink",
+  "setID": "HyperLink"
+ },
+ "InsertIdiom": {
+  "actID": "InsertIdiom",
+  "setID": "Idiom"
+ },
+ "InsertKOGLMark": {
+  "actID": "InsertKOGLMark",
+  "setID": "CCLMark"
+ },
+ "InsertLastPrintDate": {
+  "actID": "InsertLastPrintDate",
+  "setID": ""
+ },
+ "InsertLastSaveBy": {
+  "actID": "InsertLastSaveBy",
+  "setID": ""
+ },
+ "InsertLastSaveDate": {
+  "actID": "InsertLastSaveDate",
+  "setID": ""
+ },
+ "InsertLine": {
+  "actID": "InsertLine",
+  "setID": ""
+ },
+ "InsertLinkImageToDoc": {
+  "actID": "InsertLinkImageToDoc",
+  "setID": "SummaryInfo"
+ },
+ "InsertMovie": {
+  "actID": "InsertMovie",
+  "setID": "ShapeObject"
+ },
+ "InsertNonBreakingSpace": {
+  "actID": "InsertNonBreakingSpace",
+  "setID": ""
+ },
+ "InsertPageNum": {
+  "actID": "InsertPageNum",
+  "setID": ""
+ },
+ "InsertRevision": {
+  "actID": "InsertRevision",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionAttach": {
+  "actID": "InsertRevisionAttach",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionClipping": {
+  "actID": "InsertRevisionClipping",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionDelete": {
+  "actID": "InsertRevisionDelete",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionHyperlink": {
+  "actID": "InsertRevisionHyperlink",
+  "setID": "HyperLink"
+ },
+ "InsertRevisionInsert": {
+  "actID": "InsertRevisionInsert",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionLeftMove": {
+  "actID": "InsertRevisionLeftMove",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionLine": {
+  "actID": "InsertRevisionLine",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionLineAttach": {
+  "actID": "InsertRevisionLineAttach",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionLineInsert": {
+  "actID": "InsertRevisionLineInsert",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionLineLink": {
+  "actID": "InsertRevisionLineLink",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionLineSeparate": {
+  "actID": "InsertRevisionLineSeparate",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionLineTransfer": {
+  "actID": "InsertRevisionLineTransfer",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionLineTransferSplit": {
+  "actID": "InsertRevisionLineTransferSplit",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionPraise": {
+  "actID": "InsertRevisionPraise",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionRightMove": {
+  "actID": "InsertRevisionRightMove",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionSawTooth": {
+  "actID": "InsertRevisionSawTooth",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionSimpleChange": {
+  "actID": "InsertRevisionSimpleChange",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionSpace": {
+  "actID": "InsertRevisionSpace",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionSymbol": {
+  "actID": "InsertRevisionSymbol",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionThinking": {
+  "actID": "InsertRevisionThinking",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionTransfer": {
+  "actID": "InsertRevisionTransfer",
+  "setID": "RevisionDef"
+ },
+ "InsertRevisionTransferSplit": {
+  "actID": "InsertRevisionTransferSplit",
+  "setID": "RevisionDef"
+ },
+ "InsertScreenShotImage": {
+  "actID": "InsertScreenShotImage",
+  "setID": ""
+ },
+ "InsertSoftHyphen": {
+  "actID": "InsertSoftHyphen",
+  "setID": ""
+ },
+ "InsertSpace": {
+  "actID": "InsertSpace",
+  "setID": "InsertText"
+ },
+ "InsertStringDateTime": {
+  "actID": "InsertStringDateTime",
+  "setID": ""
+ },
+ "InsertTab": {
+  "actID": "InsertTab",
+  "setID": ""
+ },
+ "InsertText": {
+  "actID": "InsertText",
+  "setID": "InsertText"
+ },
+ "InsertTpNo": {
+  "actID": "InsertTpNo",
+  "setID": ""
+ },
+ "InsertUserName": {
+  "actID": "InsertUserName",
+  "setID": "InsertFieldTemplate"
+ },
+ "InsertVoice": {
+  "actID": "InsertVoice",
+  "setID": "OleCreation"
+ },
+ "InsertWebBrowser": {
+  "actID": "InsertWebBrowser",
+  "setID": ""
+ },
+ "IntegMacroPlay1": {
+  "actID": "IntegMacroPlay1",
+  "setID": ""
+ },
+ "IntegMacroPlay10": {
+  "actID": "IntegMacroPlay10",
+  "setID": ""
+ },
+ "IntegMacroPlay11": {
+  "actID": "IntegMacroPlay11",
+  "setID": ""
+ },
+ "IntegMacroPlay12": {
+  "actID": "IntegMacroPlay12",
+  "setID": ""
+ },
+ "IntegMacroPlay13": {
+  "actID": "IntegMacroPlay13",
+  "setID": ""
+ },
+ "IntegMacroPlay14": {
+  "actID": "IntegMacroPlay14",
+  "setID": ""
+ },
+ "IntegMacroPlay15": {
+  "actID": "IntegMacroPlay15",
+  "setID": ""
+ },
+ "IntegMacroPlay16": {
+  "actID": "IntegMacroPlay16",
+  "setID": ""
+ },
+ "IntegMacroPlay17": {
+  "actID": "IntegMacroPlay17",
+  "setID": ""
+ },
+ "IntegMacroPlay18": {
+  "actID": "IntegMacroPlay18",
+  "setID": ""
+ },
+ "IntegMacroPlay19": {
+  "actID": "IntegMacroPlay19",
+  "setID": ""
+ },
+ "IntegMacroPlay2": {
+  "actID": "IntegMacroPlay2",
+  "setID": ""
+ },
+ "IntegMacroPlay20": {
+  "actID": "IntegMacroPlay20",
+  "setID": ""
+ },
+ "IntegMacroPlay21": {
+  "actID": "IntegMacroPlay21",
+  "setID": ""
+ },
+ "IntegMacroPlay22": {
+  "actID": "IntegMacroPlay22",
+  "setID": ""
+ },
+ "IntegMacroPlay3": {
+  "actID": "IntegMacroPlay3",
+  "setID": ""
+ },
+ "IntegMacroPlay4": {
+  "actID": "IntegMacroPlay4",
+  "setID": ""
+ },
+ "IntegMacroPlay5": {
+  "actID": "IntegMacroPlay5",
+  "setID": ""
+ },
+ "IntegMacroPlay6": {
+  "actID": "IntegMacroPlay6",
+  "setID": ""
+ },
+ "IntegMacroPlay7": {
+  "actID": "IntegMacroPlay7",
+  "setID": ""
+ },
+ "IntegMacroPlay8": {
+  "actID": "IntegMacroPlay8",
+  "setID": ""
+ },
+ "IntegMacroPlay9": {
+  "actID": "IntegMacroPlay9",
+  "setID": ""
+ },
+ "IntegMacroRepeatDlg": {
+  "actID": "IntegMacroRepeatDlg",
+  "setID": "ScriptMacro"
+ },
+ "Jajun": {
+  "actID": "Jajun",
+  "setID": ""
+ },
+ "LabelAdd": {
+  "actID": "LabelAdd",
+  "setID": ""
+ },
+ "LabelTemplate": {
+  "actID": "LabelTemplate",
+  "setID": "Label"
+ },
+ "LauncherContentDownload": {
+  "actID": "LauncherContentDownload",
+  "setID": ""
+ },
+ "LauncherNetfficeOpen": {
+  "actID": "LauncherNetfficeOpen",
+  "setID": ""
+ },
+ "LauncherNew": {
+  "actID": "LauncherNew",
+  "setID": ""
+ },
+ "LeftShiftBlock": {
+  "actID": "LeftShiftBlock",
+  "setID": ""
+ },
+ "LeftTabFrameClose": {
+  "actID": "LeftTabFrameClose",
+  "setID": ""
+ },
+ "LegendBottom": {
+  "actID": "LegendBottom",
+  "setID": ""
+ },
+ "LegendLeft": {
+  "actID": "LegendLeft",
+  "setID": ""
+ },
+ "LegendNone": {
+  "actID": "LegendNone",
+  "setID": ""
+ },
+ "LegendRight": {
+  "actID": "LegendRight",
+  "setID": ""
+ },
+ "LegendTop": {
+  "actID": "LegendTop",
+  "setID": ""
+ },
+ "LineColor": {
+  "actID": "LineColor",
+  "setID": ""
+ },
+ "LineStyle": {
+  "actID": "LineStyle",
+  "setID": ""
+ },
+ "LineWidth": {
+  "actID": "LineWidth",
+  "setID": ""
+ },
+ "LinesDropHighLowLines": {
+  "actID": "LinesDropHighLowLines",
+  "setID": ""
+ },
+ "LinesDropLines": {
+  "actID": "LinesDropLines",
+  "setID": ""
+ },
+ "LinesHighLowLines": {
+  "actID": "LinesHighLowLines",
+  "setID": ""
+ },
+ "LinesNone": {
+  "actID": "LinesNone",
+  "setID": ""
+ },
+ "LinesSeriesLines": {
+  "actID": "LinesSeriesLines",
+  "setID": ""
+ },
+ "LinkDocument": {
+  "actID": "LinkDocument",
+  "setID": "LinkDocument"
+ },
+ "LinkTextBox": {
+  "actID": "LinkTextBox",
+  "setID": ""
+ },
+ "LoadCertDRM": {
+  "actID": "LoadCertDRM",
+  "setID": "CertDRM"
+ },
+ "MPBreakNewSection": {
+  "actID": "MPBreakNewSection",
+  "setID": "MasterPage"
+ },
+ "MPCopyFromOtherSection": {
+  "actID": "MPCopyFromOtherSection",
+  "setID": "MasterPage"
+ },
+ "MPSectionToNext": {
+  "actID": "MPSectionToNext",
+  "setID": "MasterPage"
+ },
+ "MPSectionToPrevious": {
+  "actID": "MPSectionToPrevious",
+  "setID": "MasterPage"
+ },
+ "MPShowMarginBorder": {
+  "actID": "MPShowMarginBorder",
+  "setID": ""
+ },
+ "MacroDefine": {
+  "actID": "MacroDefine",
+  "setID": "KeyMacro"
+ },
+ "MacroPause": {
+  "actID": "MacroPause",
+  "setID": ""
+ },
+ "MacroPlay1": {
+  "actID": "MacroPlay1",
+  "setID": ""
+ },
+ "MacroPlay10": {
+  "actID": "MacroPlay10",
+  "setID": ""
+ },
+ "MacroPlay11": {
+  "actID": "MacroPlay11",
+  "setID": ""
+ },
+ "MacroPlay2": {
+  "actID": "MacroPlay2",
+  "setID": ""
+ },
+ "MacroPlay3": {
+  "actID": "MacroPlay3",
+  "setID": ""
+ },
+ "MacroPlay4": {
+  "actID": "MacroPlay4",
+  "setID": ""
+ },
+ "MacroPlay5": {
+  "actID": "MacroPlay5",
+  "setID": ""
+ },
+ "MacroPlay6": {
+  "actID": "MacroPlay6",
+  "setID": ""
+ },
+ "MacroPlay7": {
+  "actID": "MacroPlay7",
+  "setID": ""
+ },
+ "MacroPlay8": {
+  "actID": "MacroPlay8",
+  "setID": ""
+ },
+ "MacroPlay9": {
+  "actID": "MacroPlay9",
+  "setID": ""
+ },
+ "MacroRepeat": {
+  "actID": "MacroRepeat",
+  "setID": ""
+ },
+ "MacroRepeatDlg": {
+  "actID": "MacroRepeatDlg",
+  "setID": "ScriptMacro"
+ },
+ "MacroStop": {
+  "actID": "MacroStop",
+  "setID": ""
+ },
+ "MailMergeField": {
+  "actID": "MailMergeField",
+  "setID": ""
+ },
+ "MailMergeGenerate": {
+  "actID": "MailMergeGenerate",
+  "setID": "MailMergeGenerate"
+ },
+ "MailMergeInsert": {
+  "actID": "MailMergeInsert",
+  "setID": "FieldCtrl"
+ },
+ "MailMergeModify": {
+  "actID": "MailMergeModify",
+  "setID": "FieldCtrl"
+ },
+ "MakeAllVersionDiffs": {
+  "actID": "MakeAllVersionDiffs",
+  "setID": "VersionInfo"
+ },
+ "MakeContents": {
+  "actID": "MakeContents",
+  "setID": "MakeContents"
+ },
+ "MakeIndex": {
+  "actID": "MakeIndex",
+  "setID": ""
+ },
+ "ManuScriptTemplate": {
+  "actID": "ManuScriptTemplate",
+  "setID": "FileOpen"
+ },
+ "ManualChangeHangul": {
+  "actID": "ManualChangeHangul",
+  "setID": ""
+ },
+ "MarkPenColor": {
+  "actID": "MarkPenColor",
+  "setID": ""
+ },
+ "MarkPenDelete": {
+  "actID": "MarkPenDelete",
+  "setID": ""
+ },
+ "MarkPenNext": {
+  "actID": "MarkPenNext",
+  "setID": ""
+ },
+ "MarkPenPrev": {
+  "actID": "MarkPenPrev",
+  "setID": ""
+ },
+ "MarkPenShape": {
+  "actID": "MarkPenShape",
+  "setID": "MarkpenShape"
+ },
+ "MarkPrivateInfo": {
+  "actID": "MarkPrivateInfo",
+  "setID": "PrivateInfoSecurity"
+ },
+ "MarkTitle": {
+  "actID": "MarkTitle",
+  "setID": ""
+ },
+ "MarkerChartFillAuto": {
+  "actID": "MarkerChartFillAuto",
+  "setID": "ShapeObject"
+ },
+ "MarkerChartLineAuto": {
+  "actID": "MarkerChartLineAuto",
+  "setID": "ShapeObject"
+ },
+ "MarkerFill": {
+  "actID": "MarkerFill",
+  "setID": "ShapeObject"
+ },
+ "MarkerFillColor": {
+  "actID": "MarkerFillColor",
+  "setID": "ShapeObject"
+ },
+ "MarkerFillEmpty": {
+  "actID": "MarkerFillEmpty",
+  "setID": "ShapeObject"
+ },
+ "MarkerOutline": {
+  "actID": "MarkerOutline",
+  "setID": "ShapeObject"
+ },
+ "MarkerOutlineColor": {
+  "actID": "MarkerOutlineColor",
+  "setID": "ShapeObject"
+ },
+ "MarkerOutlineEmpty": {
+  "actID": "MarkerOutlineEmpty",
+  "setID": "ShapeObject"
+ },
+ "MarkerOutlineFillGradient": {
+  "actID": "MarkerOutlineFillGradient",
+  "setID": "ShapeObject"
+ },
+ "MarkerOutlineGradientStopsPreset": {
+  "actID": "MarkerOutlineGradientStopsPreset",
+  "setID": "ShapeObject"
+ },
+ "MarkerShapeFillGradient": {
+  "actID": "MarkerShapeFillGradient",
+  "setID": "ShapeObject"
+ },
+ "MarkerShapeFillHatch": {
+  "actID": "MarkerShapeFillHatch",
+  "setID": "ShapeObject"
+ },
+ "MarkerShapeFillImage": {
+  "actID": "MarkerShapeFillImage",
+  "setID": "ShapeObject"
+ },
+ "MarkerShapeFillTexture": {
+  "actID": "MarkerShapeFillTexture",
+  "setID": "ShapeObject"
+ },
+ "MarkerShapeGradientStopsPreset": {
+  "actID": "MarkerShapeGradientStopsPreset",
+  "setID": "ShapeObject"
+ },
+ "MasterPage": {
+  "actID": "MasterPage",
+  "setID": "MasterPage"
+ },
+ "MasterPageBoth": {
+  "actID": "MasterPageBoth",
+  "setID": "MasterPage"
+ },
+ "MasterPageDelete": {
+  "actID": "MasterPageDelete",
+  "setID": "MasterPage"
+ },
+ "MasterPageDeleteEx": {
+  "actID": "MasterPageDeleteEx",
+  "setID": ""
+ },
+ "MasterPageDuplicate": {
+  "actID": "MasterPageDuplicate",
+  "setID": ""
+ },
+ "MasterPageEntry": {
+  "actID": "MasterPageEntry",
+  "setID": "MasterPage"
+ },
+ "MasterPageEven": {
+  "actID": "MasterPageEven",
+  "setID": "MasterPage"
+ },
+ "MasterPageExcept": {
+  "actID": "MasterPageExcept",
+  "setID": ""
+ },
+ "MasterPageFront": {
+  "actID": "MasterPageFront",
+  "setID": ""
+ },
+ "MasterPageLast": {
+  "actID": "MasterPageLast",
+  "setID": "MasterPage"
+ },
+ "MasterPageOdd": {
+  "actID": "MasterPageOdd",
+  "setID": "MasterPage"
+ },
+ "MasterPagePrevSection": {
+  "actID": "MasterPagePrevSection",
+  "setID": ""
+ },
+ "MasterPageRandom": {
+  "actID": "MasterPageRandom",
+  "setID": "MasterPage"
+ },
+ "MasterPageToNext": {
+  "actID": "MasterPageToNext",
+  "setID": ""
+ },
+ "MasterPageToPrevious": {
+  "actID": "MasterPageToPrevious",
+  "setID": ""
+ },
+ "MasterPageType": {
+  "actID": "MasterPageType",
+  "setID": ""
+ },
+ "MasterPageTypeDlg": {
+  "actID": "MasterPageTypeDlg",
+  "setID": "MasterPage"
+ },
+ "MasterWsItemOnOff": {
+  "actID": "MasterWsItemOnOff",
+  "setID": ""
+ },
+ "MemoFillColor": {
+  "actID": "MemoFillColor",
+  "setID": ""
+ },
+ "MemoLineColor": {
+  "actID": "MemoLineColor",
+  "setID": ""
+ },
+ "MemoLineType": {
+  "actID": "MemoLineType",
+  "setID": ""
+ },
+ "MemoLineWidth": {
+  "actID": "MemoLineWidth",
+  "setID": ""
+ },
+ "MemoSelectColor": {
+  "actID": "MemoSelectColor",
+  "setID": ""
+ },
+ "MemoShape": {
+  "actID": "MemoShape",
+  "setID": "SecDef"
+ },
+ "MemoToNext": {
+  "actID": "MemoToNext",
+  "setID": ""
+ },
+ "MemoToPrev": {
+  "actID": "MemoToPrev",
+  "setID": ""
+ },
+ "MemoWidth": {
+  "actID": "MemoWidth",
+  "setID": ""
+ },
+ "MenuExCalculateBlock": {
+  "actID": "MenuExCalculateBlock",
+  "setID": ""
+ },
+ "MenuExChartAxis": {
+  "actID": "MenuExChartAxis",
+  "setID": ""
+ },
+ "MenuExChartDataRange": {
+  "actID": "MenuExChartDataRange",
+  "setID": ""
+ },
+ "MenuExChartSeries": {
+  "actID": "MenuExChartSeries",
+  "setID": ""
+ },
+ "MenuExConnectLine": {
+  "actID": "MenuExConnectLine",
+  "setID": ""
+ },
+ "MenuExContents": {
+  "actID": "MenuExContents",
+  "setID": ""
+ },
+ "MenuExCustomizeToolbar": {
+  "actID": "MenuExCustomizeToolbar",
+  "setID": ""
+ },
+ "MenuExDeletePage": {
+  "actID": "MenuExDeletePage",
+  "setID": ""
+ },
+ "MenuExDictionary": {
+  "actID": "MenuExDictionary",
+  "setID": ""
+ },
+ "MenuExDrawAlign": {
+  "actID": "MenuExDrawAlign",
+  "setID": ""
+ },
+ "MenuExDrawRotateFlip": {
+  "actID": "MenuExDrawRotateFlip",
+  "setID": ""
+ },
+ "MenuExDrawSameSize": {
+  "actID": "MenuExDrawSameSize",
+  "setID": ""
+ },
+ "MenuExDrawWrap": {
+  "actID": "MenuExDrawWrap",
+  "setID": ""
+ },
+ "MenuExDrawZorder": {
+  "actID": "MenuExDrawZorder",
+  "setID": ""
+ },
+ "MenuExEditChangeChar": {
+  "actID": "MenuExEditChangeChar",
+  "setID": ""
+ },
+ "MenuExEditChangeCharOffice9": {
+  "actID": "MenuExEditChangeCharOffice9",
+  "setID": ""
+ },
+ "MenuExEndNote": {
+  "actID": "MenuExEndNote",
+  "setID": ""
+ },
+ "MenuExEquation": {
+  "actID": "MenuExEquation",
+  "setID": ""
+ },
+ "MenuExFileSecurity": {
+  "actID": "MenuExFileSecurity",
+  "setID": ""
+ },
+ "MenuExFootNote": {
+  "actID": "MenuExFootNote",
+  "setID": ""
+ },
+ "MenuExFooter": {
+  "actID": "MenuExFooter",
+  "setID": ""
+ },
+ "MenuExFormObject": {
+  "actID": "MenuExFormObject",
+  "setID": ""
+ },
+ "MenuExHeader": {
+  "actID": "MenuExHeader",
+  "setID": ""
+ },
+ "MenuExHeaderFooterNum": {
+  "actID": "MenuExHeaderFooterNum",
+  "setID": ""
+ },
+ "MenuExHeaderMarginPageNum": {
+  "actID": "MenuExHeaderMarginPageNum",
+  "setID": ""
+ },
+ "MenuExHeaderNormal": {
+  "actID": "MenuExHeaderNormal",
+  "setID": ""
+ },
+ "MenuExHeaderUSA": {
+  "actID": "MenuExHeaderUSA",
+  "setID": ""
+ },
+ "MenuExIdiom": {
+  "actID": "MenuExIdiom",
+  "setID": ""
+ },
+ "MenuExIndex": {
+  "actID": "MenuExIndex",
+  "setID": ""
+ },
+ "MenuExInputHanja": {
+  "actID": "MenuExInputHanja",
+  "setID": ""
+ },
+ "MenuExInputHelper": {
+  "actID": "MenuExInputHelper",
+  "setID": ""
+ },
+ "MenuExInputIdiom": {
+  "actID": "MenuExInputIdiom",
+  "setID": ""
+ },
+ "MenuExInsertRevision": {
+  "actID": "MenuExInsertRevision",
+  "setID": ""
+ },
+ "MenuExInsertVertTextBox": {
+  "actID": "MenuExInsertVertTextBox",
+  "setID": ""
+ },
+ "MenuExKeyboard": {
+  "actID": "MenuExKeyboard",
+  "setID": ""
+ },
+ "MenuExLabel": {
+  "actID": "MenuExLabel",
+  "setID": ""
+ },
+ "MenuExLineNumbers": {
+  "actID": "MenuExLineNumbers",
+  "setID": ""
+ },
+ "MenuExLinkTextBox": {
+  "actID": "MenuExLinkTextBox",
+  "setID": ""
+ },
+ "MenuExMacro": {
+  "actID": "MenuExMacro",
+  "setID": ""
+ },
+ "MenuExMailMerge": {
+  "actID": "MenuExMailMerge",
+  "setID": ""
+ },
+ "MenuExMemo": {
+  "actID": "MenuExMemo",
+  "setID": ""
+ },
+ "MenuExMemoLineStyle": {
+  "actID": "MenuExMemoLineStyle",
+  "setID": ""
+ },
+ "MenuExMultiColumnFootNote": {
+  "actID": "MenuExMultiColumnFootNote",
+  "setID": ""
+ },
+ "MenuExNetffice": {
+  "actID": "MenuExNetffice",
+  "setID": ""
+ },
+ "MenuExNoteNumShape": {
+  "actID": "MenuExNoteNumShape",
+  "setID": ""
+ },
+ "MenuExObjectBackAlign": {
+  "actID": "MenuExObjectBackAlign",
+  "setID": ""
+ },
+ "MenuExObjectFlip": {
+  "actID": "MenuExObjectFlip",
+  "setID": ""
+ },
+ "MenuExObjectFrontAlign": {
+  "actID": "MenuExObjectFrontAlign",
+  "setID": ""
+ },
+ "MenuExObjectPictureLineStyle": {
+  "actID": "MenuExObjectPictureLineStyle",
+  "setID": ""
+ },
+ "MenuExObjectRotate": {
+  "actID": "MenuExObjectRotate",
+  "setID": ""
+ },
+ "MenuExObjectRotateOffice9": {
+  "actID": "MenuExObjectRotateOffice9",
+  "setID": ""
+ },
+ "MenuExPageOrientation": {
+  "actID": "MenuExPageOrientation",
+  "setID": ""
+ },
+ "MenuExPageViewType": {
+  "actID": "MenuExPageViewType",
+  "setID": ""
+ },
+ "MenuExParaShapeAlign": {
+  "actID": "MenuExParaShapeAlign",
+  "setID": ""
+ },
+ "MenuExPicReplaceSave": {
+  "actID": "MenuExPicReplaceSave",
+  "setID": ""
+ },
+ "MenuExPictureEffect": {
+  "actID": "MenuExPictureEffect",
+  "setID": ""
+ },
+ "MenuExPictureEffects": {
+  "actID": "MenuExPictureEffects",
+  "setID": ""
+ },
+ "MenuExPictureShadow": {
+  "actID": "MenuExPictureShadow",
+  "setID": ""
+ },
+ "MenuExPresentation": {
+  "actID": "MenuExPresentation",
+  "setID": ""
+ },
+ "MenuExPrivateInfoSecurity": {
+  "actID": "MenuExPrivateInfoSecurity",
+  "setID": ""
+ },
+ "MenuExQuickCorrect": {
+  "actID": "MenuExQuickCorrect",
+  "setID": ""
+ },
+ "MenuExQuickParts": {
+  "actID": "MenuExQuickParts",
+  "setID": ""
+ },
+ "MenuExRome": {
+  "actID": "MenuExRome",
+  "setID": ""
+ },
+ "MenuExSOGroup": {
+  "actID": "MenuExSOGroup",
+  "setID": ""
+ },
+ "MenuExSOGuideLine": {
+  "actID": "MenuExSOGuideLine",
+  "setID": ""
+ },
+ "MenuExSOHorText": {
+  "actID": "MenuExSOHorText",
+  "setID": ""
+ },
+ "MenuExSORotate": {
+  "actID": "MenuExSORotate",
+  "setID": ""
+ },
+ "MenuExSOWrapText": {
+  "actID": "MenuExSOWrapText",
+  "setID": ""
+ },
+ "MenuExSecTextVert": {
+  "actID": "MenuExSecTextVert",
+  "setID": ""
+ },
+ "MenuExShapeGroup": {
+  "actID": "MenuExShapeGroup",
+  "setID": ""
+ },
+ "MenuExShapeObject": {
+  "actID": "MenuExShapeObject",
+  "setID": ""
+ },
+ "MenuExShapeObjectLineStyle": {
+  "actID": "MenuExShapeObjectLineStyle",
+  "setID": ""
+ },
+ "MenuExShapeObjectLock": {
+  "actID": "MenuExShapeObjectLock",
+  "setID": ""
+ },
+ "MenuExShapeObjectProperty": {
+  "actID": "MenuExShapeObjectProperty",
+  "setID": ""
+ },
+ "MenuExSpeller": {
+  "actID": "MenuExSpeller",
+  "setID": ""
+ },
+ "MenuExStyleEx": {
+  "actID": "MenuExStyleEx",
+  "setID": ""
+ },
+ "MenuExTableAutoDraw": {
+  "actID": "MenuExTableAutoDraw",
+  "setID": ""
+ },
+ "MenuExTableAutoFill": {
+  "actID": "MenuExTableAutoFill",
+  "setID": ""
+ },
+ "MenuExTableCellAlign": {
+  "actID": "MenuExTableCellAlign",
+  "setID": ""
+ },
+ "MenuExTableCellBorder": {
+  "actID": "MenuExTableCellBorder",
+  "setID": ""
+ },
+ "MenuExTableCellSplit": {
+  "actID": "MenuExTableCellSplit",
+  "setID": ""
+ },
+ "MenuExTableDelete": {
+  "actID": "MenuExTableDelete",
+  "setID": ""
+ },
+ "MenuExTableFormula": {
+  "actID": "MenuExTableFormula",
+  "setID": ""
+ },
+ "MenuExTableInsertComma": {
+  "actID": "MenuExTableInsertComma",
+  "setID": ""
+ },
+ "MenuExTableMakeCell": {
+  "actID": "MenuExTableMakeCell",
+  "setID": ""
+ },
+ "MenuExTableMerge": {
+  "actID": "MenuExTableMerge",
+  "setID": ""
+ },
+ "MenuExTableStyleOption": {
+  "actID": "MenuExTableStyleOption",
+  "setID": ""
+ },
+ "MenuExTextBoxVAlign": {
+  "actID": "MenuExTextBoxVAlign",
+  "setID": ""
+ },
+ "MenuExTrackChange": {
+  "actID": "MenuExTrackChange",
+  "setID": ""
+ },
+ "MenuExTrackChangeApply": {
+  "actID": "MenuExTrackChangeApply",
+  "setID": ""
+ },
+ "MenuExTrackChangeCancel": {
+  "actID": "MenuExTrackChangeCancel",
+  "setID": ""
+ },
+ "MenuExTrackChangeContents": {
+  "actID": "MenuExTrackChangeContents",
+  "setID": ""
+ },
+ "MenuExTranslate": {
+  "actID": "MenuExTranslate",
+  "setID": ""
+ },
+ "MenuExViewShowGrid": {
+  "actID": "MenuExViewShowGrid",
+  "setID": ""
+ },
+ "MenuExViewShowPronounce": {
+  "actID": "MenuExViewShowPronounce",
+  "setID": ""
+ },
+ "MenuExWindowAlign": {
+  "actID": "MenuExWindowAlign",
+  "setID": ""
+ },
+ "MenuExWindowList": {
+  "actID": "MenuExWindowList",
+  "setID": ""
+ },
+ "MenuExWindowSplit": {
+  "actID": "MenuExWindowSplit",
+  "setID": ""
+ },
+ "MenuInsertBreak": {
+  "actID": "MenuInsertBreak",
+  "setID": ""
+ },
+ "MessageBox": {
+  "actID": "MessageBox",
+  "setID": "MessageBox"
+ },
+ "MetaTag": {
+  "actID": "MetaTag",
+  "setID": "MetaTag"
+ },
+ "ModifyBaseProperty": {
+  "actID": "ModifyBaseProperty",
+  "setID": ""
+ },
+ "ModifyBookmark": {
+  "actID": "ModifyBookmark",
+  "setID": "BookMark"
+ },
+ "ModifyComposeChars": {
+  "actID": "ModifyComposeChars",
+  "setID": ""
+ },
+ "ModifyCrossReference": {
+  "actID": "ModifyCrossReference",
+  "setID": "ActionCrossRef"
+ },
+ "ModifyCtrl": {
+  "actID": "ModifyCtrl",
+  "setID": ""
+ },
+ "ModifyDutmal": {
+  "actID": "ModifyDutmal",
+  "setID": ""
+ },
+ "ModifyFieldClickhere": {
+  "actID": "ModifyFieldClickhere",
+  "setID": "InsertFieldTemplate"
+ },
+ "ModifyFieldDate": {
+  "actID": "ModifyFieldDate",
+  "setID": "InsertFieldTemplate"
+ },
+ "ModifyFieldDateTime": {
+  "actID": "ModifyFieldDateTime",
+  "setID": "InputDateStyle"
+ },
+ "ModifyFieldPath": {
+  "actID": "ModifyFieldPath",
+  "setID": "InsertFieldTemplate"
+ },
+ "ModifyFieldSummary": {
+  "actID": "ModifyFieldSummary",
+  "setID": "InsertFieldTemplate"
+ },
+ "ModifyFieldUserInfo": {
+  "actID": "ModifyFieldUserInfo",
+  "setID": "InsertFieldTemplate"
+ },
+ "ModifyFillOthProperty": {
+  "actID": "ModifyFillOthProperty",
+  "setID": ""
+ },
+ "ModifyFillProperty": {
+  "actID": "ModifyFillProperty",
+  "setID": ""
+ },
+ "ModifyHyperlink": {
+  "actID": "ModifyHyperlink",
+  "setID": "HyperLink"
+ },
+ "ModifyImageProperty": {
+  "actID": "ModifyImageProperty",
+  "setID": ""
+ },
+ "ModifyLineProperty": {
+  "actID": "ModifyLineProperty",
+  "setID": ""
+ },
+ "ModifyMarginProperty": {
+  "actID": "ModifyMarginProperty",
+  "setID": ""
+ },
+ "ModifyPicGlowProperty": {
+  "actID": "ModifyPicGlowProperty",
+  "setID": ""
+ },
+ "ModifyPicReflectionProperty": {
+  "actID": "ModifyPicReflectionProperty",
+  "setID": ""
+ },
+ "ModifyPicShadowProperty": {
+  "actID": "ModifyPicShadowProperty",
+  "setID": ""
+ },
+ "ModifyPicSoftEdgeProperty": {
+  "actID": "ModifyPicSoftEdgeProperty",
+  "setID": ""
+ },
+ "ModifyRevision": {
+  "actID": "ModifyRevision",
+  "setID": "RevisionDef"
+ },
+ "ModifyRevisionHyperlink": {
+  "actID": "ModifyRevisionHyperlink",
+  "setID": "HyperLink"
+ },
+ "ModifySecTextHorz": {
+  "actID": "ModifySecTextHorz",
+  "setID": "TextVertical"
+ },
+ "ModifySecTextVert": {
+  "actID": "ModifySecTextVert",
+  "setID": "TextVertical"
+ },
+ "ModifySecTextVertAll": {
+  "actID": "ModifySecTextVertAll",
+  "setID": "TextVertical"
+ },
+ "ModifySection": {
+  "actID": "ModifySection",
+  "setID": "SecDef"
+ },
+ "ModifyShadowProperty": {
+  "actID": "ModifyShadowProperty",
+  "setID": ""
+ },
+ "ModifyShapeObject": {
+  "actID": "ModifyShapeObject",
+  "setID": ""
+ },
+ "ModifyTableCellShade": {
+  "actID": "ModifyTableCellShade",
+  "setID": ""
+ },
+ "ModifyTextArtProperty": {
+  "actID": "ModifyTextArtProperty",
+  "setID": ""
+ },
+ "ModifyTextArtShadowProperty": {
+  "actID": "ModifyTextArtShadowProperty",
+  "setID": ""
+ },
+ "ModifyTextBoxProperty": {
+  "actID": "ModifyTextBoxProperty",
+  "setID": ""
+ },
+ "MoveCaretBack": {
+  "actID": "MoveCaretBack",
+  "setID": ""
+ },
+ "MoveCaretPrev": {
+  "actID": "MoveCaretPrev",
+  "setID": ""
+ },
+ "MoveColumnBegin": {
+  "actID": "MoveColumnBegin",
+  "setID": ""
+ },
+ "MoveColumnEnd": {
+  "actID": "MoveColumnEnd",
+  "setID": ""
+ },
+ "MoveDocBegin": {
+  "actID": "MoveDocBegin",
+  "setID": ""
+ },
+ "MoveDocEnd": {
+  "actID": "MoveDocEnd",
+  "setID": ""
+ },
+ "MoveDown": {
+  "actID": "MoveDown",
+  "setID": ""
+ },
+ "MoveLeft": {
+  "actID": "MoveLeft",
+  "setID": ""
+ },
+ "MoveLineBegin": {
+  "actID": "MoveLineBegin",
+  "setID": ""
+ },
+ "MoveLineDown": {
+  "actID": "MoveLineDown",
+  "setID": ""
+ },
+ "MoveLineEnd": {
+  "actID": "MoveLineEnd",
+  "setID": ""
+ },
+ "MoveLineUp": {
+  "actID": "MoveLineUp",
+  "setID": ""
+ },
+ "MoveListBegin": {
+  "actID": "MoveListBegin",
+  "setID": ""
+ },
+ "MoveListEnd": {
+  "actID": "MoveListEnd",
+  "setID": ""
+ },
+ "MoveNextChar": {
+  "actID": "MoveNextChar",
+  "setID": ""
+ },
+ "MoveNextColumn": {
+  "actID": "MoveNextColumn",
+  "setID": ""
+ },
+ "MoveNextList": {
+  "actID": "MoveNextList",
+  "setID": ""
+ },
+ "MoveNextParaBegin": {
+  "actID": "MoveNextParaBegin",
+  "setID": ""
+ },
+ "MoveNextPos": {
+  "actID": "MoveNextPos",
+  "setID": ""
+ },
+ "MoveNextPosEx": {
+  "actID": "MoveNextPosEx",
+  "setID": ""
+ },
+ "MoveNextWord": {
+  "actID": "MoveNextWord",
+  "setID": ""
+ },
+ "MovePageBegin": {
+  "actID": "MovePageBegin",
+  "setID": ""
+ },
+ "MovePageDown": {
+  "actID": "MovePageDown",
+  "setID": ""
+ },
+ "MovePageEnd": {
+  "actID": "MovePageEnd",
+  "setID": ""
+ },
+ "MovePageUp": {
+  "actID": "MovePageUp",
+  "setID": ""
+ },
+ "MoveParaBegin": {
+  "actID": "MoveParaBegin",
+  "setID": ""
+ },
+ "MoveParaEnd": {
+  "actID": "MoveParaEnd",
+  "setID": ""
+ },
+ "MoveParentList": {
+  "actID": "MoveParentList",
+  "setID": ""
+ },
+ "MovePrevChar": {
+  "actID": "MovePrevChar",
+  "setID": ""
+ },
+ "MovePrevColumn": {
+  "actID": "MovePrevColumn",
+  "setID": ""
+ },
+ "MovePrevList": {
+  "actID": "MovePrevList",
+  "setID": ""
+ },
+ "MovePrevParaBegin": {
+  "actID": "MovePrevParaBegin",
+  "setID": ""
+ },
+ "MovePrevParaEnd": {
+  "actID": "MovePrevParaEnd",
+  "setID": ""
+ },
+ "MovePrevPos": {
+  "actID": "MovePrevPos",
+  "setID": ""
+ },
+ "MovePrevPosEx": {
+  "actID": "MovePrevPosEx",
+  "setID": ""
+ },
+ "MovePrevWord": {
+  "actID": "MovePrevWord",
+  "setID": ""
+ },
+ "MoveRight": {
+  "actID": "MoveRight",
+  "setID": ""
+ },
+ "MoveRootList": {
+  "actID": "MoveRootList",
+  "setID": ""
+ },
+ "MoveScrollDown": {
+  "actID": "MoveScrollDown",
+  "setID": ""
+ },
+ "MoveScrollNext": {
+  "actID": "MoveScrollNext",
+  "setID": ""
+ },
+ "MoveScrollPrev": {
+  "actID": "MoveScrollPrev",
+  "setID": ""
+ },
+ "MoveScrollUp": {
+  "actID": "MoveScrollUp",
+  "setID": ""
+ },
+ "MoveSectionDown": {
+  "actID": "MoveSectionDown",
+  "setID": ""
+ },
+ "MoveSectionUp": {
+  "actID": "MoveSectionUp",
+  "setID": ""
+ },
+ "MoveSelDocBegin": {
+  "actID": "MoveSelDocBegin",
+  "setID": ""
+ },
+ "MoveSelDocEnd": {
+  "actID": "MoveSelDocEnd",
+  "setID": ""
+ },
+ "MoveSelDown": {
+  "actID": "MoveSelDown",
+  "setID": ""
+ },
+ "MoveSelLeft": {
+  "actID": "MoveSelLeft",
+  "setID": ""
+ },
+ "MoveSelLineBegin": {
+  "actID": "MoveSelLineBegin",
+  "setID": ""
+ },
+ "MoveSelLineDown": {
+  "actID": "MoveSelLineDown",
+  "setID": ""
+ },
+ "MoveSelLineEnd": {
+  "actID": "MoveSelLineEnd",
+  "setID": ""
+ },
+ "MoveSelLineUp": {
+  "actID": "MoveSelLineUp",
+  "setID": ""
+ },
+ "MoveSelListBegin": {
+  "actID": "MoveSelListBegin",
+  "setID": ""
+ },
+ "MoveSelListEnd": {
+  "actID": "MoveSelListEnd",
+  "setID": ""
+ },
+ "MoveSelNextChar": {
+  "actID": "MoveSelNextChar",
+  "setID": ""
+ },
+ "MoveSelNextParaBegin": {
+  "actID": "MoveSelNextParaBegin",
+  "setID": ""
+ },
+ "MoveSelNextPos": {
+  "actID": "MoveSelNextPos",
+  "setID": ""
+ },
+ "MoveSelNextWord": {
+  "actID": "MoveSelNextWord",
+  "setID": ""
+ },
+ "MoveSelPageDown": {
+  "actID": "MoveSelPageDown",
+  "setID": ""
+ },
+ "MoveSelPageUp": {
+  "actID": "MoveSelPageUp",
+  "setID": ""
+ },
+ "MoveSelParaBegin": {
+  "actID": "MoveSelParaBegin",
+  "setID": ""
+ },
+ "MoveSelParaEnd": {
+  "actID": "MoveSelParaEnd",
+  "setID": ""
+ },
+ "MoveSelPrevChar": {
+  "actID": "MoveSelPrevChar",
+  "setID": ""
+ },
+ "MoveSelPrevParaBegin": {
+  "actID": "MoveSelPrevParaBegin",
+  "setID": ""
+ },
+ "MoveSelPrevParaEnd": {
+  "actID": "MoveSelPrevParaEnd",
+  "setID": ""
+ },
+ "MoveSelPrevPos": {
+  "actID": "MoveSelPrevPos",
+  "setID": ""
+ },
+ "MoveSelPrevWord": {
+  "actID": "MoveSelPrevWord",
+  "setID": ""
+ },
+ "MoveSelRight": {
+  "actID": "MoveSelRight",
+  "setID": ""
+ },
+ "MoveSelTopLevelBegin": {
+  "actID": "MoveSelTopLevelBegin",
+  "setID": ""
+ },
+ "MoveSelTopLevelEnd": {
+  "actID": "MoveSelTopLevelEnd",
+  "setID": ""
+ },
+ "MoveSelUp": {
+  "actID": "MoveSelUp",
+  "setID": ""
+ },
+ "MoveSelViewDown": {
+  "actID": "MoveSelViewDown",
+  "setID": ""
+ },
+ "MoveSelViewUp": {
+  "actID": "MoveSelViewUp",
+  "setID": ""
+ },
+ "MoveSelWordBegin": {
+  "actID": "MoveSelWordBegin",
+  "setID": ""
+ },
+ "MoveSelWordEnd": {
+  "actID": "MoveSelWordEnd",
+  "setID": ""
+ },
+ "MoveTopLevelBegin": {
+  "actID": "MoveTopLevelBegin",
+  "setID": ""
+ },
+ "MoveTopLevelEnd": {
+  "actID": "MoveTopLevelEnd",
+  "setID": ""
+ },
+ "MoveTopLevelList": {
+  "actID": "MoveTopLevelList",
+  "setID": ""
+ },
+ "MoveUp": {
+  "actID": "MoveUp",
+  "setID": ""
+ },
+ "MoveViewBegin": {
+  "actID": "MoveViewBegin",
+  "setID": ""
+ },
+ "MoveViewDown": {
+  "actID": "MoveViewDown",
+  "setID": ""
+ },
+ "MoveViewEnd": {
+  "actID": "MoveViewEnd",
+  "setID": ""
+ },
+ "MoveViewUp": {
+  "actID": "MoveViewUp",
+  "setID": ""
+ },
+ "MoveWordBegin": {
+  "actID": "MoveWordBegin",
+  "setID": ""
+ },
+ "MoveWordEnd": {
+  "actID": "MoveWordEnd",
+  "setID": ""
+ },
+ "Mu2": {
+  "actID": "Mu2",
+  "setID": "ColDef"
+ },
+ "Mu3": {
+  "actID": "Mu3",
+  "setID": "ColDef"
+ },
+ "MultiColumn": {
+  "actID": "MultiColumn",
+  "setID": "ColDef"
+ },
+ "NetfficeAddService": {
+  "actID": "NetfficeAddService",
+  "setID": ""
+ },
+ "NetfficeLogInOut": {
+  "actID": "NetfficeLogInOut",
+  "setID": ""
+ },
+ "NetfficeManageAccount": {
+  "actID": "NetfficeManageAccount",
+  "setID": ""
+ },
+ "NewNumber": {
+  "actID": "NewNumber",
+  "setID": "AutoNum"
+ },
+ "NewNumberModify": {
+  "actID": "NewNumberModify",
+  "setID": "AutoNum"
+ },
+ "NextTextBoxLinked": {
+  "actID": "NextTextBoxLinked",
+  "setID": ""
+ },
+ "NoSplit": {
+  "actID": "NoSplit",
+  "setID": ""
+ },
+ "NoneTableCellShade": {
+  "actID": "NoneTableCellShade",
+  "setID": "CellBorderFill"
+ },
+ "NoneTextArtShadow": {
+  "actID": "NoneTextArtShadow",
+  "setID": "ShapeObject"
+ },
+ "NoteDelete": {
+  "actID": "NoteDelete",
+  "setID": ""
+ },
+ "NoteLineColor": {
+  "actID": "NoteLineColor",
+  "setID": ""
+ },
+ "NoteLineLength": {
+  "actID": "NoteLineLength",
+  "setID": ""
+ },
+ "NoteLineLength4TBox": {
+  "actID": "NoteLineLength4TBox",
+  "setID": ""
+ },
+ "NoteLineShape": {
+  "actID": "NoteLineShape",
+  "setID": ""
+ },
+ "NoteLineType": {
+  "actID": "NoteLineType",
+  "setID": ""
+ },
+ "NoteLineWeight": {
+  "actID": "NoteLineWeight",
+  "setID": ""
+ },
+ "NoteLineWidth": {
+  "actID": "NoteLineWidth",
+  "setID": ""
+ },
+ "NoteModify": {
+  "actID": "NoteModify",
+  "setID": ""
+ },
+ "NoteModifyLineLength": {
+  "actID": "NoteModifyLineLength",
+  "setID": ""
+ },
+ "NoteNoSuperscript": {
+  "actID": "NoteNoSuperscript",
+  "setID": "SecDef"
+ },
+ "NoteNumProperty": {
+  "actID": "NoteNumProperty",
+  "setID": ""
+ },
+ "NoteNumShape": {
+  "actID": "NoteNumShape",
+  "setID": ""
+ },
+ "NotePosition": {
+  "actID": "NotePosition",
+  "setID": ""
+ },
+ "NoteSuperscript": {
+  "actID": "NoteSuperscript",
+  "setID": "SecDef"
+ },
+ "NoteToNext": {
+  "actID": "NoteToNext",
+  "setID": ""
+ },
+ "NoteToPrev": {
+  "actID": "NoteToPrev",
+  "setID": ""
+ },
+ "OleCreateNew": {
+  "actID": "OleCreateNew",
+  "setID": "OleCreation"
+ },
+ "OleEditConvert": {
+  "actID": "OleEditConvert",
+  "setID": ""
+ },
+ "OleEditLinks": {
+  "actID": "OleEditLinks",
+  "setID": ""
+ },
+ "OleEditProperties": {
+  "actID": "OleEditProperties",
+  "setID": ""
+ },
+ "OnlineOptionCustomizedLetterSend": {
+  "actID": "OnlineOptionCustomizedLetterSend",
+  "setID": ""
+ },
+ "OnlineOptionEPost": {
+  "actID": "OnlineOptionEPost",
+  "setID": ""
+ },
+ "OnlineOptionEPostGuide": {
+  "actID": "OnlineOptionEPostGuide",
+  "setID": ""
+ },
+ "OnlineOptionEPostSend": {
+  "actID": "OnlineOptionEPostSend",
+  "setID": ""
+ },
+ "OnlineOptionEPostTemplate": {
+  "actID": "OnlineOptionEPostTemplate",
+  "setID": "FileOpen"
+ },
+ "OnlineOptionFaxConfirm": {
+  "actID": "OnlineOptionFaxConfirm",
+  "setID": ""
+ },
+ "OnlineOptionFaxSend": {
+  "actID": "OnlineOptionFaxSend",
+  "setID": ""
+ },
+ "OnlineOptionFormsDownload": {
+  "actID": "OnlineOptionFormsDownload",
+  "setID": ""
+ },
+ "OnlineOptionThinkfree": {
+  "actID": "OnlineOptionThinkfree",
+  "setID": ""
+ },
+ "OnlineOptionThinkfreeLoginout": {
+  "actID": "OnlineOptionThinkfreeLoginout",
+  "setID": ""
+ },
+ "OutlineFillGradient": {
+  "actID": "OutlineFillGradient",
+  "setID": "ShapeObject"
+ },
+ "OutlineGradientStopsPreset": {
+  "actID": "OutlineGradientStopsPreset",
+  "setID": "ShapeObject"
+ },
+ "OutlineNumber": {
+  "actID": "OutlineNumber",
+  "setID": "SecDef"
+ },
+ "PUAConvertAll": {
+  "actID": "PUAConvertAll",
+  "setID": ""
+ },
+ "PUAConvertSel": {
+  "actID": "PUAConvertSel",
+  "setID": ""
+ },
+ "PUAFindBackwark": {
+  "actID": "PUAFindBackwark",
+  "setID": ""
+ },
+ "PUAFindForward": {
+  "actID": "PUAFindForward",
+  "setID": ""
+ },
+ "PUAIsMarkPen": {
+  "actID": "PUAIsMarkPen",
+  "setID": ""
+ },
+ "PUAMarkAll": {
+  "actID": "PUAMarkAll",
+  "setID": ""
+ },
+ "PUAUnmarkAll": {
+  "actID": "PUAUnmarkAll",
+  "setID": ""
+ },
+ "PageBorder": {
+  "actID": "PageBorder",
+  "setID": "SecDef"
+ },
+ "PageBorderTab": {
+  "actID": "PageBorderTab",
+  "setID": "SecDef"
+ },
+ "PageFillColor": {
+  "actID": "PageFillColor",
+  "setID": ""
+ },
+ "PageFillColorNone": {
+  "actID": "PageFillColorNone",
+  "setID": ""
+ },
+ "PageFillTab": {
+  "actID": "PageFillTab",
+  "setID": "SecDef"
+ },
+ "PageHiding": {
+  "actID": "PageHiding",
+  "setID": "PageHiding"
+ },
+ "PageHidingModify": {
+  "actID": "PageHidingModify",
+  "setID": "PageHiding"
+ },
+ "PageLandscape": {
+  "actID": "PageLandscape",
+  "setID": "SecDef"
+ },
+ "PageMarginSetup": {
+  "actID": "PageMarginSetup",
+  "setID": "SecDef"
+ },
+ "PageNumPos": {
+  "actID": "PageNumPos",
+  "setID": "PageNumPos"
+ },
+ "PageNumPosModify": {
+  "actID": "PageNumPosModify",
+  "setID": "PageNumPos"
+ },
+ "PagePortrait": {
+  "actID": "PagePortrait",
+  "setID": "SecDef"
+ },
+ "PageSetup": {
+  "actID": "PageSetup",
+  "setID": "SecDef"
+ },
+ "PageSetupDL": {
+  "actID": "PageSetupDL",
+  "setID": "SecDef"
+ },
+ "ParaNumberBullet": {
+  "actID": "ParaNumberBullet",
+  "setID": "ParaShape"
+ },
+ "ParaNumberBulletLevelDown": {
+  "actID": "ParaNumberBulletLevelDown",
+  "setID": "ParaShape"
+ },
+ "ParaNumberBulletLevelUp": {
+  "actID": "ParaNumberBulletLevelUp",
+  "setID": "ParaShape"
+ },
+ "ParaNumberDlg": {
+  "actID": "ParaNumberDlg",
+  "setID": "ParaShape"
+ },
+ "ParaShapeDialog": {
+  "actID": "ParaShapeDialog",
+  "setID": "ParaShape"
+ },
+ "ParaShapeLineSpace": {
+  "actID": "ParaShapeLineSpace",
+  "setID": ""
+ },
+ "ParaShapeNextSpace": {
+  "actID": "ParaShapeNextSpace",
+  "setID": ""
+ },
+ "ParaShapePrevSpace": {
+  "actID": "ParaShapePrevSpace",
+  "setID": ""
+ },
+ "ParagraphShape": {
+  "actID": "ParagraphShape",
+  "setID": "ParaShape"
+ },
+ "ParagraphShapeAlignCenter": {
+  "actID": "ParagraphShapeAlignCenter",
+  "setID": ""
+ },
+ "ParagraphShapeAlignDistribute": {
+  "actID": "ParagraphShapeAlignDistribute",
+  "setID": ""
+ },
+ "ParagraphShapeAlignDivision": {
+  "actID": "ParagraphShapeAlignDivision",
+  "setID": ""
+ },
+ "ParagraphShapeAlignJustify": {
+  "actID": "ParagraphShapeAlignJustify",
+  "setID": ""
+ },
+ "ParagraphShapeAlignLeft": {
+  "actID": "ParagraphShapeAlignLeft",
+  "setID": ""
+ },
+ "ParagraphShapeAlignRight": {
+  "actID": "ParagraphShapeAlignRight",
+  "setID": ""
+ },
+ "ParagraphShapeDL": {
+  "actID": "ParagraphShapeDL",
+  "setID": "ParaShape"
+ },
+ "ParagraphShapeDecreaseLeftMargin": {
+  "actID": "ParagraphShapeDecreaseLeftMargin",
+  "setID": ""
+ },
+ "ParagraphShapeDecreaseLineSpacing": {
+  "actID": "ParagraphShapeDecreaseLineSpacing",
+  "setID": ""
+ },
+ "ParagraphShapeDecreaseMargin": {
+  "actID": "ParagraphShapeDecreaseMargin",
+  "setID": ""
+ },
+ "ParagraphShapeDecreaseRightMargin": {
+  "actID": "ParagraphShapeDecreaseRightMargin",
+  "setID": ""
+ },
+ "ParagraphShapeIncreaseLeftMargin": {
+  "actID": "ParagraphShapeIncreaseLeftMargin",
+  "setID": ""
+ },
+ "ParagraphShapeIncreaseLineSpacing": {
+  "actID": "ParagraphShapeIncreaseLineSpacing",
+  "setID": ""
+ },
+ "ParagraphShapeIncreaseMargin": {
+  "actID": "ParagraphShapeIncreaseMargin",
+  "setID": ""
+ },
+ "ParagraphShapeIncreaseRightMargin": {
+  "actID": "ParagraphShapeIncreaseRightMargin",
+  "setID": ""
+ },
+ "ParagraphShapeIndentAtCaret": {
+  "actID": "ParagraphShapeIndentAtCaret",
+  "setID": ""
+ },
+ "ParagraphShapeIndentNegative": {
+  "actID": "ParagraphShapeIndentNegative",
+  "setID": ""
+ },
+ "ParagraphShapeIndentPositive": {
+  "actID": "ParagraphShapeIndentPositive",
+  "setID": ""
+ },
+ "ParagraphShapeProtect": {
+  "actID": "ParagraphShapeProtect",
+  "setID": ""
+ },
+ "ParagraphShapeSingleRow": {
+  "actID": "ParagraphShapeSingleRow",
+  "setID": ""
+ },
+ "ParagraphShapeWithNext": {
+  "actID": "ParagraphShapeWithNext",
+  "setID": ""
+ },
+ "Paste": {
+  "actID": "Paste",
+  "setID": "SelectionOpt"
+ },
+ "PasteContinuousNumber": {
+  "actID": "PasteContinuousNumber",
+  "setID": ""
+ },
+ "PasteExceptField": {
+  "actID": "PasteExceptField",
+  "setID": "SelectionOpt"
+ },
+ "PasteHtmlDialog": {
+  "actID": "PasteHtmlDialog",
+  "setID": "PasteHtml"
+ },
+ "PasteMerge": {
+  "actID": "PasteMerge",
+  "setID": ""
+ },
+ "PasteMergeNumber": {
+  "actID": "PasteMergeNumber",
+  "setID": ""
+ },
+ "PasteNewNumber": {
+  "actID": "PasteNewNumber",
+  "setID": ""
+ },
+ "PasteNotToMergeNumber": {
+  "actID": "PasteNotToMergeNumber",
+  "setID": ""
+ },
+ "PasteOriginal": {
+  "actID": "PasteOriginal",
+  "setID": ""
+ },
+ "PastePage": {
+  "actID": "PastePage",
+  "setID": ""
+ },
+ "PasteSpecial": {
+  "actID": "PasteSpecial",
+  "setID": ""
+ },
+ "PasteTarget": {
+  "actID": "PasteTarget",
+  "setID": ""
+ },
+ "PasteTextOnly": {
+  "actID": "PasteTextOnly",
+  "setID": ""
+ },
+ "PictureBulletDlg": {
+  "actID": "PictureBulletDlg",
+  "setID": "ParaShape"
+ },
+ "PictureChange": {
+  "actID": "PictureChange",
+  "setID": "PictureChange"
+ },
+ "PictureConvertOldWmf": {
+  "actID": "PictureConvertOldWmf",
+  "setID": ""
+ },
+ "PictureEffect1": {
+  "actID": "PictureEffect1",
+  "setID": "ShapeObject"
+ },
+ "PictureEffect2": {
+  "actID": "PictureEffect2",
+  "setID": "ShapeObject"
+ },
+ "PictureEffect3": {
+  "actID": "PictureEffect3",
+  "setID": "ShapeObject"
+ },
+ "PictureEffect4": {
+  "actID": "PictureEffect4",
+  "setID": "ShapeObject"
+ },
+ "PictureEffect5": {
+  "actID": "PictureEffect5",
+  "setID": "ShapeObject"
+ },
+ "PictureEffect6": {
+  "actID": "PictureEffect6",
+  "setID": "ShapeObject"
+ },
+ "PictureEffect7": {
+  "actID": "PictureEffect7",
+  "setID": "ShapeObject"
+ },
+ "PictureEffect8": {
+  "actID": "PictureEffect8",
+  "setID": "ShapeObject"
+ },
+ "PictureGlowColor": {
+  "actID": "PictureGlowColor",
+  "setID": ""
+ },
+ "PictureInsertDialog": {
+  "actID": "PictureInsertDialog",
+  "setID": "ShapeObject"
+ },
+ "PictureLinkUpdate": {
+  "actID": "PictureLinkUpdate",
+  "setID": ""
+ },
+ "PictureLinkedToEmbedded": {
+  "actID": "PictureLinkedToEmbedded",
+  "setID": "ShapeObject"
+ },
+ "PictureNoBrightness": {
+  "actID": "PictureNoBrightness",
+  "setID": "ShapeObject"
+ },
+ "PictureNoContrast": {
+  "actID": "PictureNoContrast",
+  "setID": "ShapeObject"
+ },
+ "PictureNoGlow": {
+  "actID": "PictureNoGlow",
+  "setID": "ShapeObject"
+ },
+ "PictureNoReflection": {
+  "actID": "PictureNoReflection",
+  "setID": "ShapeObject"
+ },
+ "PictureNoShadow": {
+  "actID": "PictureNoShadow",
+  "setID": "ShapeObject"
+ },
+ "PictureNoSofeEdge": {
+  "actID": "PictureNoSofeEdge",
+  "setID": "ShapeObject"
+ },
+ "PictureNoStyle": {
+  "actID": "PictureNoStyle",
+  "setID": "ShapeObject"
+ },
+ "PictureSave": {
+  "actID": "PictureSave",
+  "setID": "ShapeObjSaveAsPicture"
+ },
+ "PictureSaveAs": {
+  "actID": "PictureSaveAs",
+  "setID": "SaveAsImage"
+ },
+ "PictureSaveAsActTypeSelect": {
+  "actID": "PictureSaveAsActTypeSelect",
+  "setID": ""
+ },
+ "PictureSaveAsAll": {
+  "actID": "PictureSaveAsAll",
+  "setID": "SaveAsImage"
+ },
+ "PictureSaveAsOption": {
+  "actID": "PictureSaveAsOption",
+  "setID": "SaveAsImage"
+ },
+ "PictureScissor": {
+  "actID": "PictureScissor",
+  "setID": ""
+ },
+ "PictureShadowColor": {
+  "actID": "PictureShadowColor",
+  "setID": ""
+ },
+ "PictureToOriginal": {
+  "actID": "PictureToOriginal",
+  "setID": ""
+ },
+ "Preference": {
+  "actID": "Preference",
+  "setID": "Preference"
+ },
+ "PresentClose": {
+  "actID": "PresentClose",
+  "setID": ""
+ },
+ "PresentCloseAndMove": {
+  "actID": "PresentCloseAndMove",
+  "setID": ""
+ },
+ "PresentFirstPage": {
+  "actID": "PresentFirstPage",
+  "setID": ""
+ },
+ "PresentFreeDraw": {
+  "actID": "PresentFreeDraw",
+  "setID": ""
+ },
+ "PresentFreeDrawClear": {
+  "actID": "PresentFreeDrawClear",
+  "setID": ""
+ },
+ "PresentFreeDrawColor": {
+  "actID": "PresentFreeDrawColor",
+  "setID": ""
+ },
+ "PresentFreeDrawErase": {
+  "actID": "PresentFreeDrawErase",
+  "setID": ""
+ },
+ "PresentLastPage": {
+  "actID": "PresentLastPage",
+  "setID": ""
+ },
+ "PresentMenuAuto": {
+  "actID": "PresentMenuAuto",
+  "setID": ""
+ },
+ "PresentMenuHide": {
+  "actID": "PresentMenuHide",
+  "setID": ""
+ },
+ "PresentMenuShow": {
+  "actID": "PresentMenuShow",
+  "setID": ""
+ },
+ "PresentMoveMonitor": {
+  "actID": "PresentMoveMonitor",
+  "setID": ""
+ },
+ "PresentMovePage": {
+  "actID": "PresentMovePage",
+  "setID": ""
+ },
+ "PresentNextPage": {
+  "actID": "PresentNextPage",
+  "setID": ""
+ },
+ "PresentPageMode": {
+  "actID": "PresentPageMode",
+  "setID": ""
+ },
+ "PresentPrevPage": {
+  "actID": "PresentPrevPage",
+  "setID": ""
+ },
+ "PresentScrollMode": {
+  "actID": "PresentScrollMode",
+  "setID": ""
+ },
+ "PresentZoomMode": {
+  "actID": "PresentZoomMode",
+  "setID": ""
+ },
+ "Presentation": {
+  "actID": "Presentation",
+  "setID": "Presentation"
+ },
+ "PresentationDelete": {
+  "actID": "PresentationDelete",
+  "setID": "Presentation"
+ },
+ "PresentationRange": {
+  "actID": "PresentationRange",
+  "setID": "Presentation"
+ },
+ "PresentationSetup": {
+  "actID": "PresentationSetup",
+  "setID": "Presentation"
+ },
+ "PrevPrinterPaper": {
+  "actID": "PrevPrinterPaper",
+  "setID": ""
+ },
+ "PrevTextBoxLinked": {
+  "actID": "PrevTextBoxLinked",
+  "setID": ""
+ },
+ "PrevZoomList": {
+  "actID": "PrevZoomList",
+  "setID": ""
+ },
+ "PreviewDown": {
+  "actID": "PreviewDown",
+  "setID": ""
+ },
+ "PreviewFirstPage": {
+  "actID": "PreviewFirstPage",
+  "setID": ""
+ },
+ "PreviewLastPage": {
+  "actID": "PreviewLastPage",
+  "setID": ""
+ },
+ "PreviewLeft": {
+  "actID": "PreviewLeft",
+  "setID": ""
+ },
+ "PreviewNext": {
+  "actID": "PreviewNext",
+  "setID": ""
+ },
+ "PreviewNextPage": {
+  "actID": "PreviewNextPage",
+  "setID": ""
+ },
+ "PreviewPrior": {
+  "actID": "PreviewPrior",
+  "setID": ""
+ },
+ "PreviewPriorPage": {
+  "actID": "PreviewPriorPage",
+  "setID": ""
+ },
+ "PreviewRight": {
+  "actID": "PreviewRight",
+  "setID": ""
+ },
+ "PreviewUp": {
+  "actID": "PreviewUp",
+  "setID": ""
+ },
+ "PrimaryHorizontalAxis": {
+  "actID": "PrimaryHorizontalAxis",
+  "setID": ""
+ },
+ "PrimaryHorizontalAxisTitle": {
+  "actID": "PrimaryHorizontalAxisTitle",
+  "setID": ""
+ },
+ "PrimaryMajorHorizontalGridlines": {
+  "actID": "PrimaryMajorHorizontalGridlines",
+  "setID": ""
+ },
+ "PrimaryMajorVerticalGridlines": {
+  "actID": "PrimaryMajorVerticalGridlines",
+  "setID": ""
+ },
+ "PrimaryMinorHorizontalGridlines": {
+  "actID": "PrimaryMinorHorizontalGridlines",
+  "setID": ""
+ },
+ "PrimaryMinorVerticalGridlines": {
+  "actID": "PrimaryMinorVerticalGridlines",
+  "setID": ""
+ },
+ "PrimaryVerticalAxis": {
+  "actID": "PrimaryVerticalAxis",
+  "setID": ""
+ },
+ "PrimaryVerticalAxisTitle": {
+  "actID": "PrimaryVerticalAxisTitle",
+  "setID": ""
+ },
+ "Print": {
+  "actID": "Print",
+  "setID": "Print"
+ },
+ "PrintOptionColor": {
+  "actID": "PrintOptionColor",
+  "setID": ""
+ },
+ "PrintOptionGray": {
+  "actID": "PrintOptionGray",
+  "setID": ""
+ },
+ "PrintOptionLightgray": {
+  "actID": "PrintOptionLightgray",
+  "setID": ""
+ },
+ "PrintSecurity": {
+  "actID": "PrintSecurity",
+  "setID": ""
+ },
+ "PrintSetup": {
+  "actID": "PrintSetup",
+  "setID": "Print"
+ },
+ "PrintToEMFEx": {
+  "actID": "PrintToEMFEx",
+  "setID": "Print"
+ },
+ "PrintToFax": {
+  "actID": "PrintToFax",
+  "setID": "Print"
+ },
+ "PrintToImage": {
+  "actID": "PrintToImage",
+  "setID": "PrintToImage"
+ },
+ "PrintToPDF": {
+  "actID": "PrintToPDF",
+  "setID": "Print"
+ },
+ "PrintToPDFEx": {
+  "actID": "PrintToPDFEx",
+  "setID": "Print"
+ },
+ "PrintToSVGEx": {
+  "actID": "PrintToSVGEx",
+  "setID": "Print"
+ },
+ "PrivateInfoChangePassword": {
+  "actID": "PrivateInfoChangePassword",
+  "setID": "PrivateInfoSecurity"
+ },
+ "PrivateInfoSetPassword": {
+  "actID": "PrivateInfoSetPassword",
+  "setID": "PrivateInfoSecurity"
+ },
+ "ProtectPrivateInfo": {
+  "actID": "ProtectPrivateInfo",
+  "setID": "PrivateInfoSecurity"
+ },
+ "PstAutoPlay": {
+  "actID": "PstAutoPlay",
+  "setID": ""
+ },
+ "PstBlackToWhite": {
+  "actID": "PstBlackToWhite",
+  "setID": ""
+ },
+ "PstGradientType": {
+  "actID": "PstGradientType",
+  "setID": ""
+ },
+ "PstScrChangeType": {
+  "actID": "PstScrChangeType",
+  "setID": ""
+ },
+ "PstSetupNextSec": {
+  "actID": "PstSetupNextSec",
+  "setID": ""
+ },
+ "PstSetupPrevSec": {
+  "actID": "PstSetupPrevSec",
+  "setID": ""
+ },
+ "PutBullet": {
+  "actID": "PutBullet",
+  "setID": "ParaShape"
+ },
+ "PutNewParaNumber": {
+  "actID": "PutNewParaNumber",
+  "setID": "ParaShape"
+ },
+ "PutOutlineNumber": {
+  "actID": "PutOutlineNumber",
+  "setID": "ParaShape"
+ },
+ "PutParaNumber": {
+  "actID": "PutParaNumber",
+  "setID": "ParaShape"
+ },
+ "PutPictureBullet": {
+  "actID": "PutPictureBullet",
+  "setID": "ParaShape"
+ },
+ "PvClose": {
+  "actID": "PvClose",
+  "setID": ""
+ },
+ "PvCurrentPage": {
+  "actID": "PvCurrentPage",
+  "setID": ""
+ },
+ "PvHandTool": {
+  "actID": "PvHandTool",
+  "setID": ""
+ },
+ "PvMag": {
+  "actID": "PvMag",
+  "setID": ""
+ },
+ "PvMagbtn": {
+  "actID": "PvMagbtn",
+  "setID": ""
+ },
+ "PvMarginBorder": {
+  "actID": "PvMarginBorder",
+  "setID": ""
+ },
+ "PvMirrorView": {
+  "actID": "PvMirrorView",
+  "setID": ""
+ },
+ "PvMultiPages": {
+  "actID": "PvMultiPages",
+  "setID": ""
+ },
+ "PvOnePage": {
+  "actID": "PvOnePage",
+  "setID": ""
+ },
+ "PvPageBorder": {
+  "actID": "PvPageBorder",
+  "setID": ""
+ },
+ "PvPrint": {
+  "actID": "PvPrint",
+  "setID": ""
+ },
+ "PvZoom100": {
+  "actID": "PvZoom100",
+  "setID": ""
+ },
+ "PvZoom125": {
+  "actID": "PvZoom125",
+  "setID": ""
+ },
+ "PvZoom150": {
+  "actID": "PvZoom150",
+  "setID": ""
+ },
+ "PvZoom200": {
+  "actID": "PvZoom200",
+  "setID": ""
+ },
+ "PvZoom300": {
+  "actID": "PvZoom300",
+  "setID": ""
+ },
+ "PvZoom500": {
+  "actID": "PvZoom500",
+  "setID": ""
+ },
+ "PvZoomPage1": {
+  "actID": "PvZoomPage1",
+  "setID": ""
+ },
+ "PvZoomPage2": {
+  "actID": "PvZoomPage2",
+  "setID": ""
+ },
+ "PvZoomPage3": {
+  "actID": "PvZoomPage3",
+  "setID": ""
+ },
+ "PvZoomPage4": {
+  "actID": "PvZoomPage4",
+  "setID": ""
+ },
+ "PvZoomShark": {
+  "actID": "PvZoomShark",
+  "setID": ""
+ },
+ "PvZoomSharkbtn": {
+  "actID": "PvZoomSharkbtn",
+  "setID": ""
+ },
+ "QuickCorrect": {
+  "actID": "QuickCorrect",
+  "setID": "QCorrect"
+ },
+ "QuickCorrectCurlyQuote": {
+  "actID": "QuickCorrectCurlyQuote",
+  "setID": "QCorrect"
+ },
+ "QuickCorrectOrdinal": {
+  "actID": "QuickCorrectOrdinal",
+  "setID": "QCorrect"
+ },
+ "QuickCorrectStraightQuote": {
+  "actID": "QuickCorrectStraightQuote",
+  "setID": "QCorrect"
+ },
+ "QuickCorrectToDash": {
+  "actID": "QuickCorrectToDash",
+  "setID": "QCorrect"
+ },
+ "QuickCorrectToHyphen": {
+  "actID": "QuickCorrectToHyphen",
+  "setID": "QCorrect"
+ },
+ "QuickMarkInsert0": {
+  "actID": "QuickMarkInsert0",
+  "setID": ""
+ },
+ "QuickMarkInsert1": {
+  "actID": "QuickMarkInsert1",
+  "setID": ""
+ },
+ "QuickMarkInsert2": {
+  "actID": "QuickMarkInsert2",
+  "setID": ""
+ },
+ "QuickMarkInsert3": {
+  "actID": "QuickMarkInsert3",
+  "setID": ""
+ },
+ "QuickMarkInsert4": {
+  "actID": "QuickMarkInsert4",
+  "setID": ""
+ },
+ "QuickMarkInsert5": {
+  "actID": "QuickMarkInsert5",
+  "setID": ""
+ },
+ "QuickMarkInsert6": {
+  "actID": "QuickMarkInsert6",
+  "setID": ""
+ },
+ "QuickMarkInsert7": {
+  "actID": "QuickMarkInsert7",
+  "setID": ""
+ },
+ "QuickMarkInsert8": {
+  "actID": "QuickMarkInsert8",
+  "setID": ""
+ },
+ "QuickMarkInsert9": {
+  "actID": "QuickMarkInsert9",
+  "setID": ""
+ },
+ "QuickMarkMove0": {
+  "actID": "QuickMarkMove0",
+  "setID": ""
+ },
+ "QuickMarkMove1": {
+  "actID": "QuickMarkMove1",
+  "setID": ""
+ },
+ "QuickMarkMove2": {
+  "actID": "QuickMarkMove2",
+  "setID": ""
+ },
+ "QuickMarkMove3": {
+  "actID": "QuickMarkMove3",
+  "setID": ""
+ },
+ "QuickMarkMove4": {
+  "actID": "QuickMarkMove4",
+  "setID": ""
+ },
+ "QuickMarkMove5": {
+  "actID": "QuickMarkMove5",
+  "setID": ""
+ },
+ "QuickMarkMove6": {
+  "actID": "QuickMarkMove6",
+  "setID": ""
+ },
+ "QuickMarkMove7": {
+  "actID": "QuickMarkMove7",
+  "setID": ""
+ },
+ "QuickMarkMove8": {
+  "actID": "QuickMarkMove8",
+  "setID": ""
+ },
+ "QuickMarkMove9": {
+  "actID": "QuickMarkMove9",
+  "setID": ""
+ },
+ "RecalcPageCount": {
+  "actID": "RecalcPageCount",
+  "setID": ""
+ },
+ "RecentCode": {
+  "actID": "RecentCode",
+  "setID": ""
+ },
+ "RecentEmpty": {
+  "actID": "RecentEmpty",
+  "setID": ""
+ },
+ "RecentFileList": {
+  "actID": "RecentFileList",
+  "setID": ""
+ },
+ "Redo": {
+  "actID": "Redo",
+  "setID": ""
+ },
+ "RegisterPrivateInfo": {
+  "actID": "RegisterPrivateInfo",
+  "setID": "PrivateInfoSecurity"
+ },
+ "RemoveFillOverlay": {
+  "actID": "RemoveFillOverlay",
+  "setID": ""
+ },
+ "RemoveGlow": {
+  "actID": "RemoveGlow",
+  "setID": ""
+ },
+ "RemoveShadow": {
+  "actID": "RemoveShadow",
+  "setID": ""
+ },
+ "RemoveSoftEdge": {
+  "actID": "RemoveSoftEdge",
+  "setID": ""
+ },
+ "RemoveTopBevel": {
+  "actID": "RemoveTopBevel",
+  "setID": ""
+ },
+ "RepeatFind": {
+  "actID": "RepeatFind",
+  "setID": "FindReplace"
+ },
+ "ReplaceDlg": {
+  "actID": "ReplaceDlg",
+  "setID": "FindReplace"
+ },
+ "ReplacePrivateInfo": {
+  "actID": "ReplacePrivateInfo",
+  "setID": "PrivateInfoSecurity"
+ },
+ "ReplacePrivateInfoDlg": {
+  "actID": "ReplacePrivateInfoDlg",
+  "setID": ""
+ },
+ "ReplacePrivateInfoRange": {
+  "actID": "ReplacePrivateInfoRange",
+  "setID": "PrivateInfoSecurity"
+ },
+ "ReplyMemo": {
+  "actID": "ReplyMemo",
+  "setID": ""
+ },
+ "ReturnKeyInField": {
+  "actID": "ReturnKeyInField",
+  "setID": ""
+ },
+ "ReturnPrevPos": {
+  "actID": "ReturnPrevPos",
+  "setID": ""
+ },
+ "ReverseFind": {
+  "actID": "ReverseFind",
+  "setID": "FindReplace"
+ },
+ "RightShiftBlock": {
+  "actID": "RightShiftBlock",
+  "setID": ""
+ },
+ "RightTabFrameClose": {
+  "actID": "RightTabFrameClose",
+  "setID": ""
+ },
+ "RunUserKeyLayout": {
+  "actID": "RunUserKeyLayout",
+  "setID": ""
+ },
+ "SBPaneAddOnInfo": {
+  "actID": "SBPaneAddOnInfo",
+  "setID": ""
+ },
+ "SBPaneCharUnit": {
+  "actID": "SBPaneCharUnit",
+  "setID": ""
+ },
+ "SBPaneCharacterInfo": {
+  "actID": "SBPaneCharacterInfo",
+  "setID": ""
+ },
+ "SBPaneColumnNo": {
+  "actID": "SBPaneColumnNo",
+  "setID": ""
+ },
+ "SBPaneControlInfo": {
+  "actID": "SBPaneControlInfo",
+  "setID": ""
+ },
+ "SBPaneIsModified": {
+  "actID": "SBPaneIsModified",
+  "setID": ""
+ },
+ "SBPaneLineInfo": {
+  "actID": "SBPaneLineInfo",
+  "setID": ""
+ },
+ "SBPaneMacroPause": {
+  "actID": "SBPaneMacroPause",
+  "setID": ""
+ },
+ "SBPaneMacroStop": {
+  "actID": "SBPaneMacroStop",
+  "setID": ""
+ },
+ "SBPaneOver": {
+  "actID": "SBPaneOver",
+  "setID": ""
+ },
+ "SBPanePageInfo": {
+  "actID": "SBPanePageInfo",
+  "setID": ""
+ },
+ "SBPaneTaskProgress": {
+  "actID": "SBPaneTaskProgress",
+  "setID": ""
+ },
+ "SBPaneTrackChange": {
+  "actID": "SBPaneTrackChange",
+  "setID": ""
+ },
+ "SBPaneViewModeCtrl": {
+  "actID": "SBPaneViewModeCtrl",
+  "setID": ""
+ },
+ "SBPaneViewType": {
+  "actID": "SBPaneViewType",
+  "setID": ""
+ },
+ "SBPaneZoomCtrl": {
+  "actID": "SBPaneZoomCtrl",
+  "setID": ""
+ },
+ "SaveAsCertDRM": {
+  "actID": "SaveAsCertDRM",
+  "setID": "CertDRM"
+ },
+ "SaveAsCertEnc": {
+  "actID": "SaveAsCertEnc",
+  "setID": "XSecurity"
+ },
+ "SaveAsCertSig": {
+  "actID": "SaveAsCertSig",
+  "setID": "XSecurity"
+ },
+ "SaveFootnote": {
+  "actID": "SaveFootnote",
+  "setID": "SaveFootnote"
+ },
+ "SaveFootnote4TBox": {
+  "actID": "SaveFootnote4TBox",
+  "setID": "SaveFootnote"
+ },
+ "SaveHistoryItem": {
+  "actID": "SaveHistoryItem",
+  "setID": "VersionInfo"
+ },
+ "ScanHFTFonts": {
+  "actID": "ScanHFTFonts",
+  "setID": ""
+ },
+ "ScrMacroDefine": {
+  "actID": "ScrMacroDefine",
+  "setID": "ScriptMacro"
+ },
+ "ScrMacroPause": {
+  "actID": "ScrMacroPause",
+  "setID": ""
+ },
+ "ScrMacroPlay1": {
+  "actID": "ScrMacroPlay1",
+  "setID": ""
+ },
+ "ScrMacroPlay10": {
+  "actID": "ScrMacroPlay10",
+  "setID": ""
+ },
+ "ScrMacroPlay11": {
+  "actID": "ScrMacroPlay11",
+  "setID": ""
+ },
+ "ScrMacroPlay2": {
+  "actID": "ScrMacroPlay2",
+  "setID": ""
+ },
+ "ScrMacroPlay3": {
+  "actID": "ScrMacroPlay3",
+  "setID": ""
+ },
+ "ScrMacroPlay4": {
+  "actID": "ScrMacroPlay4",
+  "setID": ""
+ },
+ "ScrMacroPlay5": {
+  "actID": "ScrMacroPlay5",
+  "setID": ""
+ },
+ "ScrMacroPlay6": {
+  "actID": "ScrMacroPlay6",
+  "setID": ""
+ },
+ "ScrMacroPlay7": {
+  "actID": "ScrMacroPlay7",
+  "setID": ""
+ },
+ "ScrMacroPlay8": {
+  "actID": "ScrMacroPlay8",
+  "setID": ""
+ },
+ "ScrMacroPlay9": {
+  "actID": "ScrMacroPlay9",
+  "setID": ""
+ },
+ "ScrMacroRepeat": {
+  "actID": "ScrMacroRepeat",
+  "setID": ""
+ },
+ "ScrMacroRepeatDlg": {
+  "actID": "ScrMacroRepeatDlg",
+  "setID": "ScriptMacro"
+ },
+ "ScrMacroSecurityDlg": {
+  "actID": "ScrMacroSecurityDlg",
+  "setID": ""
+ },
+ "ScrMacroStop": {
+  "actID": "ScrMacroStop",
+  "setID": ""
+ },
+ "SearchForeign": {
+  "actID": "SearchForeign",
+  "setID": ""
+ },
+ "SearchPrivateInfo": {
+  "actID": "SearchPrivateInfo",
+  "setID": ""
+ },
+ "SearchPrivateInfoEx": {
+  "actID": "SearchPrivateInfoEx",
+  "setID": ""
+ },
+ "SecondaryHorizontalAxis": {
+  "actID": "SecondaryHorizontalAxis",
+  "setID": ""
+ },
+ "SecondaryHorizontalAxisTitle": {
+  "actID": "SecondaryHorizontalAxisTitle",
+  "setID": ""
+ },
+ "SecondaryMajorHorizontalGridlines": {
+  "actID": "SecondaryMajorHorizontalGridlines",
+  "setID": ""
+ },
+ "SecondaryMajorVerticalGridlines": {
+  "actID": "SecondaryMajorVerticalGridlines",
+  "setID": ""
+ },
+ "SecondaryMinorHorizontalGridlines": {
+  "actID": "SecondaryMinorHorizontalGridlines",
+  "setID": ""
+ },
+ "SecondaryMinorVerticalGridlines": {
+  "actID": "SecondaryMinorVerticalGridlines",
+  "setID": ""
+ },
+ "SecondaryVerticalAxis": {
+  "actID": "SecondaryVerticalAxis",
+  "setID": ""
+ },
+ "SecondaryVerticalAxisTitle": {
+  "actID": "SecondaryVerticalAxisTitle",
+  "setID": ""
+ },
+ "Select": {
+  "actID": "Select",
+  "setID": ""
+ },
+ "SelectAll": {
+  "actID": "SelectAll",
+  "setID": ""
+ },
+ "SelectColumn": {
+  "actID": "SelectColumn",
+  "setID": ""
+ },
+ "SelectCtrlFront": {
+  "actID": "SelectCtrlFront",
+  "setID": ""
+ },
+ "SelectCtrlReverse": {
+  "actID": "SelectCtrlReverse",
+  "setID": ""
+ },
+ "SelectPageNumShape": {
+  "actID": "SelectPageNumShape",
+  "setID": "AutoNum"
+ },
+ "SelectedChartForm": {
+  "actID": "SelectedChartForm",
+  "setID": "ChartObjShape"
+ },
+ "SendBrowserText": {
+  "actID": "SendBrowserText",
+  "setID": ""
+ },
+ "SendMailAttach": {
+  "actID": "SendMailAttach",
+  "setID": "FileSendMail"
+ },
+ "SendMailText": {
+  "actID": "SendMailText",
+  "setID": "FileSendMail"
+ },
+ "SendToODT": {
+  "actID": "SendToODT",
+  "setID": ""
+ },
+ "SendToTalkCafe": {
+  "actID": "SendToTalkCafe",
+  "setID": ""
+ },
+ "SetArrow": {
+  "actID": "SetArrow",
+  "setID": "ShapeObject"
+ },
+ "SetFillOverlay": {
+  "actID": "SetFillOverlay",
+  "setID": "ShapeObject"
+ },
+ "SetGlow": {
+  "actID": "SetGlow",
+  "setID": ""
+ },
+ "SetGlowColor": {
+  "actID": "SetGlowColor",
+  "setID": "ShapeObject"
+ },
+ "SetLineNumbers": {
+  "actID": "SetLineNumbers",
+  "setID": "SecDef"
+ },
+ "SetPenThickness": {
+  "actID": "SetPenThickness",
+  "setID": "ShapeObject"
+ },
+ "SetShadow": {
+  "actID": "SetShadow",
+  "setID": ""
+ },
+ "SetShadowColor": {
+  "actID": "SetShadowColor",
+  "setID": "ShapeObject"
+ },
+ "SetShapeStyle": {
+  "actID": "SetShapeStyle",
+  "setID": "ShapeObject"
+ },
+ "SetSoftEdge": {
+  "actID": "SetSoftEdge",
+  "setID": ""
+ },
+ "SetTextDashStyle": {
+  "actID": "SetTextDashStyle",
+  "setID": "ShapeObject"
+ },
+ "SetTextGlow": {
+  "actID": "SetTextGlow",
+  "setID": ""
+ },
+ "SetTextGlowColor": {
+  "actID": "SetTextGlowColor",
+  "setID": "ShapeObject"
+ },
+ "SetTextPenThickness": {
+  "actID": "SetTextPenThickness",
+  "setID": "ShapeObject"
+ },
+ "SetTextReflection": {
+  "actID": "SetTextReflection",
+  "setID": ""
+ },
+ "SetTextShadow": {
+  "actID": "SetTextShadow",
+  "setID": ""
+ },
+ "SetTextShadowColor": {
+  "actID": "SetTextShadowColor",
+  "setID": "ShapeObject"
+ },
+ "SetTextStyle": {
+  "actID": "SetTextStyle",
+  "setID": "ShapeObject"
+ },
+ "SetTopBevel": {
+  "actID": "SetTopBevel",
+  "setID": "ShapeObject"
+ },
+ "SetupDbfImport": {
+  "actID": "SetupDbfImport",
+  "setID": "DocumentFilterDialog"
+ },
+ "SetupDocImgExport": {
+  "actID": "SetupDocImgExport",
+  "setID": "DocumentFilterDialog"
+ },
+ "SetupFlashExport": {
+  "actID": "SetupFlashExport",
+  "setID": "DocumentFilterDialog"
+ },
+ "SetupHtmlExport": {
+  "actID": "SetupHtmlExport",
+  "setID": "DocumentFilterDialog"
+ },
+ "SetupHtmlImport": {
+  "actID": "SetupHtmlImport",
+  "setID": "DocumentFilterDialog"
+ },
+ "SetupHtmlPlusExport": {
+  "actID": "SetupHtmlPlusExport",
+  "setID": "HtmlPlusExport"
+ },
+ "SetupTextExport": {
+  "actID": "SetupTextExport",
+  "setID": "DocumentFilterDialog"
+ },
+ "SetupTextImport": {
+  "actID": "SetupTextImport",
+  "setID": "DocumentFilterDialog"
+ },
+ "SetupUnicodeExport": {
+  "actID": "SetupUnicodeExport",
+  "setID": "DocumentFilterDialog"
+ },
+ "ShapeCopyPaste": {
+  "actID": "ShapeCopyPaste",
+  "setID": "ShapeCopyPaste"
+ },
+ "ShapeCopyPasteClear": {
+  "actID": "ShapeCopyPasteClear",
+  "setID": ""
+ },
+ "ShapeFill": {
+  "actID": "ShapeFill",
+  "setID": "ShapeObject"
+ },
+ "ShapeFillColor": {
+  "actID": "ShapeFillColor",
+  "setID": "ShapeObject"
+ },
+ "ShapeFillEmpty": {
+  "actID": "ShapeFillEmpty",
+  "setID": ""
+ },
+ "ShapeFillGradient": {
+  "actID": "ShapeFillGradient",
+  "setID": "ShapeObject"
+ },
+ "ShapeFillHatch": {
+  "actID": "ShapeFillHatch",
+  "setID": "ShapeObject"
+ },
+ "ShapeFillImage": {
+  "actID": "ShapeFillImage",
+  "setID": "ShapeObject"
+ },
+ "ShapeFillTexture": {
+  "actID": "ShapeFillTexture",
+  "setID": "ShapeObject"
+ },
+ "ShapeGradientStopsPreset": {
+  "actID": "ShapeGradientStopsPreset",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjAlignBottom": {
+  "actID": "ShapeObjAlignBottom",
+  "setID": ""
+ },
+ "ShapeObjAlignCenter": {
+  "actID": "ShapeObjAlignCenter",
+  "setID": ""
+ },
+ "ShapeObjAlignHeight": {
+  "actID": "ShapeObjAlignHeight",
+  "setID": ""
+ },
+ "ShapeObjAlignHorzSpacing": {
+  "actID": "ShapeObjAlignHorzSpacing",
+  "setID": ""
+ },
+ "ShapeObjAlignLeft": {
+  "actID": "ShapeObjAlignLeft",
+  "setID": ""
+ },
+ "ShapeObjAlignMiddle": {
+  "actID": "ShapeObjAlignMiddle",
+  "setID": ""
+ },
+ "ShapeObjAlignRight": {
+  "actID": "ShapeObjAlignRight",
+  "setID": ""
+ },
+ "ShapeObjAlignSize": {
+  "actID": "ShapeObjAlignSize",
+  "setID": ""
+ },
+ "ShapeObjAlignTop": {
+  "actID": "ShapeObjAlignTop",
+  "setID": ""
+ },
+ "ShapeObjAlignVertSpacing": {
+  "actID": "ShapeObjAlignVertSpacing",
+  "setID": ""
+ },
+ "ShapeObjAlignWidth": {
+  "actID": "ShapeObjAlignWidth",
+  "setID": ""
+ },
+ "ShapeObjArrowStyleOhter": {
+  "actID": "ShapeObjArrowStyleOhter",
+  "setID": ""
+ },
+ "ShapeObjAttachCaption": {
+  "actID": "ShapeObjAttachCaption",
+  "setID": ""
+ },
+ "ShapeObjAttachTextBox": {
+  "actID": "ShapeObjAttachTextBox",
+  "setID": ""
+ },
+ "ShapeObjAttrDialog": {
+  "actID": "ShapeObjAttrDialog",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjBringForward": {
+  "actID": "ShapeObjBringForward",
+  "setID": ""
+ },
+ "ShapeObjBringInFrontOfText": {
+  "actID": "ShapeObjBringInFrontOfText",
+  "setID": ""
+ },
+ "ShapeObjBringToFront": {
+  "actID": "ShapeObjBringToFront",
+  "setID": ""
+ },
+ "ShapeObjCaption": {
+  "actID": "ShapeObjCaption",
+  "setID": ""
+ },
+ "ShapeObjComment": {
+  "actID": "ShapeObjComment",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjCtrlSendBehindText": {
+  "actID": "ShapeObjCtrlSendBehindText",
+  "setID": ""
+ },
+ "ShapeObjDetachCaption": {
+  "actID": "ShapeObjDetachCaption",
+  "setID": ""
+ },
+ "ShapeObjDetachTextBox": {
+  "actID": "ShapeObjDetachTextBox",
+  "setID": ""
+ },
+ "ShapeObjDialog": {
+  "actID": "ShapeObjDialog",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjFillProperty": {
+  "actID": "ShapeObjFillProperty",
+  "setID": ""
+ },
+ "ShapeObjGroup": {
+  "actID": "ShapeObjGroup",
+  "setID": ""
+ },
+ "ShapeObjGuideLine": {
+  "actID": "ShapeObjGuideLine",
+  "setID": "ShapeGuideLine"
+ },
+ "ShapeObjHorzFlip": {
+  "actID": "ShapeObjHorzFlip",
+  "setID": ""
+ },
+ "ShapeObjHorzFlipOrgState": {
+  "actID": "ShapeObjHorzFlipOrgState",
+  "setID": ""
+ },
+ "ShapeObjInsertCaptionNum": {
+  "actID": "ShapeObjInsertCaptionNum",
+  "setID": ""
+ },
+ "ShapeObjLineProperty": {
+  "actID": "ShapeObjLineProperty",
+  "setID": ""
+ },
+ "ShapeObjLineStyleOhter": {
+  "actID": "ShapeObjLineStyleOhter",
+  "setID": ""
+ },
+ "ShapeObjLineWidthOhter": {
+  "actID": "ShapeObjLineWidthOhter",
+  "setID": ""
+ },
+ "ShapeObjLock": {
+  "actID": "ShapeObjLock",
+  "setID": ""
+ },
+ "ShapeObjMoveDown": {
+  "actID": "ShapeObjMoveDown",
+  "setID": ""
+ },
+ "ShapeObjMoveLeft": {
+  "actID": "ShapeObjMoveLeft",
+  "setID": ""
+ },
+ "ShapeObjMoveOffset": {
+  "actID": "ShapeObjMoveOffset",
+  "setID": ""
+ },
+ "ShapeObjMoveRight": {
+  "actID": "ShapeObjMoveRight",
+  "setID": ""
+ },
+ "ShapeObjMoveUp": {
+  "actID": "ShapeObjMoveUp",
+  "setID": ""
+ },
+ "ShapeObjNextObject": {
+  "actID": "ShapeObjNextObject",
+  "setID": ""
+ },
+ "ShapeObjNoShade": {
+  "actID": "ShapeObjNoShade",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjNoShadow": {
+  "actID": "ShapeObjNoShadow",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjNorm": {
+  "actID": "ShapeObjNorm",
+  "setID": ""
+ },
+ "ShapeObjPrevObject": {
+  "actID": "ShapeObjPrevObject",
+  "setID": ""
+ },
+ "ShapeObjProtectSize": {
+  "actID": "ShapeObjProtectSize",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjRandomAngleRotater": {
+  "actID": "ShapeObjRandomAngleRotater",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjResizeDown": {
+  "actID": "ShapeObjResizeDown",
+  "setID": ""
+ },
+ "ShapeObjResizeLeft": {
+  "actID": "ShapeObjResizeLeft",
+  "setID": ""
+ },
+ "ShapeObjResizeRight": {
+  "actID": "ShapeObjResizeRight",
+  "setID": ""
+ },
+ "ShapeObjResizeUp": {
+  "actID": "ShapeObjResizeUp",
+  "setID": ""
+ },
+ "ShapeObjRightAngleRotater": {
+  "actID": "ShapeObjRightAngleRotater",
+  "setID": ""
+ },
+ "ShapeObjRightAngleRotaterAnticlockwise": {
+  "actID": "ShapeObjRightAngleRotaterAnticlockwise",
+  "setID": ""
+ },
+ "ShapeObjRotater": {
+  "actID": "ShapeObjRotater",
+  "setID": ""
+ },
+ "ShapeObjSaveAsPicture": {
+  "actID": "ShapeObjSaveAsPicture",
+  "setID": "ShapeObjSaveAsPicture"
+ },
+ "ShapeObjSelect": {
+  "actID": "ShapeObjSelect",
+  "setID": ""
+ },
+ "ShapeObjSendBack": {
+  "actID": "ShapeObjSendBack",
+  "setID": ""
+ },
+ "ShapeObjSendToBack": {
+  "actID": "ShapeObjSendToBack",
+  "setID": ""
+ },
+ "ShapeObjShadowColor": {
+  "actID": "ShapeObjShadowColor",
+  "setID": ""
+ },
+ "ShapeObjShadowEnlarge": {
+  "actID": "ShapeObjShadowEnlarge",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowMoveDown": {
+  "actID": "ShapeObjShadowMoveDown",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowMoveLeft": {
+  "actID": "ShapeObjShadowMoveLeft",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowMoveOrginal": {
+  "actID": "ShapeObjShadowMoveOrginal",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowMoveRight": {
+  "actID": "ShapeObjShadowMoveRight",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowMoveUp": {
+  "actID": "ShapeObjShadowMoveUp",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowNarrow": {
+  "actID": "ShapeObjShadowNarrow",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowParellelLeftBottom": {
+  "actID": "ShapeObjShadowParellelLeftBottom",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowParellelLeftTop": {
+  "actID": "ShapeObjShadowParellelLeftTop",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowParellelRightBottom": {
+  "actID": "ShapeObjShadowParellelRightBottom",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowParellelRightTop": {
+  "actID": "ShapeObjShadowParellelRightTop",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowShearLeftBottom": {
+  "actID": "ShapeObjShadowShearLeftBottom",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowShearLeftTop": {
+  "actID": "ShapeObjShadowShearLeftTop",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowShearRightBottom": {
+  "actID": "ShapeObjShadowShearRightBottom",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowShearRightTop": {
+  "actID": "ShapeObjShadowShearRightTop",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShadowType": {
+  "actID": "ShapeObjShadowType",
+  "setID": ""
+ },
+ "ShapeObjShear": {
+  "actID": "ShapeObjShear",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjShowGuideLine": {
+  "actID": "ShapeObjShowGuideLine",
+  "setID": "ShapeGuideLine"
+ },
+ "ShapeObjShowGuideLineBase": {
+  "actID": "ShapeObjShowGuideLineBase",
+  "setID": "ShapeGuideLine"
+ },
+ "ShapeObjTableSelCell": {
+  "actID": "ShapeObjTableSelCell",
+  "setID": ""
+ },
+ "ShapeObjTextBoxEdit": {
+  "actID": "ShapeObjTextBoxEdit",
+  "setID": ""
+ },
+ "ShapeObjToggleTextBox": {
+  "actID": "ShapeObjToggleTextBox",
+  "setID": ""
+ },
+ "ShapeObjTreatAsChar": {
+  "actID": "ShapeObjTreatAsChar",
+  "setID": "ShapeObject"
+ },
+ "ShapeObjUngroup": {
+  "actID": "ShapeObjUngroup",
+  "setID": ""
+ },
+ "ShapeObjUnlockAll": {
+  "actID": "ShapeObjUnlockAll",
+  "setID": ""
+ },
+ "ShapeObjVertFlip": {
+  "actID": "ShapeObjVertFlip",
+  "setID": ""
+ },
+ "ShapeObjVertFlipOrgState": {
+  "actID": "ShapeObjVertFlipOrgState",
+  "setID": ""
+ },
+ "ShapeObjWrapSquare": {
+  "actID": "ShapeObjWrapSquare",
+  "setID": ""
+ },
+ "ShapeObjWrapTopAndBottom": {
+  "actID": "ShapeObjWrapTopAndBottom",
+  "setID": ""
+ },
+ "ShapeObjectCopy": {
+  "actID": "ShapeObjectCopy",
+  "setID": "ShapeObjectCopyPaste"
+ },
+ "ShapeObjectHeight": {
+  "actID": "ShapeObjectHeight",
+  "setID": ""
+ },
+ "ShapeObjectPaste": {
+  "actID": "ShapeObjectPaste",
+  "setID": "ShapeObjectCopyPaste"
+ },
+ "ShapeObjectWidth": {
+  "actID": "ShapeObjectWidth",
+  "setID": ""
+ },
+ "ShapeObjeectLineStyleNone": {
+  "actID": "ShapeObjeectLineStyleNone",
+  "setID": ""
+ },
+ "ShapeOjbectFillNone": {
+  "actID": "ShapeOjbectFillNone",
+  "setID": ""
+ },
+ "ShapeOutline": {
+  "actID": "ShapeOutline",
+  "setID": "ShapeObject"
+ },
+ "ShapeOutlineColor": {
+  "actID": "ShapeOutlineColor",
+  "setID": "ShapeObject"
+ },
+ "ShapeOutlineEmpty": {
+  "actID": "ShapeOutlineEmpty",
+  "setID": ""
+ },
+ "ShapeSetDashStyle": {
+  "actID": "ShapeSetDashStyle",
+  "setID": "ShapeObject"
+ },
+ "ShowAttributeTab": {
+  "actID": "ShowAttributeTab",
+  "setID": ""
+ },
+ "ShowLineNumbers": {
+  "actID": "ShowLineNumbers",
+  "setID": "SecDef"
+ },
+ "ShowMemo": {
+  "actID": "ShowMemo",
+  "setID": ""
+ },
+ "ShowNLPTab": {
+  "actID": "ShowNLPTab",
+  "setID": ""
+ },
+ "ShowOfficeTalkTab": {
+  "actID": "ShowOfficeTalkTab",
+  "setID": ""
+ },
+ "ShowScriptTab": {
+  "actID": "ShowScriptTab",
+  "setID": ""
+ },
+ "SmartSearch": {
+  "actID": "SmartSearch",
+  "setID": ""
+ },
+ "SmartSearchMode": {
+  "actID": "SmartSearchMode",
+  "setID": ""
+ },
+ "Sort": {
+  "actID": "Sort",
+  "setID": "Sort"
+ },
+ "SpellChecker": {
+  "actID": "SpellChecker",
+  "setID": ""
+ },
+ "SpellingCheck": {
+  "actID": "SpellingCheck",
+  "setID": "SpellingCheck"
+ },
+ "SplitAll": {
+  "actID": "SplitAll",
+  "setID": ""
+ },
+ "SplitHorz": {
+  "actID": "SplitHorz",
+  "setID": ""
+ },
+ "SplitMainActive": {
+  "actID": "SplitMainActive",
+  "setID": ""
+ },
+ "SplitMemo": {
+  "actID": "SplitMemo",
+  "setID": ""
+ },
+ "SplitMemoClose": {
+  "actID": "SplitMemoClose",
+  "setID": ""
+ },
+ "SplitMemoOpen": {
+  "actID": "SplitMemoOpen",
+  "setID": ""
+ },
+ "SplitVert": {
+  "actID": "SplitVert",
+  "setID": ""
+ },
+ "StartLauncher": {
+  "actID": "StartLauncher",
+  "setID": ""
+ },
+ "Style": {
+  "actID": "Style",
+  "setID": "Style"
+ },
+ "StyleAdd": {
+  "actID": "StyleAdd",
+  "setID": "Style"
+ },
+ "StyleAddNew": {
+  "actID": "StyleAddNew",
+  "setID": "StyleItem"
+ },
+ "StyleChangeToCurrentShape": {
+  "actID": "StyleChangeToCurrentShape",
+  "setID": "StyleItem"
+ },
+ "StyleClearCharStyle": {
+  "actID": "StyleClearCharStyle",
+  "setID": ""
+ },
+ "StyleCombo": {
+  "actID": "StyleCombo",
+  "setID": ""
+ },
+ "StyleDelete": {
+  "actID": "StyleDelete",
+  "setID": "StyleDelete"
+ },
+ "StyleDirectEdit": {
+  "actID": "StyleDirectEdit",
+  "setID": "StyleItem"
+ },
+ "StyleEdit": {
+  "actID": "StyleEdit",
+  "setID": "Style"
+ },
+ "StyleEx": {
+  "actID": "StyleEx",
+  "setID": "Style"
+ },
+ "StyleExportDlg": {
+  "actID": "StyleExportDlg",
+  "setID": ""
+ },
+ "StyleImportDlg": {
+  "actID": "StyleImportDlg",
+  "setID": ""
+ },
+ "StyleParaNumberBullet": {
+  "actID": "StyleParaNumberBullet",
+  "setID": "ParaShape"
+ },
+ "StyleShortcut1": {
+  "actID": "StyleShortcut1",
+  "setID": ""
+ },
+ "StyleShortcut10": {
+  "actID": "StyleShortcut10",
+  "setID": ""
+ },
+ "StyleShortcut11": {
+  "actID": "StyleShortcut11",
+  "setID": ""
+ },
+ "StyleShortcut12": {
+  "actID": "StyleShortcut12",
+  "setID": ""
+ },
+ "StyleShortcut13": {
+  "actID": "StyleShortcut13",
+  "setID": ""
+ },
+ "StyleShortcut14": {
+  "actID": "StyleShortcut14",
+  "setID": ""
+ },
+ "StyleShortcut15": {
+  "actID": "StyleShortcut15",
+  "setID": ""
+ },
+ "StyleShortcut16": {
+  "actID": "StyleShortcut16",
+  "setID": ""
+ },
+ "StyleShortcut17": {
+  "actID": "StyleShortcut17",
+  "setID": ""
+ },
+ "StyleShortcut18": {
+  "actID": "StyleShortcut18",
+  "setID": ""
+ },
+ "StyleShortcut19": {
+  "actID": "StyleShortcut19",
+  "setID": ""
+ },
+ "StyleShortcut2": {
+  "actID": "StyleShortcut2",
+  "setID": ""
+ },
+ "StyleShortcut20": {
+  "actID": "StyleShortcut20",
+  "setID": ""
+ },
+ "StyleShortcut3": {
+  "actID": "StyleShortcut3",
+  "setID": ""
+ },
+ "StyleShortcut4": {
+  "actID": "StyleShortcut4",
+  "setID": ""
+ },
+ "StyleShortcut5": {
+  "actID": "StyleShortcut5",
+  "setID": ""
+ },
+ "StyleShortcut6": {
+  "actID": "StyleShortcut6",
+  "setID": ""
+ },
+ "StyleShortcut7": {
+  "actID": "StyleShortcut7",
+  "setID": ""
+ },
+ "StyleShortcut8": {
+  "actID": "StyleShortcut8",
+  "setID": ""
+ },
+ "StyleShortcut9": {
+  "actID": "StyleShortcut9",
+  "setID": ""
+ },
+ "StyleTemplate": {
+  "actID": "StyleTemplate",
+  "setID": "StyleTemplate"
+ },
+ "Sum": {
+  "actID": "Sum",
+  "setID": "Sum"
+ },
+ "SuppressLineNumbers": {
+  "actID": "SuppressLineNumbers",
+  "setID": ""
+ },
+ "SwitchRowCol": {
+  "actID": "SwitchRowCol",
+  "setID": ""
+ },
+ "TBoxHncComm": {
+  "actID": "TBoxHncComm",
+  "setID": ""
+ },
+ "TBoxTableTemplateInit": {
+  "actID": "TBoxTableTemplateInit",
+  "setID": ""
+ },
+ "TabClose": {
+  "actID": "TabClose",
+  "setID": ""
+ },
+ "TabelCellLineStyle": {
+  "actID": "TabelCellLineStyle",
+  "setID": ""
+ },
+ "TableAdjustSize": {
+  "actID": "TableAdjustSize",
+  "setID": "Table_AdjustSize"
+ },
+ "TableAppendRow": {
+  "actID": "TableAppendRow",
+  "setID": "TableInsertLine"
+ },
+ "TableAutoDrawPenStyleWidthDlg": {
+  "actID": "TableAutoDrawPenStyleWidthDlg",
+  "setID": "TableDrawPen"
+ },
+ "TableAutoFill": {
+  "actID": "TableAutoFill",
+  "setID": "AutoFill"
+ },
+ "TableAutoFillDlg": {
+  "actID": "TableAutoFillDlg",
+  "setID": "AutoFill"
+ },
+ "TableBreak": {
+  "actID": "TableBreak",
+  "setID": "Table"
+ },
+ "TableBreakCell": {
+  "actID": "TableBreakCell",
+  "setID": "Table"
+ },
+ "TableBreakNone": {
+  "actID": "TableBreakNone",
+  "setID": "Table"
+ },
+ "TableCaption": {
+  "actID": "TableCaption",
+  "setID": ""
+ },
+ "TableCaptionPosBottom": {
+  "actID": "TableCaptionPosBottom",
+  "setID": "ShapeObject"
+ },
+ "TableCaptionPosLeftBottom": {
+  "actID": "TableCaptionPosLeftBottom",
+  "setID": "ShapeObject"
+ },
+ "TableCaptionPosLeftCenter": {
+  "actID": "TableCaptionPosLeftCenter",
+  "setID": "ShapeObject"
+ },
+ "TableCaptionPosLeftTop": {
+  "actID": "TableCaptionPosLeftTop",
+  "setID": "ShapeObject"
+ },
+ "TableCaptionPosRightBottom": {
+  "actID": "TableCaptionPosRightBottom",
+  "setID": "ShapeObject"
+ },
+ "TableCaptionPosRightCenter": {
+  "actID": "TableCaptionPosRightCenter",
+  "setID": "ShapeObject"
+ },
+ "TableCaptionPosRightTop": {
+  "actID": "TableCaptionPosRightTop",
+  "setID": "ShapeObject"
+ },
+ "TableCaptionPosTop": {
+  "actID": "TableCaptionPosTop",
+  "setID": "ShapeObject"
+ },
+ "TableCellAlignCenterBottom": {
+  "actID": "TableCellAlignCenterBottom",
+  "setID": ""
+ },
+ "TableCellAlignCenterCenter": {
+  "actID": "TableCellAlignCenterCenter",
+  "setID": ""
+ },
+ "TableCellAlignCenterTop": {
+  "actID": "TableCellAlignCenterTop",
+  "setID": ""
+ },
+ "TableCellAlignLeftBottom": {
+  "actID": "TableCellAlignLeftBottom",
+  "setID": ""
+ },
+ "TableCellAlignLeftCenter": {
+  "actID": "TableCellAlignLeftCenter",
+  "setID": ""
+ },
+ "TableCellAlignLeftTop": {
+  "actID": "TableCellAlignLeftTop",
+  "setID": ""
+ },
+ "TableCellAlignRightBottom": {
+  "actID": "TableCellAlignRightBottom",
+  "setID": ""
+ },
+ "TableCellAlignRightCenter": {
+  "actID": "TableCellAlignRightCenter",
+  "setID": ""
+ },
+ "TableCellAlignRightTop": {
+  "actID": "TableCellAlignRightTop",
+  "setID": ""
+ },
+ "TableCellBlock": {
+  "actID": "TableCellBlock",
+  "setID": ""
+ },
+ "TableCellBlockCol": {
+  "actID": "TableCellBlockCol",
+  "setID": ""
+ },
+ "TableCellBlockExtend": {
+  "actID": "TableCellBlockExtend",
+  "setID": ""
+ },
+ "TableCellBlockExtendAbs": {
+  "actID": "TableCellBlockExtendAbs",
+  "setID": ""
+ },
+ "TableCellBlockRow": {
+  "actID": "TableCellBlockRow",
+  "setID": ""
+ },
+ "TableCellBorderAll": {
+  "actID": "TableCellBorderAll",
+  "setID": ""
+ },
+ "TableCellBorderBottom": {
+  "actID": "TableCellBorderBottom",
+  "setID": ""
+ },
+ "TableCellBorderDiagonalDown": {
+  "actID": "TableCellBorderDiagonalDown",
+  "setID": ""
+ },
+ "TableCellBorderDiagonalUp": {
+  "actID": "TableCellBorderDiagonalUp",
+  "setID": ""
+ },
+ "TableCellBorderInside": {
+  "actID": "TableCellBorderInside",
+  "setID": ""
+ },
+ "TableCellBorderInsideHorz": {
+  "actID": "TableCellBorderInsideHorz",
+  "setID": ""
+ },
+ "TableCellBorderInsideVert": {
+  "actID": "TableCellBorderInsideVert",
+  "setID": ""
+ },
+ "TableCellBorderLeft": {
+  "actID": "TableCellBorderLeft",
+  "setID": ""
+ },
+ "TableCellBorderNo": {
+  "actID": "TableCellBorderNo",
+  "setID": ""
+ },
+ "TableCellBorderOutside": {
+  "actID": "TableCellBorderOutside",
+  "setID": ""
+ },
+ "TableCellBorderRight": {
+  "actID": "TableCellBorderRight",
+  "setID": ""
+ },
+ "TableCellBorderTop": {
+  "actID": "TableCellBorderTop",
+  "setID": ""
+ },
+ "TableCellBorderType": {
+  "actID": "TableCellBorderType",
+  "setID": ""
+ },
+ "TableCellHAlignCenter": {
+  "actID": "TableCellHAlignCenter",
+  "setID": ""
+ },
+ "TableCellHAlignJustify": {
+  "actID": "TableCellHAlignJustify",
+  "setID": ""
+ },
+ "TableCellHAlignLeft": {
+  "actID": "TableCellHAlignLeft",
+  "setID": ""
+ },
+ "TableCellHAlignRight": {
+  "actID": "TableCellHAlignRight",
+  "setID": ""
+ },
+ "TableCellHAlignType": {
+  "actID": "TableCellHAlignType",
+  "setID": ""
+ },
+ "TableCellHeight": {
+  "actID": "TableCellHeight",
+  "setID": ""
+ },
+ "TableCellLineWidth": {
+  "actID": "TableCellLineWidth",
+  "setID": ""
+ },
+ "TableCellShadeDec": {
+  "actID": "TableCellShadeDec",
+  "setID": "CellBorderFill"
+ },
+ "TableCellShadeInc": {
+  "actID": "TableCellShadeInc",
+  "setID": "CellBorderFill"
+ },
+ "TableCellShape": {
+  "actID": "TableCellShape",
+  "setID": ""
+ },
+ "TableCellShapeFillColor": {
+  "actID": "TableCellShapeFillColor",
+  "setID": ""
+ },
+ "TableCellShapeFillNone": {
+  "actID": "TableCellShapeFillNone",
+  "setID": ""
+ },
+ "TableCellTextHorz": {
+  "actID": "TableCellTextHorz",
+  "setID": "ShapeObject"
+ },
+ "TableCellTextVert": {
+  "actID": "TableCellTextVert",
+  "setID": "ShapeObject"
+ },
+ "TableCellTextVertAll": {
+  "actID": "TableCellTextVertAll",
+  "setID": "ShapeObject"
+ },
+ "TableCellToggleDirection": {
+  "actID": "TableCellToggleDirection",
+  "setID": "ShapeObject"
+ },
+ "TableCellVAlignType": {
+  "actID": "TableCellVAlignType",
+  "setID": ""
+ },
+ "TableCellWidth": {
+  "actID": "TableCellWidth",
+  "setID": ""
+ },
+ "TableColBegin": {
+  "actID": "TableColBegin",
+  "setID": ""
+ },
+ "TableColEnd": {
+  "actID": "TableColEnd",
+  "setID": ""
+ },
+ "TableColPageDown": {
+  "actID": "TableColPageDown",
+  "setID": ""
+ },
+ "TableColPageUp": {
+  "actID": "TableColPageUp",
+  "setID": ""
+ },
+ "TableCreate": {
+  "actID": "TableCreate",
+  "setID": "TableCreation"
+ },
+ "TableDeleteCell": {
+  "actID": "TableDeleteCell",
+  "setID": "SelectionOpt"
+ },
+ "TableDeleteColumn": {
+  "actID": "TableDeleteColumn",
+  "setID": "TableDeleteLine"
+ },
+ "TableDeleteComma": {
+  "actID": "TableDeleteComma",
+  "setID": ""
+ },
+ "TableDeleteRow": {
+  "actID": "TableDeleteRow",
+  "setID": "TableDeleteLine"
+ },
+ "TableDeleteRowColumn": {
+  "actID": "TableDeleteRowColumn",
+  "setID": "TableDeleteLine"
+ },
+ "TableDistributeCellHeight": {
+  "actID": "TableDistributeCellHeight",
+  "setID": ""
+ },
+ "TableDistributeCellWidth": {
+  "actID": "TableDistributeCellWidth",
+  "setID": ""
+ },
+ "TableDrawPen": {
+  "actID": "TableDrawPen",
+  "setID": "TableDrawPen"
+ },
+ "TableDrawPenColor": {
+  "actID": "TableDrawPenColor",
+  "setID": ""
+ },
+ "TableDrawPenStyle": {
+  "actID": "TableDrawPenStyle",
+  "setID": ""
+ },
+ "TableDrawPenWidth": {
+  "actID": "TableDrawPenWidth",
+  "setID": ""
+ },
+ "TableEraser": {
+  "actID": "TableEraser",
+  "setID": "TableDrawPen"
+ },
+ "TableFormula": {
+  "actID": "TableFormula",
+  "setID": "FieldCtrl"
+ },
+ "TableFormulaAvgAuto": {
+  "actID": "TableFormulaAvgAuto",
+  "setID": ""
+ },
+ "TableFormulaAvgHor": {
+  "actID": "TableFormulaAvgHor",
+  "setID": ""
+ },
+ "TableFormulaAvgVer": {
+  "actID": "TableFormulaAvgVer",
+  "setID": ""
+ },
+ "TableFormulaProAuto": {
+  "actID": "TableFormulaProAuto",
+  "setID": ""
+ },
+ "TableFormulaProHor": {
+  "actID": "TableFormulaProHor",
+  "setID": ""
+ },
+ "TableFormulaProVer": {
+  "actID": "TableFormulaProVer",
+  "setID": ""
+ },
+ "TableFormulaSumAuto": {
+  "actID": "TableFormulaSumAuto",
+  "setID": ""
+ },
+ "TableFormulaSumHor": {
+  "actID": "TableFormulaSumHor",
+  "setID": ""
+ },
+ "TableFormulaSumVer": {
+  "actID": "TableFormulaSumVer",
+  "setID": ""
+ },
+ "TableInsertComma": {
+  "actID": "TableInsertComma",
+  "setID": ""
+ },
+ "TableInsertLeftColumn": {
+  "actID": "TableInsertLeftColumn",
+  "setID": "TableInsertLine"
+ },
+ "TableInsertLowerRow": {
+  "actID": "TableInsertLowerRow",
+  "setID": "TableInsertLine"
+ },
+ "TableInsertRightColumn": {
+  "actID": "TableInsertRightColumn",
+  "setID": "TableInsertLine"
+ },
+ "TableInsertRowColumn": {
+  "actID": "TableInsertRowColumn",
+  "setID": "TableInsertLine"
+ },
+ "TableInsertUpperRow": {
+  "actID": "TableInsertUpperRow",
+  "setID": "TableInsertLine"
+ },
+ "TableLeftCell": {
+  "actID": "TableLeftCell",
+  "setID": ""
+ },
+ "TableLineType": {
+  "actID": "TableLineType",
+  "setID": ""
+ },
+ "TableLowerCell": {
+  "actID": "TableLowerCell",
+  "setID": ""
+ },
+ "TableMergeCell": {
+  "actID": "TableMergeCell",
+  "setID": ""
+ },
+ "TableMergeTable": {
+  "actID": "TableMergeTable",
+  "setID": ""
+ },
+ "TablePropertyDialog": {
+  "actID": "TablePropertyDialog",
+  "setID": "ShapeObject"
+ },
+ "TableResizeCellDown": {
+  "actID": "TableResizeCellDown",
+  "setID": ""
+ },
+ "TableResizeCellLeft": {
+  "actID": "TableResizeCellLeft",
+  "setID": ""
+ },
+ "TableResizeCellRight": {
+  "actID": "TableResizeCellRight",
+  "setID": ""
+ },
+ "TableResizeCellUp": {
+  "actID": "TableResizeCellUp",
+  "setID": ""
+ },
+ "TableResizeDown": {
+  "actID": "TableResizeDown",
+  "setID": ""
+ },
+ "TableResizeExDown": {
+  "actID": "TableResizeExDown",
+  "setID": ""
+ },
+ "TableResizeExLeft": {
+  "actID": "TableResizeExLeft",
+  "setID": ""
+ },
+ "TableResizeExRight": {
+  "actID": "TableResizeExRight",
+  "setID": ""
+ },
+ "TableResizeExUp": {
+  "actID": "TableResizeExUp",
+  "setID": ""
+ },
+ "TableResizeLeft": {
+  "actID": "TableResizeLeft",
+  "setID": ""
+ },
+ "TableResizeLineDown": {
+  "actID": "TableResizeLineDown",
+  "setID": ""
+ },
+ "TableResizeLineLeft": {
+  "actID": "TableResizeLineLeft",
+  "setID": ""
+ },
+ "TableResizeLineRight": {
+  "actID": "TableResizeLineRight",
+  "setID": ""
+ },
+ "TableResizeLineUp": {
+  "actID": "TableResizeLineUp",
+  "setID": ""
+ },
+ "TableResizeRight": {
+  "actID": "TableResizeRight",
+  "setID": ""
+ },
+ "TableResizeUp": {
+  "actID": "TableResizeUp",
+  "setID": ""
+ },
+ "TableRightCell": {
+  "actID": "TableRightCell",
+  "setID": ""
+ },
+ "TableRightCellAppend": {
+  "actID": "TableRightCellAppend",
+  "setID": ""
+ },
+ "TableSplitCell": {
+  "actID": "TableSplitCell",
+  "setID": "TableSplitCell"
+ },
+ "TableSplitCellCol2": {
+  "actID": "TableSplitCellCol2",
+  "setID": "TableSplitCell"
+ },
+ "TableSplitCellRow2": {
+  "actID": "TableSplitCellRow2",
+  "setID": "TableSplitCell"
+ },
+ "TableSplitTable": {
+  "actID": "TableSplitTable",
+  "setID": ""
+ },
+ "TableStringToTable": {
+  "actID": "TableStringToTable",
+  "setID": "TableStrToTbl"
+ },
+ "TableSubtractRow": {
+  "actID": "TableSubtractRow",
+  "setID": "TableDeleteLine"
+ },
+ "TableSwap": {
+  "actID": "TableSwap",
+  "setID": "TableSwap"
+ },
+ "TableTableToString": {
+  "actID": "TableTableToString",
+  "setID": "TableTblToStr"
+ },
+ "TableTemplate": {
+  "actID": "TableTemplate",
+  "setID": "TableTemplate"
+ },
+ "TableTemplateOptAlign": {
+  "actID": "TableTemplateOptAlign",
+  "setID": ""
+ },
+ "TableTemplateOptBorder": {
+  "actID": "TableTemplateOptBorder",
+  "setID": ""
+ },
+ "TableTemplateOptCell": {
+  "actID": "TableTemplateOptCell",
+  "setID": ""
+ },
+ "TableTemplateOptDefault": {
+  "actID": "TableTemplateOptDefault",
+  "setID": ""
+ },
+ "TableTemplateOptEndRow": {
+  "actID": "TableTemplateOptEndRow",
+  "setID": ""
+ },
+ "TableTemplateOptGreyScale": {
+  "actID": "TableTemplateOptGreyScale",
+  "setID": ""
+ },
+ "TableTemplateOptLeftCol": {
+  "actID": "TableTemplateOptLeftCol",
+  "setID": ""
+ },
+ "TableTemplateOptRightCol": {
+  "actID": "TableTemplateOptRightCol",
+  "setID": ""
+ },
+ "TableTemplateOptTitleRow": {
+  "actID": "TableTemplateOptTitleRow",
+  "setID": ""
+ },
+ "TableTreatAsChar": {
+  "actID": "TableTreatAsChar",
+  "setID": "ShapeObject"
+ },
+ "TableUpperCell": {
+  "actID": "TableUpperCell",
+  "setID": ""
+ },
+ "TableVAlignBottom": {
+  "actID": "TableVAlignBottom",
+  "setID": ""
+ },
+ "TableVAlignCenter": {
+  "actID": "TableVAlignCenter",
+  "setID": ""
+ },
+ "TableVAlignTop": {
+  "actID": "TableVAlignTop",
+  "setID": ""
+ },
+ "TestBuildOption": {
+  "actID": "TestBuildOption",
+  "setID": ""
+ },
+ "TextAlignPicker": {
+  "actID": "TextAlignPicker",
+  "setID": ""
+ },
+ "TextArtAlign": {
+  "actID": "TextArtAlign",
+  "setID": ""
+ },
+ "TextArtCreate": {
+  "actID": "TextArtCreate",
+  "setID": ""
+ },
+ "TextArtModify": {
+  "actID": "TextArtModify",
+  "setID": ""
+ },
+ "TextArtShadow": {
+  "actID": "TextArtShadow",
+  "setID": ""
+ },
+ "TextArtShadowColor": {
+  "actID": "TextArtShadowColor",
+  "setID": ""
+ },
+ "TextArtShadowMoveToDown": {
+  "actID": "TextArtShadowMoveToDown",
+  "setID": "ShapeObject"
+ },
+ "TextArtShadowMoveToLeft": {
+  "actID": "TextArtShadowMoveToLeft",
+  "setID": "ShapeObject"
+ },
+ "TextArtShadowMoveToRight": {
+  "actID": "TextArtShadowMoveToRight",
+  "setID": "ShapeObject"
+ },
+ "TextArtShadowMoveToUp": {
+  "actID": "TextArtShadowMoveToUp",
+  "setID": "ShapeObject"
+ },
+ "TextArtShape": {
+  "actID": "TextArtShape",
+  "setID": ""
+ },
+ "TextBorderColor": {
+  "actID": "TextBorderColor",
+  "setID": ""
+ },
+ "TextBorderStyle": {
+  "actID": "TextBorderStyle",
+  "setID": ""
+ },
+ "TextBoxAlignCenterCenter": {
+  "actID": "TextBoxAlignCenterCenter",
+  "setID": "ShapeObject"
+ },
+ "TextBoxAlignCenterTop": {
+  "actID": "TextBoxAlignCenterTop",
+  "setID": "ShapeObject"
+ },
+ "TextBoxAlignLeftBottom": {
+  "actID": "TextBoxAlignLeftBottom",
+  "setID": "ShapeObject"
+ },
+ "TextBoxAlignLeftCenter": {
+  "actID": "TextBoxAlignLeftCenter",
+  "setID": "ShapeObject"
+ },
+ "TextBoxAlignLeftTop": {
+  "actID": "TextBoxAlignLeftTop",
+  "setID": "ShapeObject"
+ },
+ "TextBoxAlignRightBottom": {
+  "actID": "TextBoxAlignRightBottom",
+  "setID": "ShapeObject"
+ },
+ "TextBoxAlignRightCenter": {
+  "actID": "TextBoxAlignRightCenter",
+  "setID": "ShapeObject"
+ },
+ "TextBoxAlignRightTop": {
+  "actID": "TextBoxAlignRightTop",
+  "setID": "ShapeObject"
+ },
+ "TextBoxTextHorz": {
+  "actID": "TextBoxTextHorz",
+  "setID": "ShapeObject"
+ },
+ "TextBoxTextVert": {
+  "actID": "TextBoxTextVert",
+  "setID": "ShapeObject"
+ },
+ "TextBoxTextVertAll": {
+  "actID": "TextBoxTextVertAll",
+  "setID": "ShapeObject"
+ },
+ "TextBoxToggleDirection": {
+  "actID": "TextBoxToggleDirection",
+  "setID": "ShapeObject"
+ },
+ "TextBoxVAlignBottom": {
+  "actID": "TextBoxVAlignBottom",
+  "setID": "ShapeObject"
+ },
+ "TextBoxVAlignCenter": {
+  "actID": "TextBoxVAlignCenter",
+  "setID": "ShapeObject"
+ },
+ "TextBoxVAlignTop": {
+  "actID": "TextBoxVAlignTop",
+  "setID": "ShapeObject"
+ },
+ "TextColor": {
+  "actID": "TextColor",
+  "setID": ""
+ },
+ "TextFillColor": {
+  "actID": "TextFillColor",
+  "setID": "ShapeObject"
+ },
+ "TextFillEmpty": {
+  "actID": "TextFillEmpty",
+  "setID": ""
+ },
+ "TextFillGradient": {
+  "actID": "TextFillGradient",
+  "setID": "ShapeObject"
+ },
+ "TextFillHatch": {
+  "actID": "TextFillHatch",
+  "setID": "ShapeObject"
+ },
+ "TextFillImage": {
+  "actID": "TextFillImage",
+  "setID": "ShapeObject"
+ },
+ "TextFillTexture": {
+  "actID": "TextFillTexture",
+  "setID": "ShapeObject"
+ },
+ "TextGradientStopsPreset": {
+  "actID": "TextGradientStopsPreset",
+  "setID": "ShapeObject"
+ },
+ "TextOutline": {
+  "actID": "TextOutline",
+  "setID": "ShapeObject"
+ },
+ "TextOutlineColor": {
+  "actID": "TextOutlineColor",
+  "setID": "ShapeObject"
+ },
+ "TextOutlineEmpty": {
+  "actID": "TextOutlineEmpty",
+  "setID": ""
+ },
+ "TextOutlineGradientStopsPreset": {
+  "actID": "TextOutlineGradientStopsPreset",
+  "setID": "ShapeObject"
+ },
+ "TextRemoveAllEffects": {
+  "actID": "TextRemoveAllEffects",
+  "setID": ""
+ },
+ "TextRemoveGlow": {
+  "actID": "TextRemoveGlow",
+  "setID": ""
+ },
+ "TextRemoveReflection": {
+  "actID": "TextRemoveReflection",
+  "setID": ""
+ },
+ "TextRemoveShadow": {
+  "actID": "TextRemoveShadow",
+  "setID": ""
+ },
+ "TextShadeColor": {
+  "actID": "TextShadeColor",
+  "setID": ""
+ },
+ "TextShadeColorNone": {
+  "actID": "TextShadeColorNone",
+  "setID": ""
+ },
+ "TextTo3D": {
+  "actID": "TextTo3D",
+  "setID": ""
+ },
+ "TitleAboveChart": {
+  "actID": "TitleAboveChart",
+  "setID": ""
+ },
+ "TitleCenteredOverlay": {
+  "actID": "TitleCenteredOverlay",
+  "setID": ""
+ },
+ "TitleNone": {
+  "actID": "TitleNone",
+  "setID": ""
+ },
+ "ToggleOverwrite": {
+  "actID": "ToggleOverwrite",
+  "setID": ""
+ },
+ "ToolboxGroupPop": {
+  "actID": "ToolboxGroupPop",
+  "setID": ""
+ },
+ "ToolboxGroupPopTest": {
+  "actID": "ToolboxGroupPopTest",
+  "setID": ""
+ },
+ "ToolboxGroupPopUSA": {
+  "actID": "ToolboxGroupPopUSA",
+  "setID": ""
+ },
+ "ToolboxImageTileStyle": {
+  "actID": "ToolboxImageTileStyle",
+  "setID": ""
+ },
+ "TopTabFrameClose": {
+  "actID": "TopTabFrameClose",
+  "setID": ""
+ },
+ "TrackChangeApply": {
+  "actID": "TrackChangeApply",
+  "setID": ""
+ },
+ "TrackChangeApplyAll": {
+  "actID": "TrackChangeApplyAll",
+  "setID": ""
+ },
+ "TrackChangeApplyNext": {
+  "actID": "TrackChangeApplyNext",
+  "setID": ""
+ },
+ "TrackChangeApplyPrev": {
+  "actID": "TrackChangeApplyPrev",
+  "setID": ""
+ },
+ "TrackChangeApplyViewAll": {
+  "actID": "TrackChangeApplyViewAll",
+  "setID": ""
+ },
+ "TrackChangeAuthor": {
+  "actID": "TrackChangeAuthor",
+  "setID": ""
+ },
+ "TrackChangeCancel": {
+  "actID": "TrackChangeCancel",
+  "setID": ""
+ },
+ "TrackChangeCancelAll": {
+  "actID": "TrackChangeCancelAll",
+  "setID": ""
+ },
+ "TrackChangeCancelViewAll": {
+  "actID": "TrackChangeCancelViewAll",
+  "setID": ""
+ },
+ "TrackChangeCombo": {
+  "actID": "TrackChangeCombo",
+  "setID": ""
+ },
+ "TrackChangeNext": {
+  "actID": "TrackChangeNext",
+  "setID": ""
+ },
+ "TrackChangeOption": {
+  "actID": "TrackChangeOption",
+  "setID": "TrackChange"
+ },
+ "TrackChangePrev": {
+  "actID": "TrackChangePrev",
+  "setID": ""
+ },
+ "TrackChangeProtection": {
+  "actID": "TrackChangeProtection",
+  "setID": "Password"
+ },
+ "TranslateAdd": {
+  "actID": "TranslateAdd",
+  "setID": "TransTranslate"
+ },
+ "TranslateApply": {
+  "actID": "TranslateApply",
+  "setID": "TransTranslate"
+ },
+ "TranslateDocument": {
+  "actID": "TranslateDocument",
+  "setID": "TransTranslate"
+ },
+ "TranslateExpert": {
+  "actID": "TranslateExpert",
+  "setID": ""
+ },
+ "TranslateSelection": {
+  "actID": "TranslateSelection",
+  "setID": "TransTranslate"
+ },
+ "TrendlineExponential": {
+  "actID": "TrendlineExponential",
+  "setID": ""
+ },
+ "TrendlineLinear": {
+  "actID": "TrendlineLinear",
+  "setID": ""
+ },
+ "TrendlineLinearForecast": {
+  "actID": "TrendlineLinearForecast",
+  "setID": ""
+ },
+ "TrendlineMovingAvg": {
+  "actID": "TrendlineMovingAvg",
+  "setID": ""
+ },
+ "TrendlineNone": {
+  "actID": "TrendlineNone",
+  "setID": ""
+ },
+ "Undo": {
+  "actID": "Undo",
+  "setID": ""
+ },
+ "UnlinkTextBox": {
+  "actID": "UnlinkTextBox",
+  "setID": ""
+ },
+ "UpDownBarsNone": {
+  "actID": "UpDownBarsNone",
+  "setID": ""
+ },
+ "UpDownBarsOption": {
+  "actID": "UpDownBarsOption",
+  "setID": ""
+ },
+ "UpDownBarsUpDownBars": {
+  "actID": "UpDownBarsUpDownBars",
+  "setID": ""
+ },
+ "UpdataeFieldBibStyle": {
+  "actID": "UpdataeFieldBibStyle",
+  "setID": "Bibliography"
+ },
+ "UpdateAllContents": {
+  "actID": "UpdateAllContents",
+  "setID": ""
+ },
+ "UpdateCurContents": {
+  "actID": "UpdateCurContents",
+  "setID": ""
+ },
+ "UpdateCurPageContents": {
+  "actID": "UpdateCurPageContents",
+  "setID": ""
+ },
+ "UpdateTextEffects": {
+  "actID": "UpdateTextEffects",
+  "setID": "ShapeObject"
+ },
+ "UserAutoFill": {
+  "actID": "UserAutoFill",
+  "setID": "AutoFill"
+ },
+ "VersionDelete": {
+  "actID": "VersionDelete",
+  "setID": "VersionInfo"
+ },
+ "VersionDeleteAll": {
+  "actID": "VersionDeleteAll",
+  "setID": "VersionInfo"
+ },
+ "VersionInfo": {
+  "actID": "VersionInfo",
+  "setID": "VersionInfo"
+ },
+ "VersionSave": {
+  "actID": "VersionSave",
+  "setID": "VersionInfo"
+ },
+ "VertScrollbar": {
+  "actID": "VertScrollbar",
+  "setID": ""
+ },
+ "VerticalText": {
+  "actID": "VerticalText",
+  "setID": "TextVertical"
+ },
+ "VfsAuthentication": {
+  "actID": "VfsAuthentication",
+  "setID": "VfsAuthentication"
+ },
+ "VfsConfigAccount": {
+  "actID": "VfsConfigAccount",
+  "setID": ""
+ },
+ "ViewGridOption": {
+  "actID": "ViewGridOption",
+  "setID": "GridInfo"
+ },
+ "ViewIdiom": {
+  "actID": "ViewIdiom",
+  "setID": "Idiom"
+ },
+ "ViewOptionColor": {
+  "actID": "ViewOptionColor",
+  "setID": ""
+ },
+ "ViewOptionColorCustom": {
+  "actID": "ViewOptionColorCustom",
+  "setID": ""
+ },
+ "ViewOptionColorCustomOption": {
+  "actID": "ViewOptionColorCustomOption",
+  "setID": "ViewColorTheme"
+ },
+ "ViewOptionColorCustomTemplate": {
+  "actID": "ViewOptionColorCustomTemplate",
+  "setID": "ViewProperties"
+ },
+ "ViewOptionCtrlMark": {
+  "actID": "ViewOptionCtrlMark",
+  "setID": ""
+ },
+ "ViewOptionGray": {
+  "actID": "ViewOptionGray",
+  "setID": ""
+ },
+ "ViewOptionGuideLine": {
+  "actID": "ViewOptionGuideLine",
+  "setID": ""
+ },
+ "ViewOptionMemo": {
+  "actID": "ViewOptionMemo",
+  "setID": ""
+ },
+ "ViewOptionMemoGuideline": {
+  "actID": "ViewOptionMemoGuideline",
+  "setID": ""
+ },
+ "ViewOptionPaper": {
+  "actID": "ViewOptionPaper",
+  "setID": ""
+ },
+ "ViewOptionParaMark": {
+  "actID": "ViewOptionParaMark",
+  "setID": ""
+ },
+ "ViewOptionPicture": {
+  "actID": "ViewOptionPicture",
+  "setID": ""
+ },
+ "ViewOptionPronounce": {
+  "actID": "ViewOptionPronounce",
+  "setID": "PronounceInfo"
+ },
+ "ViewOptionPronounceSetting": {
+  "actID": "ViewOptionPronounceSetting",
+  "setID": "PronounceInfo"
+ },
+ "ViewOptionRevision": {
+  "actID": "ViewOptionRevision",
+  "setID": ""
+ },
+ "ViewOptionTrackChange": {
+  "actID": "ViewOptionTrackChange",
+  "setID": ""
+ },
+ "ViewOptionTrackChangeFinal": {
+  "actID": "ViewOptionTrackChangeFinal",
+  "setID": ""
+ },
+ "ViewOptionTrackChangeFinalMemo": {
+  "actID": "ViewOptionTrackChangeFinalMemo",
+  "setID": ""
+ },
+ "ViewOptionTrackChangeInfo": {
+  "actID": "ViewOptionTrackChangeInfo",
+  "setID": ""
+ },
+ "ViewOptionTrackChangeInline": {
+  "actID": "ViewOptionTrackChangeInline",
+  "setID": ""
+ },
+ "ViewOptionTrackChangeInsertDelete": {
+  "actID": "ViewOptionTrackChangeInsertDelete",
+  "setID": ""
+ },
+ "ViewOptionTrackChangeOriginal": {
+  "actID": "ViewOptionTrackChangeOriginal",
+  "setID": ""
+ },
+ "ViewOptionTrackChangeOriginalMemo": {
+  "actID": "ViewOptionTrackChangeOriginalMemo",
+  "setID": ""
+ },
+ "ViewOptionTrackChangeShape": {
+  "actID": "ViewOptionTrackChangeShape",
+  "setID": ""
+ },
+ "ViewShowGrid": {
+  "actID": "ViewShowGrid",
+  "setID": "GridInfo"
+ },
+ "ViewTabButton": {
+  "actID": "ViewTabButton",
+  "setID": ""
+ },
+ "ViewZoom": {
+  "actID": "ViewZoom",
+  "setID": "ViewProperties"
+ },
+ "ViewZoomFitPage": {
+  "actID": "ViewZoomFitPage",
+  "setID": "ViewProperties"
+ },
+ "ViewZoomFitWidth": {
+  "actID": "ViewZoomFitWidth",
+  "setID": "ViewProperties"
+ },
+ "ViewZoomLock": {
+  "actID": "ViewZoomLock",
+  "setID": ""
+ },
+ "ViewZoomNormal": {
+  "actID": "ViewZoomNormal",
+  "setID": "ViewProperties"
+ },
+ "ViewZoomRibon": {
+  "actID": "ViewZoomRibon",
+  "setID": ""
+ },
+ "VoiceCommand": {
+  "actID": "VoiceCommand",
+  "setID": ""
+ },
+ "VtChartConverter": {
+  "actID": "VtChartConverter",
+  "setID": ""
+ },
+ "WSViewHncComm": {
+  "actID": "WSViewHncComm",
+  "setID": ""
+ },
+ "WindowAlignCascade": {
+  "actID": "WindowAlignCascade",
+  "setID": ""
+ },
+ "WindowAlignTileHorz": {
+  "actID": "WindowAlignTileHorz",
+  "setID": ""
+ },
+ "WindowAlignTileVert": {
+  "actID": "WindowAlignTileVert",
+  "setID": ""
+ },
+ "WindowList": {
+  "actID": "WindowList",
+  "setID": ""
+ },
+ "WindowMinimizeAll": {
+  "actID": "WindowMinimizeAll",
+  "setID": ""
+ },
+ "WindowNextPane": {
+  "actID": "WindowNextPane",
+  "setID": ""
+ },
+ "WindowNextTab": {
+  "actID": "WindowNextTab",
+  "setID": ""
+ },
+ "WindowPrevTab": {
+  "actID": "WindowPrevTab",
+  "setID": ""
+ },
+ "XMLCheckValidate": {
+  "actID": "XMLCheckValidate",
+  "setID": ""
+ },
+ "XMLCreateNode": {
+  "actID": "XMLCreateNode",
+  "setID": "FileXMLSchema"
+ },
+ "XMLDeleteFieldGroup": {
+  "actID": "XMLDeleteFieldGroup",
+  "setID": ""
+ },
+ "XMLDeleteNode": {
+  "actID": "XMLDeleteNode",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel0": {
+  "actID": "XMLDeleteNodeLevel0",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel1": {
+  "actID": "XMLDeleteNodeLevel1",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel2": {
+  "actID": "XMLDeleteNodeLevel2",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel3": {
+  "actID": "XMLDeleteNodeLevel3",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel4": {
+  "actID": "XMLDeleteNodeLevel4",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel5": {
+  "actID": "XMLDeleteNodeLevel5",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel6": {
+  "actID": "XMLDeleteNodeLevel6",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel7": {
+  "actID": "XMLDeleteNodeLevel7",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel8": {
+  "actID": "XMLDeleteNodeLevel8",
+  "setID": ""
+ },
+ "XMLDeleteNodeLevel9": {
+  "actID": "XMLDeleteNodeLevel9",
+  "setID": ""
+ },
+ "XMLRepeatFieldGroup": {
+  "actID": "XMLRepeatFieldGroup",
+  "setID": ""
+ },
+ "XMLRepeatNode": {
+  "actID": "XMLRepeatNode",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel0": {
+  "actID": "XMLRepeatNodeLevel0",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel1": {
+  "actID": "XMLRepeatNodeLevel1",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel2": {
+  "actID": "XMLRepeatNodeLevel2",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel3": {
+  "actID": "XMLRepeatNodeLevel3",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel4": {
+  "actID": "XMLRepeatNodeLevel4",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel5": {
+  "actID": "XMLRepeatNodeLevel5",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel6": {
+  "actID": "XMLRepeatNodeLevel6",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel7": {
+  "actID": "XMLRepeatNodeLevel7",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel8": {
+  "actID": "XMLRepeatNodeLevel8",
+  "setID": ""
+ },
+ "XMLRepeatNodeLevel9": {
+  "actID": "XMLRepeatNodeLevel9",
+  "setID": ""
+ },
+ "XMLSetFieldGroup": {
+  "actID": "XMLSetFieldGroup",
+  "setID": ""
+ },
+ "XMLShowFieldGroup": {
+  "actID": "XMLShowFieldGroup",
+  "setID": ""
+ },
+ "XMLTemplate": {
+  "actID": "XMLTemplate",
+  "setID": "FileXMLSchema"
+ },
+ "XMLUnsetFieldGroup": {
+  "actID": "XMLUnsetFieldGroup",
+  "setID": ""
+ },
+ "XMLUpdateNode": {
+  "actID": "XMLUpdateNode",
+  "setID": ""
+ }
+}
